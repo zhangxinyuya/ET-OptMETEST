@@ -1,0 +1,1761 @@
+Unnamed: 0	reaction	equ	g0	Is Balanced
+rxn00001_c	rxn00001_c	cpd00001_c + cpd00012_c --> 2 cpd00009_c + cpd00067_c	-15.74	True
+rxn00002_c	rxn00002_c	cpd00001_c + 3 cpd00067_c + cpd00742_c --> 2 cpd00011_c + 2 cpd00013_c	-69.28147526646859	True
+rxn00006_c	rxn00006_c	2 cpd00025_c --> 2 cpd00001_c + cpd00007_c	-192.0	True
+rxn00011_c	rxn00011_c	cpd00020_c + cpd00056_c + cpd00067_c --> cpd00011_c + cpd03049_c	-24.58265659438121	True
+rxn00015_c	rxn00015_c	2 cpd00118_c --> cpd00013_c + cpd03802_c	-5.160896179636147	True
+rxn00029_c	rxn00029_c	2 cpd00338_c --> 2 cpd00001_c + cpd00067_c + cpd00689_c	-104.0	True
+rxn00048_c	rxn00048_c	cpd00067_c + 2 cpd02656_c --> cpd00220_c + cpd02882_c	-95.0	True
+rxn00055_c	rxn00055_c	3 cpd00017_c --> 4 cpd00067_c + 3 cpd00147_c + cpd03158_c	-10.695099853058878	True
+rxn00060_c	rxn00060_c	cpd00001_c + 4 cpd00689_c --> 4 cpd00013_c + cpd00755_c	-121.0	True
+rxn00062_c	rxn00062_c	cpd00001_c + cpd00002_c --> cpd00008_c + cpd00009_c + cpd00067_c	-30.61	True
+rxn00065_c	rxn00065_c	cpd00002_c --> cpd00012_c + cpd00067_c + cpd00446_c	-1.2	True
+rxn00076_c	rxn00076_c	cpd00001_c + cpd00003_c --> cpd00018_c + 2 cpd00067_c + cpd00355_c	-42.5	True
+rxn00077_c	rxn00077_c	cpd00002_c + cpd00003_c --> cpd00006_c + cpd00008_c + cpd00067_c	-13.1	True
+rxn00085_c	rxn00085_c	cpd00006_c + 2 cpd00023_c --> cpd00005_c + cpd00024_c + cpd00053_c + cpd00067_c	-47.4	True
+rxn00096_c	rxn00096_c	cpd00009_c + cpd00067_c + cpd00924_c --> cpd00002_c + cpd00008_c	-15.236031394451174	True
+rxn00097_c	rxn00097_c	cpd00002_c + cpd00018_c + cpd00067_c --> 2 cpd00008_c	0.52	True
+rxn00100_c	rxn00100_c	cpd00002_c + cpd00655_c --> cpd00008_c + cpd00010_c + cpd00067_c	3.1	True
+rxn00101_c	rxn00101_c	cpd00001_c + 2 cpd00067_c + cpd00073_c --> cpd00011_c + 2 cpd00013_c	-20.375542792001795	True
+rxn00102_c	rxn00102_c	cpd00067_c + cpd00242_c --> cpd00001_c + cpd00011_c	-9.5	True
+rxn00105_c_num1	rxn00105_c_num1	cpd00002_c + cpd00355_c --> cpd00003_c + cpd00012_c	-2.930798136238483	True
+rxn00107_c	rxn00107_c	cpd00002_c + cpd07923_c --> cpd00008_c + cpd07924_c	5.40687448622225	True
+rxn00113_c	rxn00113_c	cpd00001_c + 2 cpd00002_c + cpd00011_c + cpd00013_c --> 2 cpd00008_c + cpd00009_c + 3 cpd00067_c + cpd00146_c	-16.26195884671182	True
+rxn00117_c	rxn00117_c	cpd00002_c + cpd00014_c --> cpd00008_c + cpd00062_c	0.5	True
+rxn00119_c_num1	rxn00119_c_num1	cpd00002_c + cpd00067_c + cpd00091_c --> cpd00008_c + cpd00014_c	-0.9308169329258362	True
+rxn00122_c	rxn00122_c	cpd00002_c + cpd00050_c --> cpd00012_c + cpd00015_c	-9.0	True
+rxn00124_c	rxn00124_c	cpd00002_c + cpd00215_c --> cpd00008_c + cpd00016_c + cpd00067_c	-18.3	True
+rxn00131_c	rxn00131_c	cpd00001_c + cpd00018_c --> cpd00101_c + cpd00128_c	-17.945999009527327	True
+rxn00132_c	rxn00132_c	cpd00001_c + cpd00018_c --> cpd00009_c + cpd00182_c	-14.7	True
+rxn00134_c	rxn00134_c	cpd00002_c + cpd00182_c --> cpd00008_c + cpd00018_c + cpd00067_c	-15.9	True
+rxn00137_c	rxn00137_c	cpd00001_c + cpd00045_c --> cpd00009_c + cpd00018_c	-7.2	True
+rxn00138_c	rxn00138_c	cpd00002_c + cpd00013_c + cpd00638_c --> cpd00003_c + cpd00012_c + cpd00018_c + 2 cpd00067_c	-27.0	True
+rxn00139_c	rxn00139_c	cpd00103_c + cpd00128_c --> cpd00012_c + cpd00018_c + cpd00067_c	-24.4	True
+rxn00141_c	rxn00141_c	cpd00001_c + cpd00019_c --> cpd00135_c + cpd00182_c	36.61630863257031	True
+rxn00143_c	rxn00143_c	cpd00001_c + cpd00019_c --> cpd00128_c + cpd02227_c	-16.4	True
+rxn00147_c	rxn00147_c	cpd00001_c + cpd00002_c + cpd00020_c --> cpd00009_c + cpd00018_c + cpd00061_c + 3 cpd00067_c	-6.6	True
+rxn00148_c_num1	rxn00148_c_num1	cpd00008_c + cpd00061_c + cpd00067_c --> cpd00002_c + cpd00020_c	-22.82030816994009	True
+rxn00149_c	rxn00149_c	cpd00001_c + cpd00003_c + cpd00428_c --> cpd00004_c + cpd00020_c + 2 cpd00067_c	-40.59862639169856	True
+rxn00154_c	rxn00154_c	cpd00003_c + cpd00010_c + cpd00020_c --> cpd00004_c + cpd00011_c + cpd00022_c	-34.4	True
+rxn00161_c	rxn00161_c	cpd00006_c + cpd00130_c --> cpd00005_c + cpd00011_c + cpd00020_c	12.4	True
+rxn00162_c	rxn00162_c	cpd00032_c + cpd00067_c --> cpd00011_c + cpd00020_c	-13.3	True
+rxn00165_c_num1	rxn00165_c_num1	cpd00054_c --> cpd00013_c + cpd00020_c	-30.18156319165516	True
+rxn00173_c	rxn00173_c	cpd00009_c + cpd00022_c --> cpd00010_c + cpd00196_c	9.4	True
+rxn00178_c_num1	rxn00178_c_num1	2 cpd00022_c --> cpd00010_c + cpd00279_c	24.94642271517841	True
+rxn00179_c	rxn00179_c	cpd00002_c + cpd00023_c --> cpd00008_c + cpd02097_c	29.5	True
+rxn00181_c	rxn00181_c	cpd00002_c + cpd00023_c --> cpd00008_c + cpd03413_c	21.65258630146269	True
+rxn00184a_c	rxn00184a_c	cpd00005_c + cpd00013_c + cpd00024_c + cpd00067_c --> cpd00001_c + cpd00006_c + cpd00023_c	-33.2	True
+rxn00184b_c	rxn00184b_c	cpd00001_c + cpd00006_c + cpd00023_c --> cpd00005_c + cpd00013_c + cpd00024_c + cpd00067_c	-33.2	True
+rxn00186_c	rxn00186_c	2 cpd00001_c + cpd00002_c + cpd01293_c --> cpd00008_c + cpd00009_c + cpd00023_c + cpd00067_c	-8.931616703642192	True
+rxn00187_c_num1	rxn00187_c_num1	cpd00002_c + cpd00013_c + cpd00023_c --> cpd00008_c + cpd00009_c + cpd00053_c + cpd00067_c	-16.980582271217088	True
+rxn00189_c	rxn00189_c	cpd00001_c + cpd00053_c --> cpd00013_c + cpd00023_c	-14.2	True
+rxn00191_c	rxn00191_c	cpd00024_c + cpd00035_c --> cpd00020_c + cpd00023_c	0.2	True
+rxn00192_c	rxn00192_c	cpd00022_c + cpd00023_c --> cpd00010_c + cpd00067_c + cpd00477_c	-26.2	True
+rxn00193_c_num1	rxn00193_c_num1	cpd00023_c --> cpd00186_c	0.5530691490337745	True
+rxn00196_c_num1	rxn00196_c_num1	cpd00001_c + cpd00006_c + cpd00340_c --> cpd00005_c + cpd00024_c + 2 cpd00067_c	-47.09017294854752	True
+rxn00198_c	rxn00198_c	cpd00006_c + cpd00260_c --> cpd00005_c + cpd00011_c + cpd00024_c	5.4	True
+rxn00205_c	rxn00205_c	cpd00025_c + 2 cpd00042_c --> 2 cpd00001_c + cpd00111_c	-308.4687472749954	True
+rxn00211_c_num1	rxn00211_c_num1	cpd00001_c + 2 cpd00003_c + cpd00026_c --> 2 cpd00004_c + 3 cpd00067_c + cpd00144_c	-34.6061779214524	True
+rxn00213_c_num1	rxn00213_c_num1	cpd00062_c + cpd00089_c --> cpd00012_c + cpd00026_c	0.335470583045776	True
+rxn00214_c_num1	rxn00214_c_num1	cpd00026_c --> cpd00043_c	1.274956798254948	True
+rxn00216_c_num1	rxn00216_c_num1	cpd00002_c + cpd00027_c --> cpd00008_c + cpd00067_c + cpd00079_c	-22.48161314109882	True
+rxn00225_c	rxn00225_c	cpd00002_c + cpd00029_c --> cpd00008_c + cpd00196_c	14.6	True
+rxn00229_c	rxn00229_c	cpd00007_c + cpd00159_c --> cpd00001_c + cpd00011_c + cpd00029_c	-496.1225255300602	True
+rxn00231_c	rxn00231_c	cpd00001_c + cpd03734_c --> cpd00013_c + cpd00029_c	-25.32305323095568	True
+rxn00237_c	rxn00237_c	cpd00002_c + cpd00031_c --> cpd00008_c + cpd00038_c	-2.2	True
+rxn00239_c	rxn00239_c	cpd00002_c + cpd00067_c + cpd00126_c --> cpd00008_c + cpd00031_c	-0.1	True
+rxn00241_c	rxn00241_c	cpd00001_c + cpd00038_c --> cpd00009_c + cpd00031_c + cpd00067_c	-28.4	True
+rxn00242_c	rxn00242_c	cpd00001_c + cpd00905_c --> cpd00012_c + cpd00031_c	-34.0	True
+rxn00247_c	rxn00247_c	cpd00002_c + cpd00032_c --> cpd00008_c + cpd00011_c + cpd00061_c	11.2	True
+rxn00248_c	rxn00248_c	cpd00003_c + cpd00130_c --> cpd00004_c + cpd00032_c + cpd00067_c	25.38	True
+rxn00250_c	rxn00250_c	cpd00002_c + cpd00020_c + cpd00242_c --> cpd00008_c + cpd00009_c + cpd00032_c + cpd00067_c	-9.246071291502377	True
+rxn00251_c	rxn00251_c	cpd00001_c + cpd00011_c + cpd00061_c --> cpd00009_c + cpd00032_c + cpd00067_c	-41.8	True
+rxn00256_c	rxn00256_c	cpd00001_c + cpd00022_c + cpd00032_c --> cpd00010_c + cpd00067_c + cpd00137_c	-40.0	True
+rxn00260_c	rxn00260_c	cpd00024_c + cpd00041_c --> cpd00023_c + cpd00032_c	2.8	True
+rxn00269_c	rxn00269_c	cpd00001_c + cpd00007_c + cpd00033_c --> cpd00013_c + cpd00025_c + cpd00040_c	-87.5140164714691	True
+rxn00288_c	rxn00288_c	cpd00015_c + cpd00036_c --> cpd00106_c + cpd00982_c	44.67650655943294	True
+rxn00290_c	rxn00290_c	cpd00078_c + cpd00142_c --> cpd00036_c + cpd00279_c	12.606372068501742	True
+rxn00292_c	rxn00292_c	cpd00001_c + cpd00037_c --> cpd00014_c + cpd00492_c	-25.173233179353588	True
+rxn00293_c_num1	rxn00293_c_num1	cpd00062_c + cpd02611_c --> cpd00012_c + cpd00037_c	-6.506602885773191	True
+rxn00295_c_num1	rxn00295_c_num1	cpd00037_c --> cpd00175_c	1.5270342928990883	True
+rxn00297_c	rxn00297_c	cpd00037_c --> cpd00861_c	1.532923692849863	True
+rxn00299_c	rxn00299_c	cpd00001_c + cpd00038_c --> cpd00047_c + 2 cpd00067_c + cpd02978_c	-63.0	True
+rxn00300_c	rxn00300_c	3 cpd00001_c + cpd00038_c --> cpd00012_c + cpd00047_c + 3 cpd00067_c + cpd00957_c	-89.06825832376308	True
+rxn00302_c	rxn00302_c	cpd00001_c + cpd00038_c --> cpd00067_c + cpd03518_c	5.348821838474578	True
+rxn00303_c_num1	rxn00303_c_num1	cpd00002_c + cpd00038_c --> cpd00018_c + 2 cpd00067_c + cpd02740_c	-21.25734264427922	True
+rxn00305_c	rxn00305_c	cpd00032_c + cpd00038_c --> cpd00011_c + cpd00031_c + cpd00061_c	13.18306077316818	True
+rxn00285_c	rxn00285_c	cpd00002_c + cpd00010_c + cpd00036_c --> cpd00008_c + cpd00009_c + cpd00078_c	1.8	True
+rxn00307_c	rxn00307_c	cpd00038_c --> cpd00012_c + cpd00067_c + cpd00697_c	-5.732138312330108	True
+rxn00313_c	rxn00313_c	cpd00067_c + cpd00516_c --> cpd00011_c + cpd00039_c	-14.0	True
+rxn00314_c	rxn00314_c	cpd00001_c + cpd00006_c + cpd02490_c --> cpd00005_c + cpd00020_c + cpd00039_c + cpd00067_c	34.31995071377821	True
+rxn00330_c	rxn00330_c	cpd00001_c + cpd00022_c + cpd00040_c --> cpd00010_c + cpd00067_c + cpd00130_c	-39.2	True
+rxn00336_c	rxn00336_c	cpd00260_c --> cpd00036_c + cpd00040_c	8.9	True
+rxn00337_c	rxn00337_c	cpd00002_c + cpd00041_c --> cpd00008_c + cpd01977_c	21.8	True
+rxn00340_c	rxn00340_c	cpd00002_c + cpd00013_c + cpd00041_c --> cpd00012_c + cpd00018_c + 2 cpd00067_c + cpd00132_c	-29.0	True
+rxn00342_c	rxn00342_c	cpd00001_c + cpd00132_c --> cpd00013_c + cpd00041_c	-17.3	True
+rxn00346_c	rxn00346_c	cpd00041_c + cpd00067_c --> cpd00011_c + cpd00085_c	-15.0	True
+rxn00347_c	rxn00347_c	cpd00041_c --> cpd00013_c + cpd00106_c	13.8	True
+rxn00350_c	rxn00350_c	cpd00001_c + cpd00042_c --> cpd00023_c + cpd01017_c	-2.055493649931577	True
+rxn00360_c_num1	rxn00360_c_num1	cpd00001_c + cpd00044_c --> cpd00009_c + cpd00193_c	-11.783812199995168	True
+rxn00363_c	rxn00363_c	cpd00001_c + cpd00046_c --> cpd00009_c + cpd00367_c	-14.1	True
+rxn00364_c	rxn00364_c	cpd00002_c + cpd00046_c + cpd00067_c --> cpd00008_c + cpd00096_c	2.0	True
+rxn00371_c	rxn00371_c	cpd00003_c + cpd00047_c --> cpd00004_c + cpd00011_c	-14.552688795648749	True
+rxn00374_c	rxn00374_c	cpd00001_c + cpd00378_c --> cpd00013_c + cpd00047_c	-29.663272801214163	True
+rxn00376_c	rxn00376_c	cpd00001_c + cpd00769_c --> cpd00041_c + cpd00047_c	-31.215869756936087	True
+rxn00379_c	rxn00379_c	cpd00002_c + cpd00048_c --> cpd00012_c + cpd00193_c	46.74448295781315	True
+rxn00391_c	rxn00391_c	cpd00001_c + cpd00050_c --> cpd00009_c + cpd00067_c + cpd00220_c	-13.90341639667372	True
+rxn00392_c	rxn00392_c	cpd00002_c + cpd00220_c --> cpd00008_c + cpd00050_c	-16.5	True
+rxn00409_c	rxn00409_c	cpd00002_c + cpd00096_c --> cpd00008_c + cpd00052_c	0.3	True
+rxn00410_c	rxn00410_c	cpd00002_c + cpd00013_c + cpd00062_c --> cpd00008_c + cpd00009_c + cpd00052_c + 2 cpd00067_c	-7.120224288461031	True
+rxn00412_c	rxn00412_c	cpd00001_c + cpd00002_c + cpd00053_c + cpd00062_c --> cpd00008_c + cpd00009_c + cpd00023_c + cpd00052_c + 2 cpd00067_c	-24.4	True
+rxn00414_c	rxn00414_c	cpd00001_c + 2 cpd00002_c + cpd00053_c + cpd00242_c --> 2 cpd00008_c + cpd00009_c + cpd00023_c + 2 cpd00067_c + cpd00146_c	-17.5	True
+rxn00416_c	rxn00416_c	cpd00001_c + cpd00002_c + cpd00041_c + cpd00053_c --> cpd00012_c + cpd00018_c + cpd00023_c + 2 cpd00067_c + cpd00132_c	-43.0	True
+rxn00420_c	rxn00420_c	cpd00001_c + cpd00738_c --> cpd00009_c + cpd00054_c	-10.56	True
+rxn00423_c	rxn00423_c	cpd00022_c + cpd00054_c --> cpd00010_c + cpd00722_c	-6.0	True
+rxn00427_c	rxn00427_c	cpd00025_c + cpd00116_c --> 2 cpd00001_c + cpd00055_c	-290.74519542624665	True
+rxn00428_c	rxn00428_c	cpd00001_c + cpd01530_c --> cpd00055_c + 2 cpd00067_c + 2 cpd00099_c	-92.45895769076814	True
+rxn00433_c	rxn00433_c	cpd00001_c + cpd00007_c + cpd00183_c --> cpd00025_c + cpd00033_c + cpd00055_c	-71.0	True
+rxn00438_c	rxn00438_c	cpd00002_c + cpd00793_c --> cpd00008_c + cpd00056_c	-50.0	True
+rxn00441_c	rxn00441_c	cpd00024_c + cpd00056_c + cpd00067_c --> cpd00011_c + cpd03189_c	-23.169178470151223	True
+rxn00459_c	rxn00459_c	cpd00482_c --> cpd00001_c + cpd00061_c	-3.89	True
+rxn00461_c	rxn00461_c	cpd00037_c + cpd00061_c --> cpd00009_c + cpd02820_c	-14.0	True
+rxn00471_c	rxn00471_c	cpd00064_c --> cpd00013_c + cpd00129_c	-22.84791034468856	True
+rxn00474_c	rxn00474_c	cpd00054_c + cpd00359_c --> cpd00001_c + cpd00065_c	-50.6	True
+rxn00479_c	rxn00479_c	cpd00007_c + cpd00065_c --> cpd00001_c + cpd00011_c + cpd01747_c	-478.1807650690714	True
+rxn00484_c	rxn00484_c	cpd00065_c + cpd00067_c --> cpd00011_c + cpd00318_c	-31.322201620073628	True
+rxn00489_c	rxn00489_c	cpd00007_c + cpd00066_c --> cpd00001_c + cpd00011_c + cpd01647_c	-470.2129196432807	True
+rxn00493_c	rxn00493_c	cpd00024_c + cpd00066_c --> cpd00023_c + cpd00143_c	0.4	True
+rxn00499_c_num1	rxn00499_c_num1	cpd00003_c + cpd00159_c --> cpd00004_c + cpd00020_c + cpd00067_c	21.74970536310784	True
+rxn00500_c_num1	rxn00500_c_num1	cpd00003_c + cpd00221_c --> cpd00004_c + cpd00020_c + cpd00067_c	18.672379714825496	True
+rxn00501_c_num1	rxn00501_c_num1	cpd00003_c + cpd00010_c + cpd00191_c --> cpd00004_c + cpd00011_c + cpd00022_c	-25.374200548310228	True
+rxn00503_c	rxn00503_c	2 cpd00001_c + cpd00003_c + cpd02431_c --> cpd00004_c + cpd00023_c + cpd00067_c	-15.0	True
+rxn00506_c	rxn00506_c	cpd00001_c + cpd00003_c + cpd00071_c --> cpd00004_c + cpd00029_c + 2 cpd00067_c	-58.1	True
+rxn00508_c_num1	rxn00508_c_num1	cpd00001_c + cpd00003_c + cpd00199_c --> cpd00004_c + cpd00036_c + 2 cpd00067_c	-46.30471225304976	True
+rxn00514_c	rxn00514_c	cpd00001_c + cpd00068_c --> cpd00012_c + 2 cpd00067_c + cpd00114_c	-22.7	True
+rxn00515_c	rxn00515_c	cpd00002_c + cpd00090_c --> cpd00008_c + cpd00068_c	1.3234541595996916	True
+rxn00527_c	rxn00527_c	cpd00024_c + cpd00069_c --> cpd00023_c + cpd00868_c	-0.1	True
+rxn00529_c	rxn00529_c	cpd00067_c + cpd00069_c --> cpd00011_c + cpd00374_c	-65.84114197689902	True
+rxn00533_c	rxn00533_c	cpd00002_c + cpd00022_c + cpd00242_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00070_c	-10.1	True
+rxn00539_c	rxn00539_c	cpd00162_c --> cpd00013_c + cpd00071_c	-36.04170409803922	True
+rxn00543_c_num1	rxn00543_c_num1	cpd00003_c + cpd00363_c --> cpd00004_c + cpd00067_c + cpd00071_c	16.09906228364207	True
+rxn00545_c	rxn00545_c	cpd00002_c + cpd00072_c --> cpd00008_c + cpd00067_c + cpd00290_c	-18.9	True
+rxn00549_c	rxn00549_c	cpd00001_c + cpd00290_c --> cpd00009_c + cpd00072_c	-11.7	True
+rxn00550_c	rxn00550_c	cpd00001_c + cpd00503_c --> cpd00009_c + cpd00072_c	-34.75713229997717	True
+rxn00552_c	rxn00552_c	cpd00001_c + cpd00288_c --> cpd00013_c + cpd00072_c	2.1	True
+rxn00555_c	rxn00555_c	cpd00053_c + cpd00072_c --> cpd00023_c + cpd00288_c	-16.3	True
+rxn00558_c	rxn00558_c	cpd00079_c --> cpd00072_c	2.5	True
+rxn00559_c_num1	rxn00559_c_num1	cpd00235_c --> cpd00072_c	-1.1962086438504684	True
+rxn00566_c	rxn00566_c	cpd00001_c + cpd00084_c --> cpd00013_c + cpd00020_c + cpd00067_c + cpd00239_c	-9.325374503797171	True
+rxn00584_c	rxn00584_c	cpd00003_c + cpd03762_c --> cpd00004_c + cpd00011_c + cpd00077_c	-91.41207212918609	True
+rxn00586_c	rxn00586_c	cpd00005_c + cpd00007_c + cpd00067_c + cpd00127_c --> cpd00001_c + cpd00006_c + cpd00077_c	-437.7367335651524	True
+rxn00587_c	rxn00587_c	cpd00007_c + cpd00077_c --> cpd00067_c + cpd00518_c	-264.1999460578156	True
+rxn00588_c	rxn00588_c	cpd00007_c + cpd00077_c --> 2 cpd00067_c + cpd01630_c	-319.04536681837175	True
+rxn00598_c	rxn00598_c	cpd00022_c + cpd00078_c --> cpd00010_c + cpd01507_c	27.97288690679602	True
+rxn00599_c	rxn00599_c	cpd00033_c + cpd00067_c + cpd00078_c --> cpd00010_c + cpd00011_c + cpd00338_c	17.439772558487903	True
+rxn00602_c	rxn00602_c	cpd00078_c --> cpd00891_c	8.8	True
+rxn00604_c	rxn00604_c	cpd00006_c + cpd00079_c --> cpd00005_c + cpd00067_c + cpd00911_c	-7.6	True
+rxn00605_c	rxn00605_c	cpd00026_c + cpd00079_c --> cpd00014_c + cpd00523_c	-19.4	True
+rxn00606_c	rxn00606_c	cpd00001_c + cpd00523_c --> cpd00027_c + cpd00079_c	-9.529285918106666	True
+rxn00610_c	rxn00610_c	cpd00001_c + cpd00080_c --> cpd00009_c + cpd00100_c	-13.2	True
+rxn00612_c_num1	rxn00612_c_num1	cpd00006_c + cpd00080_c --> cpd00005_c + cpd00067_c + cpd00095_c	20.52381059558803	True
+rxn00615_c	rxn00615_c	cpd00002_c + cpd00100_c --> cpd00008_c + cpd00067_c + cpd00080_c	-17.4	True
+rxn00623_c	rxn00623_c	3 cpd00005_c + 3 cpd00067_c + cpd00081_c --> 3 cpd00001_c + 3 cpd00006_c + cpd00239_c	-101.68843293244556	True
+rxn00629_c	rxn00629_c	cpd00003_c + cpd00314_c --> cpd00004_c + cpd00067_c + cpd00082_c	4.912562959741081	True
+rxn00641_c	rxn00641_c	cpd00038_c + cpd00485_c --> cpd00012_c + cpd00083_c	-8.23991428223826	True
+rxn00642_c	rxn00642_c	cpd00083_c --> cpd00001_c + cpd00900_c	-55.40880020092857	True
+rxn00647_c	rxn00647_c	cpd00024_c + cpd00084_c --> cpd00023_c + cpd00706_c	-16.981522369961596	True
+rxn00649_c	rxn00649_c	cpd00239_c + cpd00722_c --> cpd00029_c + cpd00084_c	-51.0	True
+rxn00650_c_num1	rxn00650_c_num1	cpd00001_c + cpd01017_c --> cpd00033_c + cpd00084_c	8.337267658689882	True
+rxn00653_c	rxn00653_c	cpd00004_c + 2 cpd00067_c + cpd00085_c --> cpd00001_c + cpd00003_c + cpd01504_c	50.236147939202	True
+rxn00655_c	rxn00655_c	cpd00001_c + cpd00003_c + cpd01489_c --> cpd00004_c + cpd00020_c + cpd00067_c + cpd00085_c	28.770648014771385	True
+rxn00658_c	rxn00658_c	cpd00001_c + cpd00788_c --> cpd00029_c + cpd00085_c	-13.347027753321072	True
+rxn00670_c	rxn00670_c	cpd00009_c + cpd00086_c --> cpd00010_c + cpd01844_c	20.55154324990869	True
+rxn00671_c_num1	rxn00671_c_num1	cpd00003_c + cpd00010_c + cpd00287_c --> cpd00004_c + cpd00011_c + cpd00086_c	-30.154306471214568	True
+rxn00676_c	rxn00676_c	cpd00022_c + cpd00086_c --> cpd00010_c + cpd02124_c	31.166174177044013	True
+rxn00679_c_num1	rxn00679_c_num1	cpd00001_c + cpd00032_c + cpd00086_c --> cpd00010_c + cpd00067_c + cpd01501_c	-42.42408518636768	True
+rxn00686_c	rxn00686_c	cpd00006_c + cpd00087_c --> cpd00005_c + cpd00067_c + cpd00330_c	-18.1	True
+rxn00692_c	rxn00692_c	cpd00001_c + cpd00033_c + cpd00125_c --> cpd00054_c + cpd00087_c	4.827547490422148	True
+rxn00693_c_num1	rxn00693_c_num1	cpd00135_c + cpd00345_c --> cpd00060_c + cpd00087_c	-5.120604874349397	True
+rxn00695_c	rxn00695_c	cpd00002_c + cpd00089_c --> cpd00012_c + cpd00387_c	-8.7	True
+rxn00703_c	rxn00703_c	2 cpd00009_c + cpd00179_c --> cpd00001_c + 2 cpd00089_c	18.77596910906152	True
+rxn00704_c	rxn00704_c	cpd00079_c --> cpd00089_c	-7.4	True
+rxn00707_c	rxn00707_c	cpd00068_c + cpd00367_c --> cpd00046_c + cpd00067_c + cpd00090_c	-19.10356666276596	True
+rxn00708_c	rxn00708_c	cpd00001_c + cpd00091_c --> cpd00009_c + cpd00249_c	-9.0	True
+rxn00710_c	rxn00710_c	cpd00067_c + cpd00810_c --> cpd00011_c + cpd00091_c	-22.0	True
+rxn00711_c	rxn00711_c	cpd00092_c + cpd00103_c --> cpd00012_c + cpd00067_c + cpd00091_c	-24.0	True
+rxn00717_c	rxn00717_c	cpd00001_c + cpd00067_c + cpd00307_c --> cpd00013_c + cpd00092_c	-27.44904394507921	True
+rxn00721_c	rxn00721_c	cpd00002_c + cpd00093_c --> cpd00012_c + cpd00067_c + cpd02102_c	809.658375657882	True
+rxn00727_c	rxn00727_c	cpd00053_c + cpd00216_c --> cpd00020_c + cpd00023_c + cpd00067_c + cpd00093_c	-111.0	True
+rxn00730_c_num1	rxn00730_c_num1	cpd00070_c + cpd00093_c --> cpd00010_c + cpd02014_c	-18.04435216492641	True
+rxn00735_c	rxn00735_c	cpd00004_c + cpd00011_c + cpd00094_c --> cpd00003_c + cpd03593_c	2.7745438301099057	True
+rxn00737_c	rxn00737_c	cpd00161_c --> cpd00013_c + cpd00094_c	-24.0	True
+rxn00741_c_num1	rxn00741_c_num1	cpd00003_c + cpd03561_c --> cpd00004_c + cpd00067_c + cpd00094_c	10.531922202969554	True
+rxn00743_c	rxn00743_c	cpd00001_c + cpd00095_c --> cpd00009_c + cpd00157_c	-14.626256236054076	True
+rxn00747_c	rxn00747_c	cpd00102_c --> cpd00095_c	5.7	True
+rxn00770_c	rxn00770_c	cpd00002_c + cpd00101_c --> cpd00018_c + cpd00067_c + cpd00103_c	-6.313045532063086	True
+rxn00772_c_num1	rxn00772_c_num1	cpd00002_c + cpd00105_c --> cpd00008_c + cpd00067_c + cpd00101_c	-29.06702875943	True
+rxn00775_c	rxn00775_c	cpd00001_c + cpd00251_c --> cpd00018_c + 2 cpd00067_c + cpd00101_c	-33.1	True
+rxn00777_c	rxn00777_c	cpd00101_c --> cpd00171_c	2.1553935053147484	True
+rxn00778_c	rxn00778_c	cpd00475_c --> cpd00101_c	-11.474770980085792	True
+rxn00780_c_num1	rxn00780_c_num1	cpd00002_c + cpd00448_c --> cpd00008_c + cpd00067_c + cpd00102_c	-26.570583373123867	True
+rxn00781_c	rxn00781_c	cpd00003_c + cpd00009_c + cpd00102_c --> cpd00004_c + cpd00067_c + cpd00203_c	0.1	True
+rxn00784_c	rxn00784_c	cpd00510_c --> cpd00071_c + cpd00102_c	20.3	True
+rxn00785_c	rxn00785_c	cpd00072_c + cpd00102_c --> cpd00198_c + cpd00236_c	-10.5	True
+rxn00786_c	rxn00786_c	cpd00290_c --> cpd00095_c + cpd00102_c	23.7	True
+rxn00790_c	rxn00790_c	cpd00001_c + cpd00053_c + cpd00103_c --> cpd00012_c + cpd00023_c + cpd00067_c + cpd01982_c	-67.7	True
+rxn00791_c	rxn00791_c	cpd00093_c + cpd00103_c --> cpd00012_c + cpd00067_c + cpd02642_c	-65.0	True
+rxn00792_c	rxn00792_c	cpd00002_c + cpd00104_c --> cpd00012_c + cpd03517_c	1166.4486121329542	True
+rxn00797_c	rxn00797_c	cpd00001_c + cpd00249_c --> cpd00092_c + cpd00105_c	-11.54407214905899	True
+rxn00798_c	rxn00798_c	cpd00105_c --> cpd00258_c	2.6812164711619744	True
+rxn00799_c	rxn00799_c	cpd00001_c + cpd00106_c --> cpd00130_c	-3.43	True
+rxn00800_c	rxn00800_c	cpd02375_c --> cpd00018_c + cpd00106_c	32.28429232921671	True
+rxn00801_c	rxn00801_c	cpd00001_c + cpd01653_c --> cpd00020_c + cpd00067_c + cpd00106_c	-49.47663876259644	True
+rxn00802_c	rxn00802_c	cpd02152_c --> cpd00051_c + cpd00106_c	-9.0	True
+rxn00806_c	rxn00806_c	cpd00024_c + cpd00107_c --> cpd00023_c + cpd00200_c	0.3666910323242405	True
+rxn00808_c	rxn00808_c	cpd00002_c + cpd00108_c --> cpd00008_c + cpd00067_c + cpd00348_c	-18.35577073356194	True
+rxn00830_c	rxn00830_c	cpd00113_c --> cpd00202_c	-4.8	True
+rxn00831_c	rxn00831_c	cpd00001_c + cpd00114_c --> cpd00009_c + cpd00246_c	-5.6	True
+rxn00832_c	rxn00832_c	cpd00001_c + cpd00114_c --> cpd02884_c	20.0	True
+rxn00834_c	rxn00834_c	cpd00001_c + cpd00003_c + cpd00114_c --> cpd00004_c + cpd00067_c + cpd00497_c	15.0	True
+rxn00836_c	rxn00836_c	cpd00103_c + cpd00226_c --> cpd00012_c + cpd00067_c + cpd00114_c	-32.1	True
+rxn00837_c	rxn00837_c	cpd00005_c + 2 cpd00067_c + cpd00126_c --> cpd00006_c + cpd00013_c + cpd00114_c	262.1896047782943	True
+rxn00838_c	rxn00838_c	cpd00038_c + cpd00041_c + cpd00114_c --> cpd00009_c + cpd00031_c + 2 cpd00067_c + cpd02375_c	-3.8	True
+rxn00839_c	rxn00839_c	cpd00002_c + cpd00177_c --> cpd00008_c + cpd00115_c	2.5	True
+rxn00851_c	rxn00851_c	cpd00002_c + 2 cpd00117_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00731_c	-29.0	True
+rxn00856_c	rxn00856_c	cpd00024_c + cpd00118_c --> cpd00023_c + cpd00434_c	4.215609657520389	True
+rxn00863_c	rxn00863_c	cpd00001_c + cpd00003_c + cpd01324_c --> cpd00004_c + 2 cpd00067_c + cpd00119_c	-39.28181575752646	True
+rxn00866_c	rxn00866_c	cpd00067_c + cpd00119_c --> cpd00011_c + cpd00312_c	-25.718919805984	True
+rxn00868_c	rxn00868_c	cpd00004_c + cpd00067_c + cpd00650_c --> cpd00003_c + cpd00120_c	-48.71812824390463	True
+rxn00872_c	rxn00872_c	cpd00015_c + cpd00120_c --> cpd00650_c + cpd00982_c	36.0	True
+rxn00874_c_num1	rxn00874_c_num1	cpd00022_c + cpd00120_c --> cpd00010_c + cpd03123_c	30.49316032459933	True
+rxn00879_c_num1	rxn00879_c_num1	cpd00003_c + cpd00121_c --> cpd00004_c + cpd00067_c + cpd00524_c	-7.538584345790923	True
+rxn00880_c	rxn00880_c	cpd00007_c + cpd00121_c --> cpd00001_c + cpd00067_c + cpd00164_c	-399.8981609201869	True
+rxn00881_c	rxn00881_c	cpd00001_c + cpd00867_c --> cpd00009_c + cpd00121_c	-23.1	True
+rxn00882_c	rxn00882_c	cpd00001_c + cpd02230_c --> cpd00009_c + cpd00121_c	-22.77564865631689	True
+rxn00883_c	rxn00883_c	cpd00001_c + cpd02484_c --> cpd00009_c + cpd00121_c	-22.77564865631689	True
+rxn00902_c	rxn00902_c	cpd00001_c + cpd00022_c + cpd00123_c --> cpd00010_c + cpd00067_c + cpd01646_c	-27.0	True
+rxn00903_c	rxn00903_c	cpd00024_c + cpd00156_c --> cpd00023_c + cpd00123_c	-1.4	True
+rxn00904_c	rxn00904_c	cpd00035_c + cpd00123_c --> cpd00020_c + cpd00156_c	-1.6	True
+rxn00907_c	rxn00907_c	cpd00006_c + cpd00125_c --> cpd00005_c + cpd00347_c	5.5	True
+rxn00912_c	rxn00912_c	cpd00001_c + cpd00123_c + cpd00125_c --> cpd00087_c + cpd00712_c	10.0	True
+rxn00913_c	rxn00913_c	cpd00001_c + cpd00126_c --> cpd00009_c + cpd00311_c	-7.8	True
+rxn00915_c_num1	rxn00915_c_num1	cpd00103_c + cpd00207_c --> cpd00012_c + cpd00067_c + cpd00126_c	-32.74084807315444	True
+rxn00920_c	rxn00920_c	cpd00001_c + cpd00697_c --> cpd00067_c + cpd00126_c	-37.929392957615846	True
+rxn00927_c_num1	rxn00927_c_num1	cpd00001_c + cpd00182_c --> cpd00105_c + cpd00128_c	-6.018877346794795	True
+rxn00931_c	rxn00931_c	cpd00005_c + 2 cpd00067_c + cpd02431_c --> cpd00006_c + cpd00129_c	-13.0	True
+rxn00938_c	rxn00938_c	cpd00001_c + cpd00133_c --> cpd00013_c + cpd00218_c	-2.5	True
+rxn00942_c	rxn00942_c	cpd00001_c + cpd02016_c --> cpd00067_c + cpd00105_c + cpd00133_c	-37.72858313902873	True
+rxn00946_c	rxn00946_c	cpd00015_c + cpd00134_c --> cpd00982_c + cpd03126_c	44.9	True
+rxn00947_c_num1	rxn00947_c_num1	cpd00002_c + cpd00010_c + cpd00214_c --> cpd00012_c + cpd00018_c + cpd00067_c + cpd00134_c	-15.09361786523823	True
+rxn00950_c	rxn00950_c	cpd00001_c + cpd00424_c --> cpd00013_c + cpd00020_c + cpd00135_c	2.331768671771499	True
+rxn00952_c	rxn00952_c	cpd00239_c + cpd00790_c --> cpd00029_c + cpd00135_c	-62.61123657666644	True
+rxn00957_c	rxn00957_c	cpd00001_c + cpd00003_c + cpd00484_c --> cpd00004_c + 2 cpd00067_c + cpd00136_c	-43.10631780719848	True
+rxn00958_c	rxn00958_c	cpd00001_c + cpd00006_c + cpd00484_c --> cpd00005_c + 2 cpd00067_c + cpd00136_c	-43.2287614402768	True
+rxn00962_c	rxn00962_c	cpd00005_c + cpd00007_c + cpd00067_c + cpd00136_c --> cpd00001_c + cpd00006_c + cpd00197_c	-437.72868553595015	True
+rxn00974_c	rxn00974_c	cpd00137_c --> cpd00001_c + cpd00331_c	9.2	True
+rxn00980_c	rxn00980_c	cpd00001_c + cpd00727_c --> cpd00009_c + cpd00139_c	-32.0	True
+rxn00985_c	rxn00985_c	cpd00002_c + cpd00141_c --> cpd00008_c + cpd01844_c	32.774277915177976	True
+rxn00988_c_num1	rxn00988_c_num1	cpd00002_c + cpd00010_c + cpd00142_c --> cpd00012_c + cpd00018_c + cpd00067_c + cpd00279_c	-3.5827510821809483	True
+rxn00992_c	rxn00992_c	cpd00003_c + cpd00797_c --> cpd00004_c + cpd00067_c + cpd00142_c	6.000324256155068	True
+rxn00999_c	rxn00999_c	cpd00007_c + cpd00143_c --> cpd00011_c + cpd03480_c	-506.64150442495134	True
+rxn01000_c	rxn01000_c	cpd00067_c + cpd00219_c --> cpd00001_c + cpd00011_c + cpd00143_c	-64.0	True
+rxn01014_c	rxn01014_c	cpd00067_c + cpd00145_c --> cpd00011_c + cpd00229_c	-15.74797176822142	True
+rxn01018_c	rxn01018_c	cpd00041_c + cpd00146_c --> cpd00009_c + cpd00067_c + cpd00343_c	-23.0	True
+rxn01019_c	rxn01019_c	cpd00064_c + cpd00146_c --> cpd00009_c + cpd00067_c + cpd00274_c	-31.6	True
+rxn01021_c	rxn01021_c	cpd00001_c + cpd00147_c --> cpd00128_c + cpd01981_c	-14.174304659115704	True
+rxn01025_c	rxn01025_c	cpd00001_c + cpd00067_c + cpd01587_c --> cpd00013_c + cpd00151_c	-20.925995243971755	True
+rxn01032_c	rxn01032_c	cpd00001_c + cpd00003_c + cpd00225_c --> cpd00004_c + 2 cpd00067_c + cpd00153_c	-47.73821383545075	True
+rxn01034_c	rxn01034_c	cpd00001_c + cpd03713_c --> cpd00009_c + cpd00067_c + cpd00153_c	-53.46326876394474	True
+rxn01053_c	rxn01053_c	cpd00001_c + cpd00003_c + cpd00334_c --> cpd00004_c + 2 cpd00067_c + cpd00159_c	-56.12542609707194	True
+rxn01069_c	rxn01069_c	cpd00001_c + cpd00809_c --> cpd00009_c + cpd00161_c	-29.7	True
+rxn01080_c	rxn01080_c	cpd00164_c --> cpd00672_c	0.6	True
+rxn01099_c	rxn01099_c	cpd00001_c + cpd00169_c --> cpd00009_c + cpd00223_c	-11.544332322832132	True
+rxn01100_c	rxn01100_c	cpd00008_c + cpd00203_c --> cpd00002_c + cpd00169_c	-19.5	True
+rxn01101_c	rxn01101_c	cpd00003_c + cpd00169_c --> cpd00004_c + cpd00067_c + cpd02069_c	29.5	True
+rxn01102_c_num1	rxn01102_c_num1	cpd00002_c + cpd00223_c --> cpd00008_c + cpd00067_c + cpd00169_c	-20.070579425001995	True
+rxn01104_c	rxn01104_c	cpd00001_c + cpd00853_c --> cpd00009_c + cpd00169_c	-11.42317430251373	True
+rxn01106_c	rxn01106_c	cpd00169_c --> cpd00482_c	4.3	True
+rxn01115_c	rxn01115_c	cpd00006_c + cpd00284_c --> cpd00005_c + cpd00011_c + cpd00171_c	10.4	True
+rxn01116_c	rxn01116_c	cpd00171_c --> cpd00198_c	-3.4	True
+rxn01119_c	rxn01119_c	cpd00043_c + cpd00286_c --> cpd00091_c + cpd02745_c	3.7925293019839046	True
+rxn01127_c	rxn01127_c	cpd00002_c + cpd00067_c + cpd00294_c --> cpd00008_c + cpd00177_c	3.223658226688258	True
+rxn01133_c	rxn01133_c	cpd00022_c + cpd00179_c --> cpd00010_c + cpd01441_c	-3.6438029477467353	True
+rxn01134_c	rxn01134_c	cpd00179_c --> cpd00794_c	-2.774906156507541	True
+rxn01137_c	rxn01137_c	cpd00001_c + cpd00067_c + cpd00182_c --> cpd00013_c + cpd00246_c	-18.69580703823129	True
+rxn01138_c	rxn01138_c	cpd00009_c + cpd00182_c --> cpd00128_c + cpd00475_c	8.003776621695295	True
+rxn01139_c	rxn01139_c	cpd00001_c + cpd00988_c --> cpd00009_c + cpd00182_c	-18.1	True
+rxn01140_c	rxn01140_c	cpd00001_c + 2 cpd00067_c + cpd00768_c --> cpd00011_c + cpd00013_c + cpd00183_c	-24.327929288866017	True
+rxn01145_c	rxn01145_c	cpd00001_c + cpd00298_c --> cpd00009_c + cpd00184_c	-9.4	True
+rxn01146_c	rxn01146_c	cpd00009_c + cpd00184_c --> cpd00151_c + cpd00509_c	7.561834412222879	True
+rxn01153_c_num1	rxn01153_c_num1	cpd00001_c + cpd00610_c --> cpd00013_c + cpd00186_c	-20.309837841180013	True
+rxn01157_c	rxn01157_c	cpd00186_c --> cpd00001_c + cpd01512_c	-8.238234604809122	True
+rxn01176_c	rxn01176_c	cpd02721_c --> cpd00095_c + cpd00191_c	3.562042569076425	True
+rxn01182_c	rxn01182_c	cpd00002_c + cpd00010_c + cpd00604_c --> cpd00012_c + cpd00018_c + cpd00067_c + cpd00192_c	-16.242937532237647	True
+rxn01184_c	rxn01184_c	cpd00002_c + cpd00193_c --> cpd00048_c + cpd00067_c + cpd00924_c	-46.29547107847543	True
+rxn01188_c	rxn01188_c	cpd01716_c --> cpd00001_c + cpd00197_c	-112.6748426296295	True
+rxn01192_c	rxn01192_c	cpd00007_c + cpd00197_c --> 2 cpd00067_c + cpd00856_c	-325.3699243724575	True
+rxn01199_c	rxn01199_c	cpd00002_c + cpd00259_c --> cpd00008_c + cpd00067_c + cpd00198_c	-25.5	True
+rxn01204_c	rxn01204_c	cpd00024_c + cpd00281_c --> cpd00023_c + cpd00199_c	6.2	True
+rxn01207_c	rxn01207_c	cpd00003_c + cpd00010_c + cpd00200_c --> cpd00004_c + cpd00011_c + cpd01882_c	-23.75242487885771	True
+rxn01208_c	rxn01208_c	cpd00067_c + cpd02605_c --> cpd00011_c + cpd00200_c	-13.0	True
+rxn01210_c	rxn01210_c	cpd00002_c + cpd00023_c + cpd00201_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd03524_c	-41.99874028205977	True
+rxn01211_c	rxn01211_c	cpd00001_c + cpd00347_c --> cpd00067_c + cpd00201_c	-5.0	True
+rxn01213_c_num1	rxn01213_c_num1	cpd00113_c + cpd00202_c --> cpd00012_c + cpd00067_c + cpd00283_c	-81.14961321571832	True
+rxn01216_c_num1	rxn01216_c_num1	cpd00203_c --> cpd00067_c + cpd00853_c	-41.977765350883374	True
+rxn01218_c	rxn01218_c	cpd00001_c + cpd00206_c --> cpd00009_c + cpd00654_c	-16.6	True
+rxn01219_c	rxn01219_c	cpd00002_c + cpd00067_c + cpd00206_c --> cpd00008_c + cpd00533_c	2.0	True
+rxn01222_c	rxn01222_c	cpd00001_c + cpd00356_c --> cpd00012_c + 2 cpd00067_c + cpd00206_c	-51.4	True
+rxn01226_c_num1	rxn01226_c_num1	cpd00001_c + cpd00311_c --> cpd00105_c + cpd00207_c	-2.583646663339209	True
+rxn01233_c	rxn01233_c	cpd00024_c + cpd00210_c --> cpd00023_c + cpd00460_c	0.95546381584208	True
+rxn01241_c	rxn01241_c	cpd00003_c + cpd00449_c --> cpd00004_c + cpd00067_c + cpd00213_c	-0.349034707943872	True
+rxn01243_c	rxn01243_c	cpd00024_c + cpd00067_c + cpd00213_c --> cpd00011_c + cpd00860_c	-20.041705977937625	True
+rxn01255_c	rxn01255_c	cpd00932_c --> cpd00009_c + cpd00216_c	-47.0	True
+rxn01256_c	rxn01256_c	cpd00216_c --> cpd00219_c	-49.0	True
+rxn01257_c	rxn01257_c	cpd00053_c + cpd00216_c --> cpd00023_c + cpd08210_c	-18.5	True
+rxn01258_c	rxn01258_c	cpd00216_c --> cpd00658_c	1.0	True
+rxn01265_c	rxn01265_c	cpd00012_c + cpd00873_c --> cpd00103_c + cpd00218_c	6.151377309972162	True
+rxn01268_c	rxn01268_c	cpd00003_c + cpd00219_c --> cpd00004_c + cpd00011_c + cpd00868_c	-11.0	True
+rxn01273_c	rxn01273_c	cpd00001_c + cpd00003_c + cpd00693_c --> cpd00004_c + 2 cpd00067_c + cpd00221_c	-47.25776542517772	True
+rxn01274_c_num1	rxn01274_c_num1	cpd00001_c + cpd02182_c --> cpd00042_c + cpd00067_c + cpd00221_c	-35.84074624910264	True
+rxn01275_c	rxn01275_c	cpd00002_c + cpd00222_c --> cpd00008_c + cpd00067_c + cpd00284_c	-12.7	True
+rxn01286_c	rxn01286_c	cpd00001_c + cpd00003_c + cpd00448_c --> cpd00004_c + 2 cpd00067_c + cpd00223_c	-60.86924507423007	True
+rxn01293_c	rxn01293_c	cpd00003_c + cpd00435_c --> cpd00004_c + cpd00067_c + cpd00225_c	15.43771794530454	True
+rxn01299_c_num1	rxn01299_c_num1	cpd00001_c + cpd00246_c --> cpd00105_c + cpd00226_c	-7.256588885893606	True
+rxn01300_c	rxn01300_c	cpd00002_c + cpd00227_c --> cpd00008_c + cpd00067_c + cpd00809_c	-40.0	True
+rxn01302_c	rxn01302_c	cpd00006_c + cpd00227_c --> cpd00005_c + cpd00067_c + cpd00346_c	18.6	True
+rxn01303_c	rxn01303_c	cpd00022_c + cpd00227_c --> cpd00010_c + cpd00790_c	-28.542621000857764	True
+rxn01322_c	rxn01322_c	cpd00232_c --> cpd00020_c + cpd00492_c	7.6	True
+rxn01329_c_num1	rxn01329_c_num1	cpd00235_c --> cpd00485_c	4.433306713787658	True
+rxn01332_c_num1	rxn01332_c_num1	cpd00001_c + cpd00061_c + cpd00236_c --> cpd00009_c + cpd02857_c	-74.3109253934976	True
+rxn01333_c	rxn01333_c	cpd00102_c + cpd00238_c --> cpd00072_c + cpd00236_c	-1.2	True
+rxn01345_c	rxn01345_c	cpd00001_c + cpd00349_c --> cpd00009_c + cpd00238_c	-12.524391590527102	True
+rxn01351_c	rxn01351_c	cpd00001_c + cpd00241_c --> cpd00012_c + 2 cpd00067_c + cpd00296_c	-52.5	True
+rxn01353_c	rxn01353_c	cpd00002_c + cpd00295_c --> cpd00008_c + cpd00241_c	1.7	True
+rxn01355_c	rxn01355_c	cpd00002_c + cpd00086_c + cpd00242_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00519_c	-6.996937820982339	True
+rxn01358_c	rxn01358_c	cpd00009_c + cpd00246_c --> cpd00226_c + cpd00475_c	6.766065082596526	True
+rxn01362_c_num1	rxn01362_c_num1	cpd00103_c + cpd00247_c --> cpd00012_c + cpd00067_c + cpd00810_c	0.7139768697754789	True
+rxn01363_c	rxn01363_c	cpd00003_c + cpd00248_c --> cpd00004_c + cpd00067_c + cpd00699_c	11.085248280489909	True
+rxn01365_c	rxn01365_c	cpd00001_c + cpd00587_c --> cpd00013_c + cpd00020_c + cpd00067_c + cpd00239_c	-0.1467087412429109	True
+rxn01367_c	rxn01367_c	cpd00001_c + cpd00989_c --> cpd00009_c + cpd00249_c	-13.9	True
+rxn01368_c	rxn01368_c	cpd00001_c + cpd00067_c + cpd00367_c --> cpd00013_c + cpd00249_c	-14.078442819658164	True
+rxn01374_c	rxn01374_c	cpd00001_c + cpd00585_c --> cpd00250_c	2.247192068445713	True
+rxn01388_c	rxn01388_c	cpd00001_c + cpd00331_c --> cpd00260_c	-1.4	True
+rxn01396_c	rxn01396_c	cpd00002_c + cpd00263_c --> cpd00008_c + cpd00067_c + cpd00478_c	-10.9	True
+rxn01418_c	rxn01418_c	cpd00003_c + cpd00010_c + cpd00269_c --> cpd00004_c + cpd00011_c + cpd00413_c	-33.22595841622956	True
+rxn01427_c	rxn01427_c	cpd00002_c + cpd00010_c + cpd00881_c --> cpd00012_c + cpd00018_c + cpd00067_c + cpd00270_c	-16.70021703571092	True
+rxn01434_c	rxn01434_c	cpd00002_c + cpd00041_c + cpd00274_c --> cpd00012_c + cpd00018_c + 2 cpd00067_c + cpd02152_c	-26.87795257112691	True
+rxn01445_c	rxn01445_c	cpd00001_c + cpd00296_c --> cpd00009_c + cpd00277_c	-14.4	True
+rxn01446_c	rxn01446_c	cpd00009_c + cpd00277_c --> cpd00207_c + cpd00509_c	16.440111002764525	True
+rxn01451_c	rxn01451_c	cpd00003_c + cpd00842_c --> cpd00004_c + cpd00067_c + cpd00279_c	12.052161376570211	True
+rxn01462_c	rxn01462_c	cpd00001_c + cpd00762_c --> cpd00073_c + cpd00281_c	-69.4246089792884	True
+rxn01465_c	rxn01465_c	cpd00001_c + cpd00282_c --> cpd00067_c + cpd00343_c	-8.4	True
+rxn01466_c_num1	rxn01466_c_num1	cpd00113_c + cpd00283_c --> cpd00012_c + cpd00067_c + cpd00350_c	-82.51831510483908	True
+rxn01476_c	rxn01476_c	cpd00001_c + cpd00911_c --> cpd00067_c + cpd00284_c	-26.3	True
+rxn01479_c	rxn01479_c	cpd00052_c + cpd00285_c --> cpd00012_c + cpd00444_c	-3.89958854156896	True
+rxn01484_c	rxn01484_c	cpd00001_c + cpd00293_c --> cpd00029_c + cpd00288_c	-10.0	True
+rxn01485_c	rxn01485_c	cpd03671_c --> cpd00288_c	-3.4	True
+rxn01486_c_num1	rxn01486_c_num1	cpd00113_c + cpd00350_c --> cpd00012_c + cpd00067_c + cpd00289_c	-82.51831510483862	True
+rxn01489_c	rxn01489_c	2 cpd00289_c --> cpd00012_c + cpd00067_c + cpd02168_c	-160.29753466550437	True
+rxn01492_c_num1	rxn01492_c_num1	cpd00002_c + cpd00802_c --> cpd00008_c + cpd00067_c + cpd00290_c	-21.571271544223407	True
+rxn01499_c	rxn01499_c	cpd00067_c + cpd00291_c --> cpd00011_c + cpd02357_c	-16.53870040647729	True
+rxn01506_c	rxn01506_c	cpd00293_c --> cpd02612_c	-2.2	True
+rxn01507_c	rxn01507_c	cpd00001_c + cpd00294_c --> cpd00009_c + cpd00438_c	-16.3	True
+rxn01508_c	rxn01508_c	cpd00002_c + cpd00438_c --> cpd00008_c + cpd00067_c + cpd00294_c	-15.566298619492612	True
+rxn01509_c	rxn01509_c	cpd00002_c + cpd00067_c + cpd00296_c --> cpd00008_c + cpd00295_c	5.3	True
+rxn01512_c	rxn01512_c	cpd00002_c + cpd00297_c --> cpd00008_c + cpd00357_c	0.8	False
+rxn01513_c	rxn01513_c	cpd00002_c + cpd00067_c + cpd00298_c --> cpd00008_c + cpd00297_c	-2.3	True
+rxn01517_c_num1	rxn01517_c_num1	cpd00002_c + cpd00067_c + cpd00299_c --> cpd00008_c + cpd00978_c	0.785488350440005	True
+rxn01519_c_num1	rxn01519_c_num1	cpd00001_c + cpd00358_c --> cpd00012_c + 2 cpd00067_c + cpd00299_c	-45.59681198733642	True
+rxn01520_c	rxn01520_c	cpd00125_c + cpd00299_c --> cpd00298_c + cpd00330_c	-45.3	True
+rxn01521_c	rxn01521_c	cpd00001_c + cpd00299_c --> cpd00009_c + cpd00412_c	-13.5	True
+rxn01530_c_num1	rxn01530_c_num1	cpd00003_c + cpd00365_c --> cpd00004_c + cpd00067_c + cpd00304_c	5.903137597015132	True
+rxn01537_c	rxn01537_c	cpd00001_c + cpd00305_c --> cpd00939_c + cpd02636_c	51.33339791153152	True
+rxn01539_c_num1	rxn01539_c_num1	cpd00009_c + cpd00067_c + cpd00305_c --> cpd00001_c + cpd00793_c	75.75281989671169	True
+rxn01544_c_num1	rxn01544_c_num1	cpd00103_c + cpd00309_c --> cpd00012_c + cpd00067_c + cpd00497_c	-27.82124782323609	True
+rxn01545_c_num1	rxn01545_c_num1	cpd00001_c + cpd01217_c --> cpd00105_c + cpd00309_c	-3.7238975632859592	True
+rxn01547_c	rxn01547_c	cpd00001_c + cpd00067_c + cpd00311_c --> cpd00013_c + cpd01217_c	272.7978555840811	True
+rxn01548_c	rxn01548_c	cpd00009_c + cpd00311_c --> cpd00207_c + cpd00475_c	11.439007305150938	True
+rxn01549_c	rxn01549_c	cpd00001_c + cpd03701_c --> cpd00009_c + cpd00311_c	-13.7	True
+rxn01555_c	rxn01555_c	cpd00007_c + cpd00067_c + cpd00313_c --> cpd00204_c + cpd02754_c	-224.79323203619688	True
+rxn01575_c	rxn01575_c	cpd00024_c + cpd00322_c --> cpd00023_c + cpd00508_c	6.2	True
+rxn01588_c	rxn01588_c	cpd00005_c + cpd00067_c + cpd00325_c --> cpd00006_c + cpd03260_c	-12.210421622293666	True
+rxn01602_c	rxn01602_c	cpd00006_c + cpd00330_c --> cpd00005_c + cpd00067_c + cpd00393_c	6.527788532341333	True
+rxn01603_c	rxn01603_c	cpd00002_c + cpd00023_c + cpd00683_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00330_c	-21.0	True
+rxn01608_c	rxn01608_c	cpd00004_c + cpd00067_c + cpd00574_c --> cpd00003_c + cpd00332_c	-15.657539227926236	True
+rxn01611_c	rxn01611_c	cpd00005_c + cpd00007_c + cpd00067_c + cpd00333_c --> cpd00001_c + cpd00006_c + cpd00604_c	-431.3074764500524	True
+rxn01634_c	rxn01634_c	cpd00067_c + cpd00515_c --> cpd00001_c + cpd00011_c + cpd00340_c	-45.59339858050163	True
+rxn01635_c	rxn01635_c	cpd00013_c + cpd00340_c --> cpd00001_c + cpd00067_c + cpd02626_c	-41.1941869249884	True
+rxn01636_c	rxn01636_c	cpd00023_c + cpd00342_c --> cpd00064_c + cpd00477_c	1.9373587437382864	True
+rxn01637_c_num1	rxn01637_c_num1	cpd00024_c + cpd00342_c --> cpd00023_c + cpd00918_c	-3.2730352114411403	True
+rxn01641_c	rxn01641_c	cpd00023_c + cpd00502_c --> cpd00087_c + cpd00344_c	12.312619371295284	True
+rxn01643_c	rxn01643_c	cpd00005_c + cpd00067_c + cpd01977_c --> cpd00006_c + cpd00009_c + cpd00346_c	-25.4	True
+rxn01644_c	rxn01644_c	cpd00020_c + cpd00346_c --> 2 cpd00001_c + cpd00067_c + cpd02120_c	-129.0	False
+rxn01646_c	rxn01646_c	cpd00009_c + cpd02016_c --> cpd00067_c + cpd00133_c + cpd00475_c	-23.705929170538752	True
+rxn01647_c	rxn01647_c	cpd00009_c + cpd03471_c --> cpd00067_c + cpd00218_c + cpd00475_c	4.628958928086036	True
+rxn01649_c	rxn01649_c	cpd00009_c + cpd01217_c --> cpd00309_c + cpd00475_c	10.298756405204188	True
+rxn01652_c	rxn01652_c	cpd00001_c + cpd00347_c --> cpd00067_c + cpd02197_c	-45.0	True
+rxn01653_c	rxn01653_c	cpd00002_c + cpd02197_c --> cpd00008_c + cpd00009_c + cpd00347_c	-75.88466300938569	True
+rxn01669_c	rxn01669_c	cpd00001_c + cpd00355_c --> cpd00013_c + cpd00873_c	1.9188863482945635	True
+rxn01670_c	rxn01670_c	cpd00001_c + cpd00355_c --> cpd00009_c + cpd02016_c	5.499735578335844	True
+rxn01671_c	rxn01671_c	cpd00002_c + cpd02016_c --> cpd00008_c + cpd00067_c + cpd00355_c	-37.11464732616969	True
+rxn01672_c	rxn01672_c	cpd00001_c + cpd00067_c + cpd00356_c --> cpd00013_c + cpd00358_c	-29.4	True
+rxn01673_c	rxn01673_c	cpd00002_c + cpd00533_c --> cpd00008_c + cpd00356_c	3.8	True
+rxn01675_c	rxn01675_c	cpd00089_c + cpd00357_c --> cpd00012_c + cpd00626_c	1.8	False
+rxn01678_c	rxn01678_c	cpd00002_c + cpd00978_c --> cpd00008_c + cpd00358_c	-1.1	True
+rxn01682_c	rxn01682_c	cpd02210_c --> cpd00102_c + cpd00359_c	19.17361496428697	True
+rxn01683_c	rxn01683_c	cpd00001_c + cpd01197_c --> cpd00105_c + cpd00360_c	4.053359858613533	True
+rxn01684_c	rxn01684_c	cpd00009_c + cpd01197_c --> cpd00360_c + cpd00475_c	18.07601382710357	True
+rxn01701_c	rxn01701_c	cpd00134_c + cpd00365_c --> cpd00010_c + cpd01691_c	-46.7140066036186	True
+rxn01704_c	rxn01704_c	cpd00001_c + cpd03454_c --> cpd00009_c + cpd00367_c	-22.6	True
+rxn01729_c_num1	rxn01729_c_num1	cpd00001_c + cpd00003_c + cpd02089_c --> cpd00004_c + 2 cpd00067_c + cpd00379_c	-49.583243666781584	True
+rxn01731_c	rxn01731_c	cpd00002_c + cpd00010_c + cpd00380_c --> cpd00008_c + cpd00009_c + cpd00416_c	-5.1086769387043205	True
+rxn01739_c	rxn01739_c	cpd00002_c + cpd00383_c --> cpd00008_c + cpd00067_c + cpd02030_c	-26.3	True
+rxn01740_c	rxn01740_c	cpd00006_c + cpd00383_c --> cpd00005_c + cpd00067_c + cpd01716_c	4.441674284677163	True
+rxn01740r_c	rxn01740r_c	cpd00005_c + cpd00067_c + cpd01716_c --> cpd00006_c + cpd00383_c	-4.441674284676765	True
+rxn01754_c	rxn01754_c	cpd00002_c + cpd00392_c --> cpd00008_c + cpd00067_c + cpd02203_c	-16.650975013845766	True
+rxn01790_c	rxn01790_c	cpd00006_c + cpd00408_c --> cpd00005_c + cpd00067_c + cpd00712_c	-15.2	True
+rxn01791_c	rxn01791_c	cpd00002_c + cpd00085_c + cpd00408_c --> cpd00012_c + cpd00018_c + 2 cpd00067_c + cpd00644_c	-47.0	True
+rxn01799_c	rxn01799_c	cpd00009_c + cpd00412_c --> cpd00092_c + cpd00509_c	4.8944380336938025	True
+rxn01800_c	rxn01800_c	cpd00001_c + cpd00067_c + cpd00654_c --> cpd00013_c + cpd00412_c	-20.247995133024062	True
+rxn01802_c	rxn01802_c	cpd00015_c + cpd00067_c + cpd00413_c --> cpd00011_c + cpd00650_c + cpd00982_c	31.05065445347782	True
+rxn01807_c	rxn01807_c	cpd00002_c + cpd00419_c --> cpd00008_c + cpd00067_c + cpd00493_c	-17.3	True
+rxn01843_c	rxn01843_c	cpd00001_c + cpd00067_c + cpd01647_c --> cpd00013_c + cpd00430_c	52.53740601749189	True
+rxn01851_c	rxn01851_c	cpd00001_c + cpd00003_c + cpd00434_c --> cpd00004_c + 2 cpd00067_c + cpd00281_c	-56.9236272598277	True
+rxn01858_c	rxn01858_c	cpd00001_c + cpd00067_c + cpd00438_c --> cpd00013_c + cpd03279_c	-17.490720526250698	True
+rxn01859_c	rxn01859_c	cpd00009_c + cpd00438_c --> cpd00128_c + cpd00509_c	9.682727148311528	True
+rxn01871_c	rxn01871_c	cpd00022_c + cpd00449_c --> cpd00010_c + cpd00836_c	9.189626605369284	True
+rxn01884_c	rxn01884_c	cpd00004_c + cpd00007_c + cpd00067_c + cpd00456_c --> cpd00001_c + cpd00003_c + cpd00479_c	-437.5988635783343	True
+rxn01900_c	rxn01900_c	cpd00006_c + cpd01983_c --> cpd00005_c + cpd00067_c + cpd00463_c	12.210421622293325	True
+rxn01917_c	rxn01917_c	cpd00002_c + cpd00477_c --> cpd00008_c + cpd02552_c	25.7	True
+rxn01919_c	rxn01919_c	cpd00007_c + cpd00479_c --> cpd00067_c + cpd01466_c	-266.0676764981507	True
+rxn01923_c	rxn01923_c	cpd00007_c + 2 cpd00481_c --> 2 cpd00001_c + 2 cpd02187_c	-339.700144700294	True
+rxn01948_c	rxn01948_c	cpd00067_c + cpd00490_c --> cpd00011_c + cpd00579_c	-16.60199026286528	True
+rxn01951_c	rxn01951_c	cpd00002_c + cpd00492_c --> cpd00008_c + cpd00067_c + cpd02612_c	-15.736433319514164	True
+rxn01953_c	rxn01953_c	cpd00001_c + cpd00861_c --> cpd00014_c + cpd00492_c	-26.70615687220345	True
+rxn01961_c	rxn01961_c	cpd00001_c + cpd00497_c --> cpd00009_c + cpd01217_c	-11.7	True
+rxn01962_c	rxn01962_c	cpd00001_c + cpd00530_c --> cpd00012_c + 2 cpd00067_c + cpd00497_c	-58.2	True
+rxn01973_c	rxn01973_c	cpd00001_c + cpd02698_c --> cpd00036_c + cpd00504_c	8.0	True
+rxn01974_c	rxn01974_c	cpd00504_c --> cpd00516_c	-1.7	True
+rxn01985_c	rxn01985_c	cpd00009_c + cpd03279_c --> cpd00226_c + cpd00509_c	7.239929097232107	True
+rxn01986_c	rxn01986_c	cpd00509_c --> cpd00510_c	-8.061585251305416	True
+rxn01987_c_num1	rxn01987_c_num1	cpd00008_c + cpd00067_c + cpd00510_c --> cpd00002_c + cpd01242_c	9.007537737536213	True
+rxn01995_c	rxn01995_c	cpd00001_c + cpd00519_c --> cpd00010_c + cpd00067_c + cpd01468_c	-34.3404912046914	True
+rxn01996_c	rxn01996_c	cpd00891_c --> cpd00519_c	-0.1171196437041999	True
+rxn01997_c	rxn01997_c	cpd00626_c --> cpd00001_c + cpd00521_c	-47.5	True
+rxn02003_c	rxn02003_c	cpd00006_c + cpd02113_c --> cpd00005_c + cpd00067_c + cpd00522_c	-6.22667488888635	True
+rxn02004_c	rxn02004_c	cpd00001_c + cpd00523_c --> cpd00009_c + cpd00794_c	-4.4	True
+rxn02005_c_num1	rxn02005_c_num1	cpd00061_c + cpd00794_e --> cpd00020_c + cpd00523_c	-47.23001179643836	True
+rxn02007_c	rxn02007_c	cpd00524_c --> cpd00001_c + cpd02631_c	-51.68869705159909	True
+rxn02008_c	rxn02008_c	cpd00002_c + cpd00186_c + cpd00890_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00525_c	-32.6	True
+rxn02009_c	rxn02009_c	cpd00002_c + cpd00039_c + cpd00525_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd02861_c	-20.42701716903275	True
+rxn02015_c	rxn02015_c	cpd00001_c + cpd03047_c --> cpd00210_c + cpd00526_c	3.1747718645863188	True
+rxn02021_c	rxn02021_c	cpd00005_c + cpd00531_c --> cpd00006_c + cpd00067_c + cpd00965_c	-35.59676449509061	True
+rxn02039_c	rxn02039_c	cpd00006_c + cpd03252_c --> cpd00005_c + cpd00067_c + cpd00546_c	12.210421622293325	True
+rxn02066_c	rxn02066_c	cpd00003_c + cpd00562_c --> cpd00004_c + cpd00067_c + cpd01088_c	19.64603979576717	True
+rxn02070_c	rxn02070_c	cpd00006_c + cpd03250_c --> cpd00005_c + cpd00067_c + cpd00566_c	12.210421622293552	True
+rxn02090_c	rxn02090_c	cpd00001_c + cpd00067_c + cpd00585_c --> cpd00013_c + cpd01679_c	15.892726882960488	True
+rxn02106_c_num1	rxn02106_c_num1	cpd00001_c + cpd00003_c + cpd03562_c --> cpd00004_c + 2 cpd00067_c + cpd00598_c	-47.84097453028966	True
+rxn02107_c	rxn02107_c	cpd00001_c + cpd00003_c + cpd03709_c --> cpd00004_c + 2 cpd00067_c + cpd00599_c	-46.76416916002114	True
+rxn02122_c_num1	rxn02122_c_num1	2 cpd00001_c + cpd00003_c + cpd01735_c --> cpd00004_c + 3 cpd00067_c + cpd00609_c	-75.65944708995357	True
+rxn02141_c	rxn02141_c	cpd00004_c + cpd00067_c + cpd01498_c --> cpd00003_c + cpd00630_c	-54.23868032148118	True
+rxn02143_c	rxn02143_c	cpd00078_c + cpd00630_c --> cpd00036_c + cpd01507_c	-3.9627210302141975	True
+rxn02144_c	rxn02144_c	cpd00001_c + cpd02255_c --> cpd00067_c + cpd00630_c	-26.572071333952465	True
+rxn02154_c	rxn02154_c	cpd00001_c + cpd00638_c --> cpd00018_c + 2 cpd00067_c + cpd00873_c	-21.88512433277083	True
+rxn02155_c_num1	rxn02155_c_num1	cpd00002_c + cpd00873_c --> cpd00012_c + cpd00638_c	-24.772963231026324	True
+rxn02159_c	rxn02159_c	cpd00003_c + cpd00641_c --> cpd00004_c + cpd00067_c + cpd01324_c	17.947151567846156	True
+rxn02160_c_num1	rxn02160_c_num1	cpd00001_c + cpd00807_c --> cpd00009_c + cpd00641_c	-21.902636241340588	True
+rxn02166_c	rxn02166_c	cpd00001_c + cpd02135_c --> cpd00009_c + cpd00646_c	-6.715015095294348	True
+rxn02167_c	rxn02167_c	cpd00842_c --> cpd00001_c + cpd00650_c	3.402547821797043	True
+rxn02169_c	rxn02169_c	cpd00067_c + cpd01599_c --> cpd00011_c + cpd00650_c	-11.686661728073204	True
+rxn02199_c	rxn02199_c	cpd00022_c + cpd00680_c --> cpd00010_c + cpd02267_c	-3.995347825687531	True
+rxn02200_c	rxn02200_c	cpd00443_c + cpd00954_c --> cpd00001_c + cpd00683_c	-26.73046389385712	True
+rxn02201_c	rxn02201_c	cpd00443_c + cpd02920_c --> cpd00012_c + cpd00683_c	-61.48646409086592	True
+rxn02212_c	rxn02212_c	cpd02857_c --> cpd00009_c + cpd00699_c	-151.0	True
+rxn02213_c	rxn02213_c	cpd00699_c --> cpd00001_c + cpd01716_c	-5.3	True
+rxn02222_c	rxn02222_c	cpd00001_c + cpd01747_c --> cpd00013_c + cpd00703_c	-13.913806840749942	True
+rxn02228_c_num1	rxn02228_c_num1	cpd00003_c + cpd03455_c --> cpd00004_c + cpd00067_c + cpd00706_c	13.565934250805554	True
+rxn02229_c	rxn02229_c	cpd00081_c + cpd00706_c --> cpd00020_c + cpd00268_c	4.406413065754286	True
+rxn02230_c	rxn02230_c	cpd00150_c + cpd00706_c --> cpd00020_c + cpd00067_c + cpd01211_c	-80.0	False
+rxn02246_c	rxn02246_c	cpd00268_c + cpd00722_c --> cpd00029_c + cpd00067_c + cpd03456_c	-44.0168082635509	True
+rxn02258_c_num1	rxn02258_c_num1	cpd00078_c + cpd01701_c --> cpd00036_c + cpd00743_c	1.2669465490789662	True
+rxn02262_c_num1	rxn02262_c_num1	cpd00002_c + cpd00751_c --> cpd00008_c + cpd00067_c + cpd01912_c	-5.747366464382651	True
+rxn02264_c_num1	rxn02264_c_num1	cpd00755_c --> cpd00001_c + cpd00774_c	-313.95385726526365	True
+rxn02268_c	rxn02268_c	cpd00007_c + 2 cpd00760_c --> 2 cpd00001_c + 2 cpd02125_c	-344.7502152557481	True
+rxn02275_c	rxn02275_c	cpd00001_c + cpd01973_c --> cpd00013_c + cpd00762_c	-12.18947522935315	True
+rxn02277_c	rxn02277_c	cpd00002_c + cpd00011_c + cpd00764_c --> cpd00008_c + cpd00009_c + 3 cpd00067_c + cpd01311_c	2.0	True
+rxn02281_c	rxn02281_c	2 cpd00001_c + cpd00002_c + cpd01679_c --> cpd00008_c + cpd00009_c + 2 cpd00067_c + cpd00768_c	-91.41225963510108	True
+rxn02283_c	rxn02283_c	cpd00023_c + cpd02197_c --> cpd00067_c + cpd00087_c + cpd00770_c	-46.439921202317805	True
+rxn02285_c	rxn02285_c	cpd00005_c + cpd00067_c + cpd02820_c --> cpd00006_c + cpd00773_c	-53.331590394267096	True
+rxn02286_c	rxn02286_c	cpd00002_c + cpd00035_c + cpd00773_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00890_c	-31.4	True
+rxn02287_c	rxn02287_c	2 cpd00017_c + cpd00774_c --> 2 cpd00019_c + cpd00067_c + cpd01620_c	-272.3926745010358	True
+rxn02288_c	rxn02288_c	4 cpd00067_c + cpd00774_c --> 4 cpd00011_c + cpd02083_c	-24.0	True
+rxn02302_c	rxn02302_c	cpd00084_c + cpd00790_c --> cpd00029_c + cpd00067_c + cpd00424_c	-74.26837975223509	True
+rxn02303_c	rxn02303_c	2 cpd00001_c + 2 cpd00011_c + cpd00791_c --> cpd00007_c + 2 cpd00067_c + cpd02083_c	-353.0	True
+rxn02304_c	rxn02304_c	6 cpd00001_c + 2 cpd01476_c --> 3 cpd00007_c + 2 cpd00791_c	0.002030445166838	True
+rxn02305_c	rxn02305_c	cpd00067_c + cpd02654_c + cpd02894_c --> cpd00012_c + cpd00793_c	-25.6	True
+rxn02312_c	rxn02312_c	cpd00017_c + cpd00800_c --> cpd00764_c + cpd02701_c	-1.5725023639002416	True
+rxn02314_c_num1	rxn02314_c_num1	cpd00002_c + cpd00805_c --> cpd00008_c + cpd00067_c + cpd02371_c	-23.681686052676696	True
+rxn02315_c	rxn02315_c	cpd00052_c + cpd00805_c --> cpd00067_c + cpd00096_c + cpd02371_c	-23.881147309717	True
+rxn02316_c	rxn02316_c	cpd00062_c + cpd00805_c --> cpd00014_c + cpd00067_c + cpd02371_c	-22.24733540717	True
+rxn02317_c	rxn02317_c	cpd00068_c + cpd00805_c --> cpd00067_c + cpd00090_c + cpd02371_c	-25.0051402122765	True
+rxn02320_c	rxn02320_c	cpd00024_c + cpd00807_c --> cpd00023_c + cpd00930_c	9.5	True
+rxn02341_c	rxn02341_c	cpd00067_c + cpd02666_c --> cpd00011_c + cpd00834_c	-21.2	False
+rxn02342_c	rxn02342_c	cpd00213_c + cpd03049_c --> cpd00056_c + cpd00836_c	-0.1451403221458633	True
+rxn02350_c_num1	rxn02350_c_num1	cpd00001_c + cpd00003_c + cpd00845_c --> cpd00004_c + 2 cpd00067_c + cpd00870_c	-46.122268839456126	True
+rxn02362_c	rxn02362_c	cpd00002_c + cpd00067_c + cpd00853_c --> cpd00008_c + cpd00009_c + cpd03699_c	1821.44842589142	True
+rxn02369_c	rxn02369_c	cpd00938_c --> cpd00067_c + cpd00856_c	-19.38102725941016	True
+rxn02373_c	rxn02373_c	cpd00005_c + cpd00067_c + cpd02097_c --> cpd00006_c + cpd00009_c + cpd00858_c	-7.1	True
+rxn02374_c	rxn02374_c	cpd00858_c --> cpd00001_c + cpd00067_c + cpd02431_c	-38.3547848039016	True
+rxn02376_c	rxn02376_c	cpd00213_c + cpd03189_c --> cpd00056_c + cpd00860_c	3.127472492213656	True
+rxn02377_c	rxn02377_c	cpd00001_c + 2 cpd00003_c + cpd00861_c --> 2 cpd00004_c + 3 cpd00067_c + cpd03732_c	-37.24485420447138	True
+rxn02400_c	rxn02400_c	cpd00001_c + cpd00873_c --> cpd00009_c + cpd03471_c	-27.347852669761096	True
+rxn02402_c	rxn02402_c	cpd00067_c + cpd00103_c + cpd02333_c --> cpd00011_c + cpd00012_c + cpd00873_c	-26.0	True
+rxn02405_c	rxn02405_c	cpd00052_c + cpd00875_c --> cpd00012_c + cpd00067_c + cpd02546_c	228.1254376417328	True
+rxn02418_c_num1	rxn02418_c_num1	cpd00001_c + cpd00885_c --> cpd00009_c + cpd02788_c	10.171337113703458	True
+rxn02421_c	rxn02421_c	cpd00052_c + cpd00888_c --> cpd00012_c + cpd02200_c	-9.06209936985408	True
+rxn02449_c_num1	rxn02449_c_num1	cpd00001_c + cpd02740_c --> cpd00009_c + cpd00067_c + cpd00905_c	-30.30525395518316	True
+rxn02465_c	rxn02465_c	cpd00005_c + cpd00067_c + cpd02552_c --> cpd00006_c + cpd00009_c + cpd00918_c	4.6	True
+rxn02473_c	rxn02473_c	cpd02843_c --> cpd00001_c + cpd00930_c	-41.9	True
+rxn02474_c	rxn02474_c	cpd00006_c + cpd02720_c --> cpd00005_c + cpd00067_c + cpd00931_c	22.95467279143748	True
+rxn02476_c	rxn02476_c	cpd00061_c + cpd02030_c --> cpd00009_c + cpd00932_c	-15.9	True
+rxn02483_c	rxn02483_c	cpd00067_c + cpd00938_c --> cpd00011_c + cpd02255_c	-41.29261936815729	True
+rxn02484_c	rxn02484_c	cpd00002_c + cpd00939_c --> cpd00008_c + cpd00067_c + cpd02775_c	-13.27690876577674	True
+rxn02503_c	rxn02503_c	cpd00002_c + cpd00954_c --> cpd00018_c + 2 cpd00067_c + cpd02920_c	-11.902087366787612	True
+rxn02504_c	rxn02504_c	cpd02961_c --> cpd00229_c + cpd00954_c	7.154089482780989	True
+rxn02507_c_num1	rxn02507_c_num1	cpd00067_c + cpd00956_c --> cpd00001_c + cpd00011_c + cpd02210_c	-70.39456021001149	True
+rxn02508_c	rxn02508_c	cpd02642_c --> cpd00956_c	-9.78582591633267	True
+rxn02517_c	rxn02517_c	cpd00002_c + cpd00976_c --> cpd00008_c + cpd00977_c	5.396860296047748	True
+rxn02518_c	rxn02518_c	cpd00001_c + cpd00977_c --> cpd00012_c + 2 cpd00067_c + cpd03704_c	-58.2	True
+rxn02532_c	rxn02532_c	cpd00007_c + cpd01020_c --> cpd00001_c + cpd00067_c + cpd02304_c	-75.67858966841737	True
+rxn02545_c	rxn02545_c	cpd00005_c + cpd00007_c + cpd00067_c + cpd01041_c --> cpd00001_c + cpd00006_c + cpd01871_c	-437.67714327326536	True
+rxn02548_c_num1	rxn02548_c_num1	cpd00017_c + cpd01047_c --> cpd00019_c + cpd00067_c + cpd01043_c	-11.516859232489992	True
+rxn02632_c	rxn02632_c	cpd00003_c + cpd01949_c --> cpd00004_c + cpd00067_c + cpd01221_c	13.65584398497424	True
+rxn02636_c	rxn02636_c	cpd00005_c + cpd00067_c + cpd01228_c --> cpd00006_c + cpd03254_c	-12.210421622294234	True
+rxn02679_c	rxn02679_c	cpd00015_c + cpd01335_c --> cpd00982_c + cpd03130_c	41.4	True
+rxn02680_c	rxn02680_c	cpd00022_c + cpd01335_c --> cpd00010_c + cpd03119_c	30.06850901605185	True
+rxn02687_c	rxn02687_c	cpd00003_c + cpd01357_c --> cpd00004_c + cpd00067_c + cpd01447_c	13.65794264276849	True
+rxn02703_c	rxn02703_c	cpd00002_c + cpd01407_c --> cpd00008_c + cpd00067_c + cpd03722_c	-16.632328385258006	True
+rxn02720_c	rxn02720_c	cpd00015_c + cpd01260_c --> cpd00982_c + cpd02060_c	41.4	True
+rxn02728_c	rxn02728_c	cpd01466_c --> cpd01653_c	-7.343384822888765e-06	True
+rxn02729_c_num1	rxn02729_c_num1	cpd00001_c + cpd00003_c + cpd00287_c --> cpd00004_c + 2 cpd00067_c + cpd01468_c	-49.771749935478425	True
+rxn02745_c	rxn02745_c	cpd00007_c + cpd01822_c --> 2 cpd00067_c + cpd01498_c	-322.7590573557776	True
+rxn02760_c	rxn02760_c	cpd00001_c + cpd01693_c --> cpd00079_c + cpd00082_c	-21.1	True
+rxn02774_c	rxn02774_c	cpd00003_c + cpd01620_c --> cpd00004_c + 2 cpd00067_c + cpd03426_c	-47.80676500000459	True
+rxn02782_c	rxn02782_c	cpd02536_c --> cpd00067_c + cpd01630_c	6.331389780300157	True
+rxn02789_c	rxn02789_c	cpd01646_c --> cpd00001_c + cpd01710_c	-0.4	True
+rxn02791_c	rxn02791_c	cpd00023_c + cpd01651_c --> cpd00001_c + cpd03407_c	8.875570456813648	True
+rxn02792_c	rxn02792_c	cpd00023_c + cpd00067_c + cpd01651_c --> cpd00001_c + cpd00011_c + cpd03646_c	-6.0799579225558205	True
+rxn02795_c	rxn02795_c	cpd00001_c + cpd03247_c --> cpd00033_c + cpd01663_c	-0.7847661127718766	True
+rxn02796_c	rxn02796_c	cpd00001_c + cpd03246_c --> cpd00210_c + cpd01663_c	3.1790505882770503	True
+rxn02803_c	rxn02803_c	cpd00015_c + cpd01695_c --> cpd00982_c + cpd03127_c	41.4	True
+rxn02804_c	rxn02804_c	cpd00022_c + cpd01695_c --> cpd00010_c + cpd03114_c	30.068509016052303	True
+rxn02811_c	rxn02811_c	cpd02693_c --> cpd00001_c + cpd01710_c	-3.7	True
+rxn02819_c	rxn02819_c	cpd00017_c + cpd02787_c --> cpd00019_c + cpd00067_c + cpd01736_c	-44.51689406658852	True
+rxn02831_c	rxn02831_c	cpd00002_c + cpd00010_c + cpd01772_c --> cpd00012_c + cpd00018_c + cpd00067_c + cpd02021_c	-18.5	True
+rxn02832_c	rxn02832_c	cpd03451_c --> cpd00001_c + cpd01772_c	-38.5903559715286	True
+rxn02852_c	rxn02852_c	cpd00007_c + cpd01822_c --> 2 cpd00067_c + cpd02307_c	-322.86039747078433	True
+rxn02853_c	rxn02853_c	cpd00001_c + cpd00003_c + cpd03052_c --> cpd00004_c + 2 cpd00067_c + cpd01831_c	-47.76350392304991	True
+rxn02861_c	rxn02861_c	cpd00007_c + cpd01871_c --> cpd00067_c + cpd03715_c	-263.93186246544565	True
+rxn02884_c	rxn02884_c	cpd00067_c + cpd02507_c --> cpd00011_c + cpd01960_c	-8.331576446187796	True
+rxn02895_c	rxn02895_c	cpd00002_c + cpd00033_c + cpd01982_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd02394_c	-27.5	True
+rxn02897_c	rxn02897_c	cpd00873_c + cpd01997_c --> cpd00067_c + cpd00218_c + cpd02904_c	-25.0	True
+rxn02898_c	rxn02898_c	cpd02021_c --> cpd00010_c + cpd02295_c	-110.0	True
+rxn02911_c	rxn02911_c	cpd03116_c --> cpd00001_c + cpd02060_c	-0.4317884877123106	True
+rxn02914_c	rxn02914_c	cpd00024_c + cpd00738_c --> cpd00023_c + cpd02069_c	-10.9	True
+rxn02929_c	rxn02929_c	cpd00006_c + cpd02465_c --> cpd00005_c + cpd00067_c + cpd02120_c	-20.0	False
+rxn02933_c	rxn02933_c	cpd00004_c + cpd00067_c + cpd02124_c --> cpd00003_c + cpd02691_c	-13.656063092614431	True
+rxn02934_c	rxn02934_c	cpd02691_c --> cpd00001_c + cpd02125_c	-3.68664019034145	True
+rxn02945_c	rxn02945_c	cpd02168_c --> cpd00012_c + cpd00067_c + cpd03211_c	42.37629697092393	True
+rxn02961_c	rxn02961_c	cpd00052_c + cpd02233_c --> cpd00012_c + cpd00067_c + cpd03379_c	-46.23438643810675	True
+rxn02969_c	rxn02969_c	cpd00007_c + cpd01586_c --> 2 cpd00067_c + cpd02254_c	-317.8139852822583	True
+rxn02971_c	rxn02971_c	cpd02536_c --> cpd02255_c	-16.049301241313344	True
+rxn02988_c	rxn02988_c	cpd00095_c + cpd03470_c --> 2 cpd00001_c + cpd00009_c + cpd00067_c + cpd02333_c	-221.0	True
+rxn03002_c	rxn03002_c	cpd00001_c + cpd02688_c --> cpd00009_c + cpd02380_c	-14.973838589054594	True
+rxn03004_c	rxn03004_c	cpd00201_c + cpd02394_c --> cpd00067_c + cpd00087_c + cpd02678_c	1.0	True
+rxn03023_c	rxn03023_c	cpd00002_c + cpd02446_c --> cpd00008_c + cpd00067_c + cpd02721_c	-20.06565405039612	True
+rxn03031_c_num1	rxn03031_c_num1	cpd00001_c + cpd00078_c + cpd02465_c --> cpd00010_c + cpd02724_c	25.921373204611086	True
+rxn03035_c	rxn03035_c	cpd00001_c + cpd02513_c --> cpd00009_c + cpd02484_c	-17.36332564725626	True
+rxn03039_c	rxn03039_c	cpd00103_c + cpd02506_c --> cpd00012_c + cpd00067_c + cpd02851_c	-42.61615189657141	True
+rxn03041_c	rxn03041_c	cpd00067_c + cpd02507_c --> cpd00011_c + cpd03326_c	-8.333960138206749	True
+rxn03047_c	rxn03047_c	cpd00002_c + cpd02524_c --> cpd00008_c + cpd00067_c + cpd02666_c	-20.24127137237815	True
+rxn03052_c_num1	rxn03052_c_num1	cpd00135_c + cpd02738_c --> cpd00060_c + cpd02555_c	-40.781774500014535	True
+rxn03060_c_num1	rxn03060_c_num1	cpd01501_c --> cpd00001_c + cpd02597_c	-2.855060373268145	True
+rxn03062_c	rxn03062_c	cpd00003_c + cpd02693_c --> cpd00004_c + cpd00067_c + cpd02605_c	14.5	True
+rxn03063_c	rxn03063_c	cpd00017_c + cpd03221_c --> cpd00019_c + cpd00067_c + cpd02755_c	-15.820832501331097	True
+rxn03075_c	rxn03075_c	cpd00002_c + cpd02636_c --> cpd00008_c + cpd00067_c + cpd02654_c	-19.1	True
+rxn03080_c	rxn03080_c	cpd02882_c + cpd11225_c --> 2 cpd00001_c + cpd00009_c + cpd00067_c + cpd02656_c	-100.4792252361865	True
+rxn03087_c_num1	rxn03087_c_num1	cpd00024_c + cpd02698_c --> cpd00023_c + cpd02724_c	-0.6763822494198166	True
+rxn03094_c	rxn03094_c	cpd00001_c + cpd03245_c --> cpd00033_c + cpd02733_c	-0.7833692887561483	True
+rxn03095_c	rxn03095_c	cpd00001_c + cpd03244_c --> cpd00210_c + cpd02733_c	3.181088547154559	True
+rxn03106_c_num1	rxn03106_c_num1	cpd00001_c + cpd00003_c + cpd03228_c --> cpd00004_c + 2 cpd00067_c + cpd02773_c	-47.8428087693851	True
+rxn03108_c_num1	rxn03108_c_num1	cpd00002_c + cpd02775_c --> cpd00008_c + cpd02894_c	3.5209895522368697	True
+rxn03130_c	rxn03130_c	cpd00001_c + cpd02835_c --> 2 cpd00067_c + cpd00091_c + cpd02930_c	-36.29589484069629	True
+rxn03136_c	rxn03136_c	cpd02921_c --> cpd00106_c + cpd02851_c	24.8	False
+rxn03137_c	rxn03137_c	cpd00201_c + cpd02851_c --> cpd00087_c + cpd02884_c	14.0	True
+rxn03140_c	rxn03140_c	cpd00002_c + cpd00731_c + cpd02861_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd02943_c	-34.651106668184184	True
+rxn03146_c	rxn03146_c	cpd00001_c + cpd02886_c --> cpd00029_c + cpd03584_c	-7.707127623792076	True
+rxn03150_c	rxn03150_c	cpd00001_c + cpd02904_c --> cpd00009_c + cpd03423_c	-15.4	True
+rxn03159_c	rxn03159_c	cpd02835_c + cpd02930_c --> cpd00014_c + cpd03002_c	-27.77595703185625	True
+rxn03167_c	rxn03167_c	3 cpd00001_c + cpd02978_c --> 3 cpd00009_c + 2 cpd00067_c + cpd02961_c	-80.08022992230997	True
+rxn03174_c	rxn03174_c	cpd03666_c --> cpd00001_c + cpd02978_c	-42.15913336305061	True
+rxn03175_c	rxn03175_c	cpd02979_c --> cpd02991_c	-9.8	True
+rxn03181_c	rxn03181_c	cpd00002_c + cpd03002_c --> cpd00008_c + cpd00067_c + cpd02993_c	-14.24985709275279	True
+rxn03182_c	rxn03182_c	cpd02546_c + cpd02993_c --> cpd00046_c + cpd00067_c + cpd03585_c	-264.52535731689386	True
+rxn03239_c	rxn03239_c	cpd00003_c + cpd03113_c --> cpd00004_c + cpd00067_c + cpd03114_c	13.656045376350905	True
+rxn03240_c	rxn03240_c	cpd03113_c --> cpd00001_c + cpd03126_c	-0.4317884877114011	True
+rxn03241_c	rxn03241_c	cpd03115_c --> cpd00001_c + cpd03127_c	-0.4317884877123106	True
+rxn03242_c	rxn03242_c	cpd00003_c + cpd03116_c --> cpd00004_c + cpd00067_c + cpd03117_c	13.656045376349994	True
+rxn03243_c	rxn03243_c	cpd00022_c + cpd03128_c --> cpd00010_c + cpd03117_c	30.06850901605276	True
+rxn03244_c	rxn03244_c	cpd00003_c + cpd03118_c --> cpd00004_c + cpd00067_c + cpd03119_c	13.656045376349994	True
+rxn03245_c	rxn03245_c	cpd03118_c --> cpd00001_c + cpd03129_c	-0.4317884877114011	True
+rxn03246_c	rxn03246_c	cpd00003_c + cpd03120_c --> cpd00004_c + cpd00067_c + cpd03121_c	13.65604537634954	True
+rxn03247_c	rxn03247_c	cpd03120_c --> cpd00001_c + cpd03130_c	-0.4317884877118558	True
+rxn03248_c	rxn03248_c	cpd00022_c + cpd03124_c --> cpd00010_c + cpd03121_c	30.06850901605208	True
+rxn03249_c	rxn03249_c	cpd00003_c + cpd03122_c --> cpd00004_c + cpd00067_c + cpd03123_c	15.01652801482942	True
+rxn03250_c	rxn03250_c	cpd03122_c --> cpd00001_c + cpd03125_c	0.7685800252338595	True
+rxn03264_c	rxn03264_c	cpd00001_c + cpd00002_c + cpd03163_c --> cpd00009_c + cpd00012_c + cpd00067_c + cpd03392_c	-51.43324951983686	True
+rxn03282_c_num1	rxn03282_c_num1	cpd00003_c + cpd03227_c --> cpd00004_c + cpd00067_c + cpd03228_c	15.657296423972523	True
+rxn03291_c	rxn03291_c	cpd00006_c + cpd03234_c --> cpd00005_c + cpd00067_c + cpd03238_c	12.210421622293552	True
+rxn03294_c	rxn03294_c	cpd00006_c + cpd03236_c --> cpd00005_c + cpd00067_c + cpd03239_c	12.210421622293552	True
+rxn03333_c_num1	rxn03333_c_num1	cpd00003_c + cpd03306_c --> cpd00004_c + cpd00067_c + cpd03307_c	15.652708195859248	True
+rxn03354_c_num1	rxn03354_c_num1	cpd00001_c + cpd00003_c + cpd03345_c --> cpd00004_c + 2 cpd00067_c + cpd03346_c	-47.93116986545789	True
+rxn03360_c	rxn03360_c	cpd00011_c + cpd03349_c --> cpd00067_c + cpd03362_c	16.419860165455816	True
+rxn03365_c	rxn03365_c	cpd00001_c + cpd00003_c + cpd03365_c --> cpd00004_c + 2 cpd00067_c + cpd03366_c	-49.61616344522804	True
+rxn03373_c	rxn03373_c	cpd00002_c + cpd03396_c --> cpd00012_c + cpd03388_c	-1.303864954921437	True
+rxn03384_c	rxn03384_c	4 cpd00067_c + cpd03414_c --> 4 cpd00011_c + cpd03416_c	-12.919064060205072	True
+rxn03393_c	rxn03393_c	cpd00067_c + cpd03443_c --> cpd00011_c + cpd03444_c	-5.900743074737875	True
+rxn03395_c	rxn03395_c	cpd00017_c + cpd03445_c --> cpd00019_c + cpd00067_c + cpd03446_c	-12.115801090931654	True
+rxn03397_c	rxn03397_c	cpd00017_c + cpd03447_c --> cpd00019_c + cpd00067_c + cpd03448_c	-49.80933086976125	True
+rxn03408_c	rxn03408_c	cpd00037_c + cpd03494_c --> cpd00014_c + cpd03495_c	-15.7	True
+rxn03419_c	rxn03419_c	cpd00001_c + cpd03518_c --> cpd00047_c + cpd00067_c + cpd03519_c	-38.363687746786695	True
+rxn03421_c	rxn03421_c	cpd03519_c --> cpd03666_c	-9.7086725729838	True
+rxn03423_c_num1	rxn03423_c_num1	cpd00001_c + cpd00003_c + cpd03529_c --> cpd00004_c + 2 cpd00067_c + cpd01889_c	-47.71997793225074	True
+rxn03435_c	rxn03435_c	cpd00006_c + cpd02535_c --> cpd00005_c + cpd00067_c + cpd10162_c	-14.8	True
+rxn03436_c	rxn03436_c	cpd00498_c --> cpd10162_c	-14.8	True
+rxn03437_c	rxn03437_c	cpd02535_c --> cpd00001_c + cpd00508_c	-36.9	True
+rxn03439_c	rxn03439_c	cpd02546_c + cpd03585_c --> cpd00046_c + cpd00067_c + cpd03586_c	-257.0149537324196	True
+rxn03445_c	rxn03445_c	cpd00024_c + cpd03607_c --> cpd00023_c + cpd03606_c	10.0	True
+rxn03446_c	rxn03446_c	cpd00001_c + cpd03607_c --> cpd00009_c + cpd03608_c	-14.456811786530864	True
+rxn03490_c	rxn03490_c	cpd00004_c + cpd00007_c + cpd00067_c + cpd03778_c --> cpd00003_c + cpd03759_c	-365.8643203875568	True
+rxn03491_c	rxn03491_c	2 cpd00017_c + cpd03760_c --> cpd00011_c + 2 cpd00019_c + 2 cpd00067_c + cpd03835_c	-145.65424575619	True
+rxn03504_c	rxn03504_c	cpd00001_c + cpd03812_c --> cpd00029_c + cpd03813_c	-8.69723559339468	True
+rxn03532_c	rxn03532_c	cpd00004_c + cpd00007_c + 2 cpd00067_c + cpd03420_c --> cpd00001_c + cpd00003_c + cpd03833_c	97.8453967656385	True
+rxn03563_c	rxn03563_c	cpd00005_c + cpd00007_c + cpd00067_c + cpd01208_c --> cpd00001_c + cpd00006_c + cpd01822_c	-437.5645249481183	True
+rxn03586_c	rxn03586_c	cpd00004_c + cpd00007_c + cpd00067_c + cpd04073_c --> cpd00001_c + cpd00003_c + cpd00055_c + cpd00197_c	-371.0773049043317	True
+rxn03598_c_num1	rxn03598_c_num1	cpd00001_c + cpd00003_c + cpd04134_c --> cpd00004_c + 2 cpd00067_c + cpd04135_c	-47.845535865532725	True
+rxn03607_c	rxn03607_c	cpd00007_c + cpd04117_c --> cpd00067_c + cpd04139_c	-258.4499215654589	True
+rxn03611_c	rxn03611_c	cpd00007_c + cpd04117_c --> 2 cpd00067_c + cpd02542_c	-322.0975378347566	True
+rxn03618_c	rxn03618_c	cpd00003_c + cpd00055_c + cpd04105_c --> cpd00004_c + cpd00067_c + cpd04106_c	-46.82511854520544	True
+rxn03638_c	rxn03638_c	cpd00022_c + cpd03671_c --> cpd00010_c + cpd00067_c + cpd02611_c	-25.0	True
+rxn03691_c	rxn03691_c	cpd00067_c + cpd02254_c --> cpd00011_c + cpd00099_c + cpd04365_c	47.94991065779209	True
+rxn03704_c	rxn03704_c	cpd00007_c + cpd04360_c --> cpd00067_c + cpd04362_c	-263.8460348430509	True
+rxn03706_c	rxn03706_c	cpd00007_c + cpd01586_c --> cpd00067_c + cpd04364_c	-254.17798057936216	True
+rxn03839_c	rxn03839_c	cpd00001_c + cpd01150_c --> cpd00013_c + cpd00400_c	-13.909794428291548	True
+rxn03840_c	rxn03840_c	cpd00013_c + cpd00216_c --> cpd00001_c + cpd08210_c	-3.660883868961832	True
+rxn03841_c_num1	rxn03841_c_num1	cpd08210_c --> cpd00020_c + cpd00067_c + cpd00443_c	-92.5608059390708	True
+rxn03848_c_num1	rxn03848_c_num1	cpd00001_c + cpd00067_c + cpd03963_c --> cpd00011_c + cpd00013_c + cpd00073_c	-82.20541426016268	True
+rxn03849_c_num1	rxn03849_c_num1	cpd00001_c + cpd03963_c --> cpd00013_c + cpd00742_c	-33.29948178569589	True
+rxn03869_c	rxn03869_c	cpd00001_c + cpd06707_c --> cpd00013_c + cpd00153_c	-13.002484210600784	True
+rxn03891_c	rxn03891_c	cpd00113_c + cpd00906_c --> cpd00012_c + cpd00067_c + cpd02590_c	-82.51831510483748	True
+rxn03892_c	rxn03892_c	cpd00113_c + cpd02591_c --> cpd00012_c + cpd00067_c + cpd00906_c	-82.51831510483885	True
+rxn03893_c	rxn03893_c	cpd00136_c + cpd02557_c --> cpd00012_c + cpd00067_c + cpd03443_c	-85.8356203011744	True
+rxn03898_c_num1	rxn03898_c_num1	cpd00005_c + cpd00007_c + cpd00067_c + cpd00153_c --> cpd00006_c + cpd03762_c	-343.335151419111	True
+rxn03899_c	rxn03899_c	cpd00004_c + cpd00007_c + cpd00441_c --> cpd00001_c + cpd00003_c + cpd00811_c	-210.99426027753412	True
+rxn03901_c	rxn03901_c	cpd00001_c + cpd02229_c --> cpd00009_c + 2 cpd00067_c + cpd00286_c	-36.3	True
+rxn03903_c	rxn03903_c	cpd00286_c + cpd02862_c --> cpd00091_c + cpd02948_c	-2.797808716649797	True
+rxn03904_c	rxn03904_c	cpd00286_c + cpd02968_c --> cpd00091_c + cpd03494_c	-1.7	True
+rxn03907_c	rxn03907_c	cpd00052_c + cpd08286_c --> cpd00012_c + cpd08287_c	-9.7	True
+rxn03908_c	rxn03908_c	cpd00002_c + cpd08287_c --> cpd00008_c + cpd00067_c + cpd08288_c	-9.0	True
+rxn03909_c	rxn03909_c	cpd00020_c + cpd00067_c + cpd00102_c --> cpd00011_c + cpd08289_c	-27.7	True
+rxn03915_c	rxn03915_c	cpd00001_c + cpd00003_c + cpd01956_c --> cpd00004_c + 2 cpd00067_c + cpd01129_c	-49.5648969212358	True
+rxn03916_c	rxn03916_c	cpd00002_c + cpd04920_c --> cpd00012_c + cpd03830_c	-12.405940279447124	True
+rxn03917_c	rxn03917_c	cpd00238_c --> cpd04918_c	2.2211918874880894	True
+rxn03918_c	rxn03918_c	cpd00002_c + cpd04918_c --> cpd00008_c + cpd00067_c + cpd08316_c	-14.233727955581458	True
+rxn03919_c	rxn03919_c	cpd00001_c + cpd08316_c --> cpd00009_c + cpd04920_c	-8.124287046864083	True
+rxn03921_c	rxn03921_c	cpd00001_c + cpd00003_c + cpd08279_c --> cpd00004_c + 2 cpd00067_c + cpd02045_c	-45.774793475591366	True
+rxn03923_c	rxn03923_c	cpd00009_c + cpd00460_c --> cpd00081_c + cpd00196_c	234.3065824958161	True
+rxn03932_c	rxn03932_c	cpd00002_c + cpd04242_c --> cpd00008_c + cpd00067_c + cpd02721_c	-20.06565405039612	True
+rxn03933_c	rxn03933_c	cpd00037_c + cpd02948_c --> cpd00014_c + cpd03491_c	-17.011002160825228	True
+rxn03958_c	rxn03958_c	cpd00006_c + cpd08286_c --> cpd00005_c + cpd00067_c + cpd08289_c	10.892547762352422	True
+rxn03969_c	rxn03969_c	cpd00001_c + cpd00003_c + cpd00561_c --> cpd00004_c + 2 cpd00067_c + cpd04073_c	-45.13919173808375	True
+rxn03970_c	rxn03970_c	cpd00001_c + cpd00003_c + cpd01733_c --> cpd00004_c + 2 cpd00067_c + cpd01059_c	-42.5492466103521	True
+rxn03974_c_num1	rxn03974_c_num1	cpd00004_c + cpd00050_c + cpd00067_c --> cpd00003_c + cpd01270_c	-14.17653732861379	True
+rxn03975_c_num1	rxn03975_c_num1	cpd00005_c + cpd00050_c + cpd00067_c --> cpd00006_c + cpd01270_c	-14.054093695535473	True
+rxn03982_c	rxn03982_c	cpd00006_c + 2 cpd04105_c --> cpd00005_c + cpd00067_c + cpd08341_c	11.10984329721532	True
+rxn04068_c	rxn04068_c	cpd00001_c + cpd01318_c --> cpd00033_c + cpd00526_c	-0.7881192428822033	True
+rxn04113_c	rxn04113_c	cpd00005_c + cpd00067_c + cpd08615_c --> cpd00001_c + cpd00006_c + cpd00113_c	-55.45322246195536	True
+rxn04132_c	rxn04132_c	cpd00001_c + cpd08625_c --> cpd00011_c + cpd01567_c	89.80677383085794	True
+rxn04135_c	rxn04135_c	cpd00005_c + cpd00007_c + cpd00067_c + cpd03638_c --> cpd00001_c + cpd00006_c + cpd08263_c	-401.0057084147615	True
+rxn04181_c	rxn04181_c	cpd00005_c + cpd00007_c + cpd00067_c + cpd08693_c --> cpd00001_c + cpd00006_c + cpd08695_c	-401.0057084147613	True
+rxn04234_c_num1	rxn04234_c_num1	cpd00001_c + cpd00003_c + cpd01686_c --> cpd00004_c + 2 cpd00067_c + cpd08721_c	-47.84265310898772	True
+rxn04270_c	rxn04270_c	cpd00001_c + cpd00003_c + cpd02708_c --> cpd00004_c + 2 cpd00067_c + cpd08741_c	-47.84364791653394	True
+rxn04271_c	rxn04271_c	cpd00001_c + cpd00003_c + cpd08739_c --> cpd00004_c + 2 cpd00067_c + cpd08740_c	-47.84364791653394	True
+rxn04308_c	rxn04308_c	7 cpd00113_c + cpd08211_c --> 7 cpd00012_c + 7 cpd00067_c + cpd02229_c	-671.0	True
+rxn04413_c	rxn04413_c	cpd00038_c + cpd03918_c --> cpd00031_c + cpd00067_c + cpd03919_c	-33.596876544063434	True
+rxn04443_c	rxn04443_c	cpd00101_c + cpd08993_c --> cpd00238_c + cpd08994_c	4.957989036154345	True
+rxn04453_c	rxn04453_c	cpd00001_c + cpd08625_c --> cpd00067_c + cpd09027_c	154.87530027134508	True
+rxn04457_c	rxn04457_c	cpd00067_c + cpd09027_c --> cpd00011_c + cpd01567_c	-65.06852644048715	True
+rxn04464_c	rxn04464_c	cpd00125_c + cpd00299_c + cpd00982_c --> cpd00015_c + cpd00087_c + cpd00298_c	-55.85624774392864	True
+rxn04648_c	rxn04648_c	cpd00007_c + cpd09310_c --> cpd00067_c + cpd09312_c	-225.97680127773472	True
+rxn04654_c	rxn04654_c	cpd00007_c + cpd03336_c --> 2 cpd00067_c + cpd02243_c	-316.7208355308629	True
+rxn04658_c	rxn04658_c	cpd00005_c + cpd00067_c + cpd09350_c --> cpd00006_c + cpd00009_c + cpd09351_c	-2.075969516847408	True
+rxn04663_c	rxn04663_c	2 cpd00004_c + cpd00067_c + cpd09314_c --> 2 cpd00003_c + cpd00099_c + cpd09315_c	49.38404975877657	True
+rxn04723_c	rxn04723_c	cpd00001_c + cpd00003_c + cpd09790_c --> cpd00004_c + 2 cpd00067_c + cpd09791_c	-47.31026237643568	True
+rxn04726_c_num1	rxn04726_c_num1	cpd00003_c + cpd09792_c --> cpd00004_c + cpd00067_c + cpd09793_c	15.65729642397278	True
+rxn04727_c	rxn04727_c	cpd00001_c + cpd00003_c + cpd09793_c --> cpd00004_c + 2 cpd00067_c + cpd09794_c	-47.841100182054646	True
+rxn04736_c_num1	rxn04736_c_num1	cpd00003_c + cpd01859_c --> cpd00004_c + cpd00067_c + cpd09802_c	15.65729642397278	True
+rxn04737_c	rxn04737_c	cpd00001_c + cpd00003_c + cpd09802_c --> cpd00004_c + 2 cpd00067_c + cpd09804_c	-47.841257457710384	True
+rxn04744_c	rxn04744_c	cpd00001_c + cpd00003_c + cpd09811_c --> cpd00004_c + 2 cpd00067_c + cpd09812_c	-46.414924729074926	True
+rxn04783_c	rxn04783_c	cpd00002_c + cpd00047_c + cpd02394_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd02678_c	-4.0	True
+rxn04840_c	rxn04840_c	2 cpd00042_c + cpd03176_c --> cpd00001_c + cpd00111_c + cpd02918_c	-1.232088031584908	True
+rxn04841_c	rxn04841_c	2 cpd00042_c + cpd03555_c --> cpd00001_c + cpd00111_c + cpd02890_c	-1.2317259794219808	True
+rxn04908_c_num1	rxn04908_c_num1	cpd00004_c + cpd00067_c + cpd04248_c --> cpd00001_c + cpd00003_c + cpd04661_c	47.91882777649752	True
+rxn04932_c	rxn04932_c	cpd00003_c + cpd01307_c --> cpd00004_c + cpd00067_c + cpd00258_c	12.73173294377426	True
+rxn04934_c	rxn04934_c	cpd00003_c + cpd08367_c --> cpd00004_c + cpd00067_c + cpd03285_c	13.65590453135816	True
+rxn04954_c	rxn04954_c	cpd00003_c + cpd00345_c --> cpd00004_c + cpd00067_c + cpd00125_c	-39.0	True
+rxn04957_c	rxn04957_c	cpd00004_c + cpd00007_c + cpd00067_c --> cpd00003_c + cpd00025_c	-127.41202231711368	True
+rxn04969_c	rxn04969_c	cpd00004_c + cpd00007_c + cpd00067_c + cpd00153_c --> cpd00003_c + cpd02821_c	-343.45759505218933	True
+rxn04987_c	rxn04987_c	cpd00005_c + cpd00007_c + cpd00067_c + cpd09461_c --> cpd00001_c + cpd00006_c + cpd11198_c	-401.0057084147618	True
+rxn04996_c	rxn04996_c	cpd00005_c + cpd00067_c + cpd08615_c --> cpd00001_c + cpd00006_c + cpd00202_c	-60.30661193497474	True
+rxn05005_c_num1	rxn05005_c_num1	cpd00017_c + cpd00774_c --> cpd00019_c + cpd00067_c + cpd11206_c	-130.60992645867077	True
+rxn05006_c_num1	rxn05006_c_num1	cpd00017_c + cpd11206_c --> cpd00019_c + cpd01620_c	-141.78274804236594	True
+rxn05024_c	rxn05024_c	cpd00067_c + cpd02021_c --> cpd00001_c + cpd11217_c	-77.79023314687288	True
+rxn05028_c	rxn05028_c	cpd00113_c + cpd02557_c --> cpd00012_c + cpd00067_c + cpd02172_c	-82.51831510483828	True
+rxn05031_c	rxn05031_c	cpd02168_c --> cpd00012_c + cpd00067_c + cpd03205_c	42.37629697092393	True
+rxn05039_c	rxn05039_c	cpd00001_c + cpd02720_c --> cpd00009_c + cpd02882_c	-14.963784612654536	True
+rxn05040_c	rxn05040_c	cpd00171_c --> cpd00047_c + cpd00067_c + cpd11225_c	-89.6	True
+rxn05072_c	rxn05072_c	cpd00079_c --> cpd02484_c	-59.55496764596046	True
+rxn05108_c	rxn05108_c	cpd00023_c + cpd00869_c --> cpd00024_c + cpd00060_c	10.353981037759011	True
+rxn05114_c	rxn05114_c	cpd00002_c + cpd00242_c + cpd02140_c --> cpd00008_c + cpd00009_c + 2 cpd00067_c + cpd11310_c	-57.0	True
+rxn05115_c	rxn05115_c	cpd00067_c + cpd11310_c --> cpd02893_c	-30.0	True
+rxn05119_c	rxn05119_c	cpd00003_c + cpd00041_c --> cpd00004_c + cpd00067_c + cpd03470_c	56.37012024985353	True
+rxn05120_c	rxn05120_c	cpd00001_c + cpd00028_c + cpd00350_c --> cpd00012_c + cpd00067_c + cpd11313_c	-56.34200272837961	True
+rxn05142_c	rxn05142_c	cpd00001_c + cpd00003_c + cpd03333_c --> cpd00004_c + 2 cpd00067_c + cpd00373_c	-49.379181268496495	True
+rxn05144_c	rxn05144_c	cpd00053_c + cpd00102_c + cpd00171_c --> 3 cpd00001_c + cpd00009_c + cpd00016_c + cpd00023_c + cpd00067_c	-313.2821120172964	True
+rxn05145_c	rxn05145_c	cpd00001_c + cpd00002_c + cpd00009_e --> cpd00008_c + 2 cpd00009_c + cpd00067_c	-31.6149117478343	True
+rxn05146_c	rxn05146_c	cpd00001_c + cpd00002_c + cpd00023_e --> cpd00008_c + cpd00009_c + cpd00023_c + cpd00067_c	-31.61491174783428	True
+rxn05148_c	rxn05148_c	cpd00001_c + cpd00002_c + cpd00028_e --> cpd00008_c + cpd00009_c + cpd00028_c + cpd00067_c	-31.61491174783428	True
+rxn05150_c	rxn05150_c	cpd00001_c + cpd00002_c + cpd00034_e --> cpd00008_c + cpd00009_c + cpd00034_c + cpd00067_c	-31.61491174783428	True
+rxn05151_c	rxn05151_c	cpd00001_c + cpd00002_c + cpd00039_e --> cpd00008_c + cpd00009_c + cpd00039_c + cpd00067_c	-31.61491174783428	True
+rxn05152_c	rxn05152_c	cpd00001_c + cpd00002_c + cpd00041_e --> cpd00008_c + cpd00009_c + cpd00041_c + cpd00067_c	-31.61491174783428	True
+rxn05153_c	rxn05153_c	cpd00001_c + cpd00002_c + cpd00048_e --> cpd00008_c + cpd00009_c + cpd00048_c + cpd00067_c	-31.61491174783428	True
+rxn05155_c	rxn05155_c	cpd00001_c + cpd00002_c + cpd00053_e --> cpd00008_c + cpd00009_c + cpd00053_c + cpd00067_c	-31.61491174783428	True
+rxn05157_c	rxn05157_c	cpd00001_c + cpd00002_c + cpd00073_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00073_c	-31.61491174783428	True
+rxn05158_c	rxn05158_c	cpd00001_c + cpd00002_c + cpd00080_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00080_c	-31.61491174783428	True
+rxn05160_c	rxn05160_c	cpd00001_c + cpd00002_c + cpd00105_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00105_c	-31.61491174783428	True
+rxn05164_c_num1	rxn05164_c_num1	cpd00001_c + cpd00002_c + cpd00119_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00119_c	-31.61491174783428	True
+rxn05167_c	rxn05167_c	cpd00001_c + cpd00002_c + cpd00154_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00154_c	-31.61491174783428	True
+rxn05169_c	rxn05169_c	cpd00001_c + cpd00002_c + cpd00161_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00161_c	-31.61491174783428	True
+rxn05170_c	rxn05170_c	cpd00001_c + cpd00002_c + cpd00179_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00179_c	-31.61491174783428	True
+rxn05171_c	rxn05171_c	cpd00001_c + cpd00002_c + cpd00209_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00209_c	-31.61491174783428	True
+rxn05174_c	rxn05174_c	cpd00001_c + cpd00002_c + cpd00244_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00244_c	-31.61491174783428	True
+rxn05175_c	rxn05175_c	cpd00001_c + cpd00002_c + cpd00264_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00264_c	-31.61491174783428	True
+rxn05176_c	rxn05176_c	cpd00001_c + cpd00002_c + cpd00268_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00268_c	-31.61491174783428	True
+rxn05177_c	rxn05177_c	cpd00001_c + cpd00002_c + cpd00305_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00305_c	-31.61491174783428	True
+rxn05183_c	rxn05183_c	cpd00001_c + cpd00002_c + cpd00637_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00637_c	-31.61491174783428	True
+rxn05195_c	rxn05195_c	cpd00001_c + cpd00002_c + cpd10516_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd10516_c	-31.61491174783428	True
+rxn05219_c	rxn05219_c	cpd00001_c + cpd00002_c + cpd00060_e --> cpd00008_c + cpd00009_c + cpd00060_c + cpd00067_c	-31.61491174783428	True
+rxn05223_c	rxn05223_c	cpd00001_c + cpd00002_c + cpd00104_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00104_c	-31.61491174783428	True
+rxn05226_c	rxn05226_c	cpd00027_e + cpd00061_c --> cpd00020_c + cpd00079_c	-45.301921311039	True
+rxn05231_c	rxn05231_c	cpd00008_c + cpd11421_c --> cpd00001_c + cpd00177_c + cpd11420_c	-43.0	True
+rxn05233_c	rxn05233_c	cpd00031_c + cpd11421_c --> cpd00001_c + cpd00295_c + cpd11420_c	-39.1	True
+rxn05237_c	rxn05237_c	cpd00001_c + cpd00002_c + cpd00084_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00084_c	-31.61491174783428	True
+rxn05239_c	rxn05239_c	cpd00044_c + cpd11421_c --> cpd00045_c + cpd00067_c + cpd00081_c + cpd11420_c	-47.0	True
+rxn05256_c	rxn05256_c	cpd00193_c + cpd11421_c --> cpd00018_c + cpd00067_c + cpd00081_c + cpd11420_c	-42.320909043779366	True
+rxn05287_c	rxn05287_c	cpd00113_c + cpd00289_c --> cpd00012_c + cpd00067_c + cpd02591_c	-82.51831510483908	True
+rxn05289_c_num1	rxn05289_c_num1	cpd00005_c + cpd00067_c + cpd11420_c --> cpd00006_c + cpd11421_c	-5.112842493986364	True
+rxn05501_c	rxn05501_c	cpd00061_c + cpd03696_e --> cpd00020_c + cpd03697_c	-39.9	True
+rxn05516_c_num1	rxn05516_c_num1	cpd00001_c + cpd00002_c + cpd01012_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd01012_e	-31.61491174783428	True
+rxn05539_c	rxn05539_c	cpd00001_c + cpd00002_c + cpd01017_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd01017_c	-30.61	True
+rxn05555_c	rxn05555_c	cpd00001_c + cpd00002_c + cpd10515_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd10515_c	-31.61491174783428	True
+rxn05560_c	rxn05560_c	cpd00061_c + cpd00082_e --> cpd00020_c + cpd00802_c	-41.67118736820282	True
+rxn05567_c	rxn05567_c	cpd00061_c + cpd01171_e --> cpd00020_c + cpd03752_c	-43.38740078947092	True
+rxn05569_c	rxn05569_c	cpd00061_c + cpd00276_e --> cpd00020_c + cpd00288_c	-36.59811665024688	True
+rxn05607_c	rxn05607_c	cpd00061_c + cpd00179_e --> cpd00020_c + cpd01919_c	-39.1086839433226	True
+rxn05608_c	rxn05608_c	cpd00001_c + cpd00002_c + cpd01262_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd01262_c	-31.61491174783428	True
+rxn05610_c	rxn05610_c	cpd00061_c + cpd00138_e --> cpd00020_c + cpd00235_c	-44.16315181688043	True
+rxn05613_c	rxn05613_c	cpd00001_c + cpd00002_c + cpd01914_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd01914_c	-31.61491174783428	True
+rxn05617_c	rxn05617_c	cpd00061_c + cpd00314_e --> cpd00020_c + cpd00491_c	-42.64326771001868	True
+rxn05647_c	rxn05647_c	cpd00061_c + cpd01030_e --> cpd00020_c + cpd03698_c	-39.45432134968428	True
+rxn05655_c	rxn05655_c	cpd00061_c + cpd00076_e --> cpd00020_c + cpd01693_c	-36.91092855312559	True
+rxn05734_c	rxn05734_c	cpd00001_c + cpd00003_c + cpd00040_c --> cpd00004_c + 2 cpd00067_c + cpd00180_c	-36.40827472984411	True
+rxn05735_c	rxn05735_c	cpd00001_c + cpd00003_c + cpd04122_c --> cpd00004_c + cpd00033_c + 2 cpd00067_c	-48.47340755272816	True
+rxn05736_c_num1	rxn05736_c_num1	cpd00002_c + cpd00010_c + cpd03847_c --> cpd00012_c + cpd00018_c + cpd00067_c + cpd01695_c	-14.991501268303182	True
+rxn05746_c	rxn05746_c	cpd00001_c + cpd01262_c --> cpd00027_c + cpd00179_c	-13.28590655435812	True
+rxn05910_c_num1	rxn05910_c_num1	cpd00005_c + cpd00067_c + cpd12732_c --> cpd00006_c + cpd00042_c + cpd00084_c	-3.331392812635386	True
+rxn05918_c	rxn05918_c	cpd00067_c + cpd00083_c + cpd11619_c --> cpd00031_c + cpd12407_c	242.82459396799788	True
+rxn06060_c_num1	rxn06060_c_num1	2 cpd00042_c + cpd00268_c --> cpd00067_c + cpd00081_c + cpd00111_c + cpd00239_c	-51.877578270650936	True
+rxn06075_c	rxn06075_c	cpd00014_c + cpd11421_c --> cpd00001_c + cpd00978_c + cpd11420_c	-43.7	True
+rxn06076_c	rxn06076_c	cpd00096_c + cpd11421_c --> cpd00001_c + cpd00533_c + cpd11420_c	-39.8	True
+rxn06078_c	rxn06078_c	cpd00268_c + cpd00790_c + cpd11421_c --> cpd00029_c + cpd00067_c + cpd00081_c + cpd00135_c + cpd11420_c	-51.80104261613144	True
+rxn06135_c	rxn06135_c	2 cpd00004_c + 3 cpd00067_c + cpd00070_c + cpd00327_c --> cpd00001_c + 2 cpd00003_c + cpd00010_c + cpd00011_c + cpd01393_c	-48.906025689776015	True
+rxn06136_c	rxn06136_c	2 cpd00005_c + 3 cpd00067_c + cpd00070_c + cpd00327_c --> cpd00001_c + 2 cpd00006_c + cpd00010_c + cpd00011_c + cpd01393_c	-48.66113842361892	True
+rxn06488_c_num1	rxn06488_c_num1	cpd00001_c + cpd11999_c --> cpd00067_c + cpd12503_c	135.6034900262223	True
+rxn06510_c	rxn06510_c	cpd00022_c + cpd01260_c --> cpd00010_c + cpd12689_c	30.0685090160514	True
+rxn06777_c	rxn06777_c	cpd00003_c + cpd03115_c --> cpd00004_c + cpd00067_c + cpd12689_c	13.65604537634954	True
+rxn06904_c	rxn06904_c	cpd00004_c + cpd03770_c --> cpd00003_c + cpd00099_c + cpd01498_c	1.5772497338245728	True
+rxn06959_c	rxn06959_c	cpd00002_c + cpd00010_c + cpd01059_c --> cpd00012_c + cpd00018_c + cpd00321_c	-15.544137760864032	True
+rxn07251_c_num1	rxn07251_c_num1	cpd00004_c + cpd00067_c + cpd00364_c --> cpd00003_c + cpd00415_c	-74.00459402208241	True
+rxn07312_c	rxn07312_c	cpd00017_c + cpd01306_c --> cpd00019_c + cpd00067_c + cpd05727_c	-44.55145956723527	True
+rxn07437_c	rxn07437_c	cpd00001_c + cpd00060_c + cpd11420_c --> cpd11421_c + cpd14721_c	0.9825158048989238	True
+rxn07595_c	rxn07595_c	cpd00004_c + cpd14965_c --> cpd00003_c + cpd00966_c + cpd01498_c	1.577207720232508	True
+rxn07602_c	rxn07602_c	cpd00001_c + cpd00007_c + cpd03777_c --> 2 cpd00067_c + cpd00081_c + cpd01644_c	-58.5800351345641	True
+rxn07841_c	rxn07841_c	cpd00002_c + cpd00202_c --> cpd00012_c + cpd00067_c + cpd15130_c	-55.75858879130056	True
+rxn07842_c	rxn07842_c	cpd00008_c + cpd00202_c --> cpd00012_c + cpd00067_c + cpd15131_c	-61.1614989947708	True
+rxn07875_c	rxn07875_c	cpd00001_c + cpd00003_c + cpd01061_c --> cpd00004_c + 2 cpd00067_c + cpd15165_c	-47.84402788550955	True
+rxn07876_c	rxn07876_c	cpd00001_c + cpd00003_c + cpd06739_c --> cpd00004_c + 2 cpd00067_c + cpd15166_c	-47.8450463009616	True
+rxn07885_c	rxn07885_c	cpd00001_c + cpd00003_c + cpd08238_c --> cpd00004_c + 2 cpd00067_c + cpd15166_c	-47.8450463009616	True
+rxn07889_c	rxn07889_c	cpd00004_c + cpd00007_c + cpd00067_c + cpd01575_c --> cpd00003_c + cpd15186_c	-173.17254775485384	True
+rxn07890_c	rxn07890_c	cpd00004_c + cpd00007_c + cpd00067_c + cpd01575_c --> cpd00003_c + cpd15185_c	-194.53953958841024	True
+rxn07896_c	rxn07896_c	cpd00004_c + cpd00007_c + cpd00067_c + cpd01579_c --> cpd00003_c + cpd15182_c	-200.03729596953536	True
+rxn07897_c	rxn07897_c	cpd00004_c + cpd00007_c + cpd00067_c + cpd01579_c --> cpd00003_c + cpd15183_c	-200.03697079880857	True
+rxn07898_c	rxn07898_c	cpd00004_c + cpd00007_c + cpd00067_c + cpd01583_c --> cpd00003_c + cpd15184_c	-205.0382557292008	True
+rxn07899_c	rxn07899_c	cpd00003_c + cpd15182_c --> cpd00004_c + cpd00011_c + cpd15176_c	-235.8259006659564	True
+rxn07900_c	rxn07900_c	cpd00003_c + cpd15183_c --> cpd00004_c + cpd00011_c + cpd15177_c	-235.65836344982745	True
+rxn07901_c	rxn07901_c	cpd00003_c + cpd15184_c --> cpd00004_c + cpd00011_c + cpd15177_c	-235.6584262784588	True
+rxn07902_c	rxn07902_c	cpd00007_c + cpd15176_c --> 2 cpd00067_c + cpd15179_c	-155.2240779903792	True
+rxn07903_c	rxn07903_c	cpd00007_c + cpd15177_c --> 2 cpd00067_c + cpd15178_c	-155.39199879981098	True
+rxn08040_c	rxn08040_c	cpd00037_c + cpd00286_c --> cpd00091_c + cpd00946_c	5.309232926056438	True
+rxn08043_c	rxn08043_c	cpd00020_c + cpd00067_c + cpd00094_c --> cpd00011_c + cpd00498_c	-17.0	True
+rxn08094_c	rxn08094_c	cpd00003_c + cpd00010_c + cpd00024_c --> cpd00004_c + cpd00011_c + cpd00078_c	-29.0	True
+rxn08098_c_num1	rxn08098_c_num1	cpd00001_c + cpd00002_c + cpd00731_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00731_c	-31.61491174783428	True
+rxn08126_c	rxn08126_c	cpd00179_c + cpd01262_c --> cpd00027_c + cpd01399_c	-3.0	True
+rxn08127_c	rxn08127_c	cpd00179_c + cpd01399_c --> cpd00027_c + cpd15495_c	0.4	True
+rxn08128_c	rxn08128_c	cpd00179_c + cpd15495_c --> cpd00027_c + cpd01329_c	-1.3	True
+rxn08129_c	rxn08129_c	cpd00179_c + cpd01329_c --> cpd00027_c + cpd15494_c	-1.3	True
+rxn08133_c_num1	rxn08133_c_num1	cpd00001_c + cpd15551_c --> cpd00033_c + 2 cpd00067_c + cpd00129_c	28.213433373249643	True
+rxn08160_c	rxn08160_c	cpd00001_c + cpd00002_c + cpd00132_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00132_c	-31.61491174783428	True
+rxn08167_c	rxn08167_c	cpd00041_c + cpd15500_c --> cpd03470_c + cpd15499_c	34.38968726945416	True
+rxn08173_c	rxn08173_c	cpd00008_c + cpd00009_c + 4 cpd00067_e --> cpd00001_c + cpd00002_c + 3 cpd00067_c	31.61491174783453	True
+rxn08204_c	rxn08204_c	cpd00046_c + cpd00067_c + cpd15526_c --> cpd00001_c + cpd15421_c	39.22560483673442	True
+rxn08287_c	rxn08287_c	0.5 cpd00007_c + 2 cpd00067_c + cpd15499_c --> cpd00001_c + 2 cpd00067_e + cpd15500_c	-201.3784821396399	True
+rxn08307_c	rxn08307_c	cpd00052_c + cpd15522_c --> cpd00012_c + cpd00067_c + cpd15423_c	-9.7	True
+rxn08311_c	rxn08311_c	cpd00052_c + cpd15526_c --> cpd00012_c + cpd00067_c + cpd15421_c	-9.7	True
+rxn08336_c	rxn08336_c	cpd00282_c + cpd15500_c --> cpd00247_c + cpd15499_c	-18.0	True
+rxn08355_c	rxn08355_c	cpd08021_c + cpd15499_c --> cpd00001_c + cpd00450_c + cpd15500_c	-224.0	True
+rxn08440_c	rxn08440_c	cpd00001_c + cpd01260_c --> cpd00010_c + cpd00067_c + cpd01741_c	-31.66720169414737	True
+rxn08441_c	rxn08441_c	cpd00001_c + cpd01695_c --> cpd00010_c + cpd00067_c + cpd03847_c	-31.666586295493573	True
+rxn08444_c	rxn08444_c	cpd00001_c + cpd00327_c --> cpd00010_c + cpd00067_c + cpd01080_c	-31.66658629549292	True
+rxn08448_c_num1	rxn08448_c_num1	cpd00002_c + cpd00010_c + cpd01107_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd03128_c	-14.990653253081746	True
+rxn08449_c_num1	rxn08449_c_num1	cpd00002_c + cpd00010_c + cpd01741_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd01260_c	-14.990885869649446	True
+rxn08450_c_num1	rxn08450_c_num1	cpd00002_c + cpd00010_c + cpd03847_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd01695_c	-14.991501268303182	True
+rxn08452_c_num1	rxn08452_c_num1	cpd00002_c + cpd00010_c + cpd00214_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd00134_c	-15.09361786523823	True
+rxn08454_c_num1	rxn08454_c_num1	cpd00002_c + cpd00010_c + cpd01080_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd00327_c	-14.991501268303182	True
+rxn08456_c_num1	rxn08456_c_num1	cpd00002_c + cpd00010_c + cpd01113_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd03124_c	-14.989687759313483	True
+rxn08457_c_num1	rxn08457_c_num1	cpd00002_c + cpd00010_c + cpd03846_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd01335_c	-14.9889852366814	True
+rxn08521_c	rxn08521_c	cpd00004_c + 2 cpd00067_c + cpd00220_c --> cpd00003_c + cpd00739_c	-3.010871522751131	True
+rxn08557_c	rxn08557_c	cpd00080_c + cpd15500_c --> cpd00095_c + cpd15499_c	-1.0	True
+rxn08559_c	rxn08559_c	cpd00001_c + cpd00002_c + cpd00908_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00908_c	-30.61	True
+rxn08561_c	rxn08561_c	cpd00001_c + cpd00002_c + cpd02090_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd02090_c	-30.61	True
+rxn08563_c	rxn08563_c	cpd00001_c + cpd00002_c + cpd00902_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00902_c	-30.61	True
+rxn08565_c	rxn08565_c	cpd00001_c + cpd00002_c + cpd15468_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd15468_c	-30.61	True
+rxn08583_c	rxn08583_c	cpd00026_c + cpd15479_c --> cpd00014_c + cpd15469_c	-26.48839412771668	True
+rxn08619_c	rxn08619_c	cpd00026_c + cpd15469_c --> cpd00014_c + cpd15475_c	-17.257735451716144	True
+rxn08620_c	rxn08620_c	cpd00026_c + cpd15475_c --> cpd00014_c + cpd15477_c	-17.257735451714325	True
+rxn08647_c	rxn08647_c	cpd00002_c + cpd00223_c --> cpd00008_c + cpd00067_c + cpd00482_c	-11.4	True
+rxn08667_c	rxn08667_c	cpd00001_c + cpd00925_c --> 2 cpd00031_c	-55.0	True
+rxn08669_c_num1	rxn08669_c_num1	cpd00001_c + cpd02090_c --> cpd00067_c + cpd00080_c + cpd00100_c	-265.9568601013684	True
+rxn08675_c	rxn08675_c	cpd00001_c + cpd00002_c + cpd00042_c --> cpd00008_c + cpd00009_c + cpd00042_e + cpd00067_c	-31.61491174783428	True
+rxn08708_c	rxn08708_c	cpd00002_c + cpd15484_c --> cpd00008_c + cpd00067_c + cpd15549_c	-28.022850289848066	True
+rxn08709_c	rxn08709_c	cpd00002_c + cpd15488_c --> cpd00008_c + cpd00067_c + cpd15550_c	-34.90485726050065	True
+rxn08710_c	rxn08710_c	cpd03587_c + cpd03831_c --> cpd00008_c + cpd15485_c	-15.31090682805734	True
+rxn08711_c	rxn08711_c	cpd03831_c + cpd15485_c --> cpd00008_c + cpd15484_c	-15.310906828055522	True
+rxn08712_c	rxn08712_c	cpd03831_c + cpd15549_c --> cpd00008_c + cpd15488_c	-24.54156550405605	True
+rxn08793_c_num1	rxn08793_c_num1	cpd00159_c + cpd15500_c --> cpd00020_c + cpd15499_c	-0.2307276172913361	True
+rxn08796_c_num1	rxn08796_c_num1	cpd00001_c + cpd15325_c --> cpd00067_c + cpd00080_c + cpd01741_c	-28.985356891392826	True
+rxn08797_c_num1	rxn08797_c_num1	cpd00001_c + cpd15331_c --> cpd00067_c + cpd00080_c + cpd03847_c	-28.98474149273835	True
+rxn08801_c_num1	rxn08801_c_num1	cpd00001_c + cpd15329_c --> cpd00067_c + cpd00080_c + cpd01080_c	-28.98474149273838	True
+rxn08901_c	rxn08901_c	cpd00130_c + cpd15500_c --> cpd00032_c + cpd15499_c	3.0	True
+rxn08954_c	rxn08954_c	cpd02546_c + cpd15550_c --> cpd00046_c + cpd00067_c + cpd15492_c	-265.61925900357164	True
+rxn08971_c	rxn08971_c	cpd00004_c + cpd00067_c + cpd15500_c --> cpd00003_c + cpd15499_c	-23.0	True
+rxn09013_c	rxn09013_c	cpd00001_c + cpd00115_c --> cpd00012_c + 2 cpd00067_c + cpd00294_c	-51.3	True
+rxn09149_c	rxn09149_c	2 cpd00067_c + cpd01080_c + cpd15329_c --> cpd00001_c + cpd15526_c	28.22152315125936	True
+rxn09177_c	rxn09177_c	cpd00052_c + cpd00084_c + cpd02201_c --> cpd00012_c + cpd00046_c + 2 cpd00067_c + cpd02666_c	-60.0	True
+rxn09188_c	rxn09188_c	cpd00015_c + cpd00129_c --> cpd00067_c + cpd00982_c + cpd02431_c	-1.0	True
+rxn09189_c	rxn09189_c	cpd00001_c + cpd00002_c + cpd15551_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd15551_c	-30.61	True
+rxn09210_c	rxn09210_c	cpd00054_c + cpd15421_c --> cpd00046_c + 2 cpd00067_c + cpd15557_c	213.46314221737492	True
+rxn09222_c	rxn09222_c	cpd00001_c + cpd00101_c --> cpd00009_c + cpd00105_c	-2.54788298840424	True
+rxn09240_c	rxn09240_c	cpd00001_c + cpd00002_c + cpd00038_c + cpd00048_c --> cpd00009_c + cpd00012_c + cpd00031_c + cpd00067_c + cpd00193_c	17.8	True
+rxn09296_c_num1	rxn09296_c_num1	cpd00025_c + cpd11421_c --> 2 cpd00001_c + cpd11420_c	-314.0705217959004	True
+rxn09310_c	rxn09310_c	cpd00002_c + cpd00069_c + cpd00084_c + cpd08289_c --> cpd00001_c + cpd00011_c + cpd00012_c + cpd00018_c + cpd00035_c + 2 cpd00067_c + cpd02654_c + cpd15378_c	-263.1361579467326	True
+rxn09320_c	rxn09320_c	cpd00002_c + cpd00655_c --> cpd00128_c + cpd15364_c	-0.0303811084895642	True
+rxn09345_c	rxn09345_c	8 cpd00113_c + cpd00350_c --> 8 cpd00012_c + 8 cpd00067_c + cpd02229_c	-660.1465208387096	True
+rxn09449_c_num1	rxn09449_c_num1	cpd00002_c + cpd00010_c + cpd01080_c --> cpd00012_c + cpd00018_c + cpd00067_c + cpd00327_c	-14.991501268303182	True
+rxn09562_c	rxn09562_c	cpd00067_c + cpd00115_c + cpd00126_c --> cpd00031_c + cpd00177_c	-2.299625742546141	True
+rxn09564_c	rxn09564_c	cpd00031_c + cpd00038_c --> cpd00009_c + cpd00067_c + cpd00925_c	23.30195198363185	True
+rxn10052_c	rxn10052_c	cpd00018_c + cpd00067_c + cpd00421_c --> cpd00008_c + cpd00012_c	3.4	True
+rxn10121_c	rxn10121_c	2 cpd00067_c + cpd00209_c + cpd15499_c --> cpd00001_c + 2 cpd00067_e + cpd00075_c + cpd15500_c	-112.00300700957166	True
+rxn10145_c	rxn10145_c	cpd00001_c + cpd00002_c + cpd00516_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00516_c	-31.61491174783428	True
+rxn10174_c	rxn10174_c	cpd00001_c + cpd00002_c + cpd01329_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd01329_c	-31.61491174783428	True
+rxn10184_c	rxn10184_c	cpd00061_c + cpd00588_e --> cpd00020_c + cpd00804_c	-45.43136525785394	True
+rxn10343_c_num1	rxn10343_c_num1	cpd00001_c + cpd00002_c + cpd00531_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00531_e	-31.61491174783428	True
+rxn10344_c_num1	rxn10344_c_num1	cpd00001_c + cpd00002_c + cpd04097_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd04097_e	-31.61491174783428	True
+rxn10432_c	rxn10432_c	cpd00003_c + cpd02041_c --> cpd00004_c + cpd00024_c + cpd00067_c	26.23706824594037	True
+rxn10481_c	rxn10481_c	cpd00001_c + cpd00002_c + cpd00058_e --> cpd00008_c + cpd00009_c + cpd00058_c + cpd00067_c	-31.61491174783428	True
+rxn10484_c	rxn10484_c	cpd00005_c + cpd00013_c + 2 cpd00067_c + cpd02465_c --> cpd00006_c + cpd00516_c	30.0	True
+rxn10571_c	rxn10571_c	cpd00001_c + cpd00002_c + cpd00254_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00254_c	-31.61491174783428	True
+rxn10770_c_num1	rxn10770_c_num1	cpd00003_c + cpd00098_c --> cpd00004_c + cpd00067_c + cpd00447_c	12.651629492431482	True
+rxn11156_c_num1	rxn11156_c_num1	cpd00004_c + cpd00067_c + cpd11451_c --> cpd00003_c + cpd12783_c	-33.17016421563798	True
+rxn11571_c_num1	rxn11571_c_num1	3 cpd00001_c + 3 cpd00006_c + cpd01078_c --> 3 cpd00005_c + 4 cpd00067_c + cpd03387_c	-202.53897850916889	True
+rxn11702_c	rxn11702_c	cpd00024_c + cpd00067_c + cpd00658_c --> cpd00011_c + cpd16335_c	-1.0	True
+rxn11732_c	rxn11732_c	cpd00003_c + cpd01709_c --> cpd00004_c + cpd00024_c + cpd00067_c	16.249567155943993	True
+rxn11749_c	rxn11749_c	cpd00001_c + cpd00067_c + cpd16439_c --> cpd00013_c + cpd16329_c	-16.583851381026193	True
+rxn11759_c	rxn11759_c	cpd00103_c + cpd04810_c --> cpd00012_c + cpd00067_c + cpd16438_c	-31.982563465168653	True
+rxn11766_c	rxn11766_c	cpd00103_c + cpd16418_c --> cpd00012_c + cpd00067_c + cpd16419_c	-31.92754577923415	True
+rxn11809_c_num1	rxn11809_c_num1	cpd00004_c + cpd00067_c + cpd04806_c --> cpd00003_c + cpd16365_c	47.80677495981468	True
+rxn11834_c_num1	rxn11834_c_num1	cpd00003_c + cpd16395_c --> cpd00004_c + cpd00067_c + cpd16396_c	15.65702005941315	True
+rxn11838_c_num1	rxn11838_c_num1	cpd00003_c + cpd16401_c --> cpd00004_c + cpd00067_c + cpd16402_c	-50.354395938858026	True
+rxn11892_c	rxn11892_c	cpd00134_c + cpd00667_c --> cpd00010_c + cpd02184_c	-7.561599984981797	True
+rxn11944_c_num1	rxn11944_c_num1	cpd00017_c + cpd02555_c --> cpd00019_c + cpd00067_c + cpd02738_c	35.366538169405885	True
+rxn11985_c	rxn11985_c	cpd00005_c + cpd00007_c + cpd00067_c + cpd01042_c --> cpd00001_c + cpd00006_c + cpd04117_c	-437.6971767417496	True
+rxn12008_c	rxn12008_c	cpd00113_c + cpd02590_c --> cpd00012_c + cpd00067_c + cpd02557_c	-82.51831510483908	True
+rxn12146_c	rxn12146_c	cpd16540_c --> cpd04242_c	-2.001485702428738	True
+rxn12147_c	rxn12147_c	cpd00001_c + cpd02631_c --> cpd00067_c + cpd16540_c	51.37681597106308	True
+rxn12224_c	rxn12224_c	cpd00007_c + cpd03446_c --> cpd00001_c + cpd03447_c	-335.8164952498611	True
+rxn12225_c	rxn12225_c	cpd00007_c + 2 cpd03444_c --> 2 cpd03445_c	-428.8563163711792	True
+rxn12239_c	rxn12239_c	cpd00003_c + cpd15378_c --> cpd00004_c + cpd00067_c + cpd00484_c	10.888542342752714	True
+rxn12510_c	rxn12510_c	cpd00002_c + cpd00644_c --> cpd00008_c + cpd00067_c + cpd02201_c	-17.9	True
+rxn12512_c	rxn12512_c	cpd00002_c + cpd00084_c + cpd02201_c --> cpd00012_c + cpd00018_c + 2 cpd00067_c + cpd02666_c	-59.0651484080289	True
+rxn12633_c_num1	rxn12633_c_num1	cpd00001_c + cpd11593_c --> cpd00035_c + cpd00041_c	-4.425339217080648	True
+rxn12635_c_num1	rxn12635_c_num1	cpd00001_c + cpd11591_c --> cpd00033_c + cpd00060_c	1.7793937315762491	True
+rxn12637_c_num1	rxn12637_c_num1	cpd00001_c + cpd11589_c --> cpd00033_c + cpd00041_c	-5.8734658128788055	True
+rxn12639_c_num1	rxn12639_c_num1	cpd00001_c + cpd11587_c --> cpd00035_c + cpd00053_c	-5.472217291980144	True
+rxn12641_c_num1	rxn12641_c_num1	cpd00001_c + cpd11585_c --> cpd00033_c + cpd00035_c	-3.252087654601212	True
+rxn12642_c_num1	rxn12642_c_num1	cpd00001_c + cpd11584_c --> cpd00035_c + cpd00119_c	5.708571816951832	True
+rxn12643_c_num1	rxn12643_c_num1	cpd00001_c + cpd11583_c --> cpd00035_c + cpd00107_c	-6.160696442226083	True
+rxn12646_c_num1	rxn12646_c_num1	cpd00001_c + cpd11580_c --> cpd00033_c + cpd00053_c	-6.976003036905524	True
+rxn12649_c	rxn12649_c	2 cpd00005_c + 2 cpd00067_c + cpd00393_c --> 2 cpd00006_c + cpd00087_c	-26.635787978914323	True
+rxn12676_c	rxn12676_c	cpd00001_c + cpd00192_c --> cpd00022_c + cpd00484_c	-3.2287811648432694	True
+rxn12677_c	rxn12677_c	cpd00001_c + cpd00321_c --> cpd00022_c + cpd00561_c	-1.9326935472356013	True
+rxn12844_c_num1	rxn12844_c_num1	cpd00001_c + cpd15603_c --> cpd00033_c + cpd00084_c	8.264500317431327	True
+rxn12845_c_num1	rxn12845_c_num1	cpd00001_c + cpd15604_c --> cpd00033_c + cpd00107_c	-7.664560354319178	True
+rxn12846_c_num1	rxn12846_c_num1	cpd00001_c + cpd15605_c --> cpd00033_c + cpd00066_c	5.932596901041194	True
+rxn12847_c_num1	rxn12847_c_num1	cpd00001_c + cpd15606_c --> cpd00033_c + cpd00069_c	48.52254522269749	True
+rxn13892_c	rxn13892_c	cpd00001_c + cpd00002_c + cpd04099_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd04099_c	-31.61491174783428	True
+rxn14054_c_num1	rxn14054_c_num1	cpd00003_c + cpd04015_c --> cpd00004_c + cpd00067_c + cpd04017_c	15.65729642397281	True
+rxn14089_c_num1	rxn14089_c_num1	cpd00003_c + cpd04016_c --> cpd00004_c + cpd00067_c + cpd15064_c	15.65729642397281	True
+rxn14090_c	rxn14090_c	cpd00202_c + cpd18007_c --> cpd00012_c + cpd00067_c + cpd18036_c	-71.02250051031638	True
+rxn14099_c	rxn14099_c	cpd00006_c + cpd02365_c --> cpd00005_c + cpd00067_c + cpd00237_c	13.89340633744257	True
+rxn14123_c	rxn14123_c	cpd00023_c + cpd03377_c --> cpd00001_c + cpd03646_c	6.990039002566391	True
+rxn14126_c	rxn14126_c	cpd00113_c + cpd00283_c --> cpd00012_c + cpd00067_c + cpd17150_c	-82.51831510483908	True
+rxn14157_c	rxn14157_c	cpd00002_c + cpd00120_c + cpd00242_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd18009_c	-13.216983235242878	True
+rxn14250_c	rxn14250_c	cpd00007_c + cpd00067_c + cpd01270_c + cpd18071_c --> cpd00001_c + cpd00050_c + cpd00071_c + cpd00075_c	-48.54738612875658	True
+rxn14260_c	rxn14260_c	cpd00001_c + cpd16494_c --> cpd00009_c + cpd00100_c	-20.40397449764293	True
+rxn14264_c	rxn14264_c	cpd00202_c + cpd00398_c --> cpd00012_c + cpd00067_c + cpd18006_c	-85.10267076818081	True
+rxn14291_c	rxn14291_c	cpd00006_c + cpd03139_c --> cpd00005_c + cpd00067_c + cpd00420_c	10.527436907161814	True
+rxn14294_c	rxn14294_c	cpd00350_c --> cpd00012_c + cpd00067_c + cpd06559_c	-36.36257242670519	True
+rxn14377_c	rxn14377_c	cpd00008_c + cpd00009_c + cpd00067_c + cpd03524_c --> cpd00002_c + cpd00023_c + cpd00201_c	41.99874028206068	True
+rxn14379_c	rxn14379_c	cpd00006_c + cpd03256_c --> cpd00005_c + cpd00067_c + cpd01450_c	12.21042162229378	True
+rxn15021_c	rxn15021_c	2 cpd00020_c + cpd00067_c --> cpd00011_c + cpd19047_c	-25.0	True
+rxn15094_c	rxn15094_c	cpd00003_c + cpd00010_c + cpd19044_c --> cpd00004_c + cpd00011_c + cpd00086_c	-29.96577983149973	True
+rxn15102_c	rxn15102_c	2 cpd00009_c + cpd00665_c --> cpd00001_c + 2 cpd00089_c	18.77596910906152	True
+rxn15118_c	rxn15118_c	cpd00001_c + cpd00249_c --> cpd00092_c + cpd16443_c	-26.305005781312445	True
+rxn15120_c	rxn15120_c	cpd00002_c + cpd00709_c --> cpd00008_c + cpd00067_c + cpd00348_c	-12.95646154303563	True
+rxn15121_c	rxn15121_c	cpd00002_c + cpd00724_c --> cpd00008_c + cpd00067_c + cpd00348_c	-18.35577073356194	True
+rxn15165_c	rxn15165_c	cpd00001_c + cpd02016_c --> cpd00067_c + cpd00133_c + cpd16443_c	-52.48951677128224	True
+rxn15223_c	rxn15223_c	cpd00022_c + cpd00665_c --> cpd00010_c + cpd01441_c	-3.6438029477467353	True
+rxn15228_c	rxn15228_c	cpd00102_c + cpd00238_c --> cpd00101_c + cpd00198_c	-1.5	True
+rxn15466_c	rxn15466_c	cpd00006_c + cpd19030_c --> cpd00005_c + cpd00067_c + cpd19047_c	14.8	True
+rxn15467_c	rxn15467_c	cpd19030_c --> cpd00001_c + cpd00123_c	-36.9	True
+rxn15641_c	rxn15641_c	cpd00067_c + cpd01630_c --> cpd19162_c	2.478969546000769	True
+rxn15642_c	rxn15642_c	cpd19162_c --> cpd02255_c	-24.85966056761427	True
+rxn15699_c	rxn15699_c	cpd00002_c + cpd14958_c --> cpd00012_c + cpd14955_c	1166.449138446623	True
+rxn15726_c	rxn15726_c	cpd00003_c + cpd00795_c --> cpd00004_c + cpd00024_c + cpd00067_c	22.34610565147992	True
+rxn15833_c	rxn15833_c	cpd00006_c + cpd02122_c --> cpd00005_c + cpd00067_c + cpd01793_c	19.27354735418629	True
+rxn15991_c	rxn15991_c	cpd00003_c + cpd19501_c --> cpd00004_c + cpd00067_c + cpd04106_c	-34.3596495904676	True
+rxn15996_c	rxn15996_c	cpd00007_c + cpd19506_c --> cpd00067_c + cpd19507_c	-216.3582220844628	True
+rxn16000_c	rxn16000_c	2 cpd00005_c + cpd00067_c + cpd19509_c --> 2 cpd00006_c + cpd00099_c + cpd19510_c	56.78111475201276	True
+rxn16085_c	rxn16085_c	cpd00004_c + cpd19571_c --> cpd00003_c + cpd00099_c + cpd19572_c	1.577238566851122	True
+rxn16086_c	rxn16086_c	cpd00004_c + cpd00067_c + cpd19572_c --> cpd00003_c + cpd19573_c	-54.23872233394172	True
+rxn16149_c	rxn16149_c	cpd00006_c + cpd00745_c --> cpd00005_c + cpd00067_c + cpd00191_c	18.32265134495884	True
+rxn16206_c_num1	rxn16206_c_num1	cpd02738_c + cpd03397_c --> cpd02555_c + cpd03163_c	0.0266374166685636	True
+rxn16213_c_num1	rxn16213_c_num1	2 cpd00005_c + 3 cpd00067_c + cpd20163_c --> 2 cpd00001_c + 2 cpd00006_c + cpd03401_c	149.22226325223386	True
+rxn16434_c	rxn16434_c	cpd00002_c + cpd00084_c + cpd20950_c --> cpd00012_c + cpd00018_c + 2 cpd00067_c + cpd20951_c	-57.96834411424175	True
+rxn16464_c	rxn16464_c	cpd00022_c + cpd20951_c --> cpd00010_c + cpd00067_c + cpd04105_c	-26.976162263571496	True
+rxn16478_c	rxn16478_c	cpd00037_c + cpd02484_c --> cpd00014_c + cpd21007_c	-17.01682152619287	True
+rxn16487_c	rxn16487_c	cpd00001_c + cpd21020_c --> cpd00010_c + cpd00067_c + cpd03644_c	-31.664909304585365	True
+rxn16494_c	rxn16494_c	cpd00001_c + cpd21029_c --> cpd00029_c + cpd20950_c	-10.821791093536149	True
+rxn16507_c	rxn16507_c	cpd00001_c + cpd21036_c --> cpd00009_c + cpd21037_c	-11.552830553902368	True
+rxn16574_c	rxn16574_c	cpd00002_c + cpd03520_c --> cpd00012_c + cpd21090_c	-1.288772907345674	True
+rxn16584_c	rxn16584_c	cpd00017_c + cpd21089_c --> cpd00019_c + cpd00067_c + cpd12783_c	-38.50976390843234	True
+rxn16596_c_num1	rxn16596_c_num1	cpd00006_c + cpd00792_c --> cpd00005_c + 2 cpd00067_c + cpd00649_c	-0.130794251092766	True
+rxn16639_c	rxn16639_c	cpd00007_c + cpd01270_c + cpd10393_c --> cpd00001_c + cpd00040_c + cpd00050_c + cpd21150_c	-367.81420755119007	True
+rxn16673_c_num1	rxn16673_c_num1	cpd00001_c + cpd21206_c --> cpd00012_c + 2 cpd00067_c + cpd21207_c	-54.38462578636586	True
+rxn16716_c	rxn16716_c	cpd00001_c + cpd21409_c --> cpd00009_c + cpd00067_c + cpd21207_c	-36.00522018844515	True
+rxn16798_c_num1	rxn16798_c_num1	cpd00003_c + cpd21131_c --> cpd00004_c + cpd00067_c + cpd21484_c	-6.099682232826808	True
+rxn16805_c	rxn16805_c	cpd00067_c + cpd18009_c --> cpd00011_c + cpd00120_c	-8.503002326167234	True
+rxn20643_c	rxn20643_c	cpd00017_c + cpd02140_c --> cpd00047_c + cpd00060_c + cpd00067_c + cpd00204_c + cpd02775_c + cpd03091_c	-189.924658135212	True
+rxn21296_c	rxn21296_c	cpd00002_c + 3 cpd23157_c --> cpd00001_c + cpd00012_c + cpd00018_c + 2 cpd00067_c + cpd23158_c	-54.22991259319349	True
+rxn21300_c	rxn21300_c	cpd00002_c + 3 cpd23157_c --> cpd00001_c + cpd00008_c + cpd00009_c + cpd00067_c + cpd23158_c	-39.1867367772312	True
+rxn23238_c	rxn23238_c	cpd00001_c + cpd00204_c --> cpd00011_c + cpd00067_c + cpd11640_c	-10.351912424040542	True
+rxn23730_c	rxn23730_c	cpd00067_c + 6 cpd00139_c --> 4 cpd00001_c + 2 cpd00011_c + cpd00029_c + 2 cpd00036_c	-210.6682415698237	True
+rxn25273_c	rxn25273_c	cpd00002_c + cpd00005_c + cpd00010_c + cpd00745_c --> cpd00001_c + cpd00006_c + cpd00012_c + cpd00018_c + cpd00086_c	-60.221219471679206	True
+rxn26035_c	rxn26035_c	cpd00007_c + 4 cpd00067_c + 4 cpd30760_c --> 2 cpd00001_c + 4 cpd00058_c	170.78077586526624	True
+rxn26396_c	rxn26396_c	cpd00001_c + cpd02740_c --> cpd00012_c + cpd00038_c	-25.40074491951691	True
+rxn29995_c	rxn29995_c	cpd00001_c + cpd00002_c + cpd00067_c --> cpd00013_c + cpd00068_c	-51.1	True
+rxn30308_c	rxn30308_c	cpd00001_c + cpd00052_c + cpd00067_c --> cpd00013_c + cpd00062_c	-24.494687459373324	True
+rxn33878_c	rxn33878_c	0.5 cpd00007_c + cpd00139_c --> cpd00001_c + cpd00040_c	-184.2028312863848	True
+rxn33879_c	rxn33879_c	cpd00002_c + cpd00010_c + cpd00029_c --> cpd00012_c + cpd00018_e + cpd00022_c + cpd00067_c	-9.770145140547356	True
+rxn33986_c	rxn33986_c	cpd00002_c + cpd00005_c + cpd00022_c + 2 cpd00023_c --> cpd00006_c + cpd00008_c + cpd00009_c + cpd00010_c + cpd00024_c + cpd00342_c	-2.122844602571832	True
+rxn34006_c	rxn34006_c	0.5 cpd00007_c + cpd00081_c --> cpd00048_c + cpd00067_c	-269.20529047080515	True
+rxn34011_c	rxn34011_c	8 cpd00002_c + 8 cpd00005_c + 8 cpd00023_c --> 8 cpd00006_c + 8 cpd00012_c + 8 cpd00018_c + 8 cpd02345_c	52.561280372386136	True
+rxn38843_c	rxn38843_c	cpd00005_c + cpd29213_c --> cpd00001_c + cpd00006_c + cpd00067_c + cpd00113_c	-55.45322246195536	True
+rxn40890_c	rxn40890_c	cpd00001_c + cpd00002_c + cpd30760_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd30760_c	-31.61491174783428	True
+rxn44048_c	rxn44048_c	cpd00001_c + 2 cpd00067_c + cpd00768_c --> cpd00011_c + cpd00013_c + cpd00183_c	-24.327929288866017	True
+rxn47493_c	rxn47493_c	cpd00013_c + cpd02991_c --> cpd00001_c + cpd00067_c + cpd02843_c + cpd02851_c	244.89494738670635	True
+rxnbccaa3_c	rxnbccaa3_c	0.5 cpd00007_c + 6 cpd00067_c + cpd15499_c --> cpd00001_c + 6 cpd00067_e + cpd15500_c	-201.3784821396399	True
+rxncat_c	rxncat_c	cpd00022_c + cpd00036_c --> cpd00029_c + cpd00078_c	-6.418978010135106	True
+rxnfad1_c_num1	rxnfad1_c_num1	cpd00004_c + cpd00015_c + cpd00067_c --> cpd00003_c + cpd00982_c	-11.501263524857675	True
+rxnfad2_c_num1	rxnfad2_c_num1	cpd00005_c + cpd00015_c + cpd00067_c --> cpd00006_c + cpd00982_c	-11.378819891779813	True
+rxnfad3_c_num1	rxnfad3_c_num1	cpd00007_c + cpd00982_c --> cpd00015_c + cpd00025_c	-115.910758792256	True
+rxnfmn_c_num1	rxnfmn_c_num1	cpd00007_c + cpd01270_c --> cpd00025_c + cpd00050_c	-113.2354849884997	True
+rxnmqac_c	rxnmqac_c	cpd00001_c + cpd00020_c + cpd15500_c --> cpd00011_c + cpd00029_c + cpd15499_c	-93.13483363348873	True
+rxnmqDlac_c_num1	rxnmqDlac_c_num1	cpd00221_c + cpd15500_c --> cpd00020_c + cpd15499_c	-3.3080532655739034	True
+rxnmqfadh2_c_num1	rxnmqfadh2_c_num1	cpd00982_c + cpd15500_c --> cpd00015_c + cpd15499_c	-10.479169455541182	True
+rxn00430_c	rxn00430_c	cpd00003_c + cpd00116_c --> cpd00004_c + cpd00055_c + cpd00067_c	28.560612496718107	True
+rxn00429_c	rxn00429_c	cpd00001_c + cpd00003_c + cpd00055_c --> cpd00004_c + cpd00047_c + 2 cpd00067_c	-55.52735349267036	True
+rxn24178_c	rxn24178_c	cpd00055_c + cpd04105_c --> cpd19501_c	-12.46546895473739	True
+rxn40140_c	rxn40140_c	cpd00001_c + cpd00003_c + cpd19501_c --> cpd00004_c + cpd00047_c + 2 cpd00067_c + cpd04105_c	-43.06188453793311	True
+rxn00015_c_reverse	rxn00015_c_reverse	cpd00013_c + cpd03802_c --> 2 cpd00118_c	5.160896179636154	True
+rxn00055_c_reverse	rxn00055_c_reverse	4 cpd00067_c + 3 cpd00147_c + cpd03158_c --> 3 cpd00017_c	10.695099853058764	True
+rxn00077_c_reverse	rxn00077_c_reverse	cpd00006_c + cpd00008_c + cpd00067_c --> cpd00002_c + cpd00003_c	15.052765929278394	True
+rxn00085_c_reverse	rxn00085_c_reverse	cpd00005_c + cpd00024_c + cpd00053_c + cpd00067_c --> cpd00006_c + 2 cpd00023_c	-45.75334665722573	True
+rxn00097_c_reverse	rxn00097_c_reverse	2 cpd00008_c --> cpd00002_c + cpd00018_c + cpd00067_c	-0.52	True
+rxn00102_c_reverse	rxn00102_c_reverse	cpd00001_c + cpd00011_c --> cpd00067_c + cpd00242_c	9.5	True
+rxn00105_c_reverse_num1	rxn00105_c_reverse_num1	cpd00003_c + cpd00012_c --> cpd00002_c + cpd00355_c	2.930798136238764	True
+rxn00107_c_reverse	rxn00107_c_reverse	cpd00008_c + cpd07924_c --> cpd00002_c + cpd07923_c	-5.406874486222364	True
+rxn00117_c_reverse	rxn00117_c_reverse	cpd00008_c + cpd00062_c --> cpd00002_c + cpd00014_c	-0.5	True
+rxn00119_c_reverse_num1	rxn00119_c_reverse_num1	cpd00008_c + cpd00014_c --> cpd00002_c + cpd00067_c + cpd00091_c	0.9308169329257224	True
+rxn00141_c_reverse	rxn00141_c_reverse	cpd00135_c + cpd00182_c --> cpd00001_c + cpd00019_c	-36.61630863257028	True
+rxn00143_c_reverse	rxn00143_c_reverse	cpd00128_c + cpd02227_c --> cpd00001_c + cpd00019_c	16.395558043738447	True
+rxn00173_c_reverse	rxn00173_c_reverse	cpd00010_c + cpd00196_c --> cpd00009_c + cpd00022_c	-9.4	True
+rxn00178_c_reverse_num1	rxn00178_c_reverse_num1	cpd00010_c + cpd00279_c --> 2 cpd00022_c	-24.94642271517887	True
+rxn00181_c_reverse	rxn00181_c_reverse	cpd00008_c + cpd03413_c --> cpd00002_c + cpd00023_c	-21.652586301462577	True
+rxn00191_c_reverse	rxn00191_c_reverse	cpd00020_c + cpd00023_c --> cpd00024_c + cpd00035_c	-0.2	True
+rxn00193_c_reverse_num1	rxn00193_c_reverse_num1	cpd00186_c --> cpd00023_c	-0.5530691490337745	True
+rxn00198_c_reverse	rxn00198_c_reverse	cpd00005_c + cpd00011_c + cpd00024_c --> cpd00006_c + cpd00260_c	-5.340804801165461	True
+rxn00214_c_reverse_num1	rxn00214_c_reverse_num1	cpd00043_c --> cpd00026_c	-1.274956798254948	True
+rxn00225_c_reverse	rxn00225_c_reverse	cpd00008_c + cpd00196_c --> cpd00002_c + cpd00029_c	-14.6	True
+rxn00237_c_reverse	rxn00237_c_reverse	cpd00008_c + cpd00038_c --> cpd00002_c + cpd00031_c	2.2	True
+rxn00239_c_reverse	rxn00239_c_reverse	cpd00008_c + cpd00031_c --> cpd00002_c + cpd00067_c + cpd00126_c	0.1	True
+rxn00248_c_reverse	rxn00248_c_reverse	cpd00004_c + cpd00032_c + cpd00067_c --> cpd00003_c + cpd00130_c	-25.38	True
+rxn00260_c_reverse	rxn00260_c_reverse	cpd00023_c + cpd00032_c --> cpd00024_c + cpd00041_c	-2.8	True
+rxn00288_c_reverse	rxn00288_c_reverse	cpd00106_c + cpd00982_c --> cpd00015_c + cpd00036_c	-44.676506559432966	True
+rxn00290_c_reverse	rxn00290_c_reverse	cpd00036_c + cpd00279_c --> cpd00078_c + cpd00142_c	-12.606372068501628	True
+rxn00293_c_reverse_num1	rxn00293_c_reverse_num1	cpd00012_c + cpd00037_c --> cpd00062_c + cpd02611_c	6.506602885772736	True
+rxn00295_c_reverse_num1	rxn00295_c_reverse_num1	cpd00175_c --> cpd00037_c	-1.5270342928990883	True
+rxn00297_c_reverse	rxn00297_c_reverse	cpd00861_c --> cpd00037_c	-1.532923692849863	True
+rxn00303_c_reverse_num1	rxn00303_c_reverse_num1	cpd00018_c + 2 cpd00067_c + cpd02740_c --> cpd00002_c + cpd00038_c	21.25734264427922	True
+rxn00285_c_reverse	rxn00285_c_reverse	cpd00008_c + cpd00009_c + cpd00078_c --> cpd00002_c + cpd00010_c + cpd00036_c	1.145947334720148	True
+rxn00314_c_reverse	rxn00314_c_reverse	cpd00005_c + cpd00020_c + cpd00039_c + cpd00067_c --> cpd00001_c + cpd00006_c + cpd02490_c	-34.31995071377821	True
+rxn00336_c_reverse	rxn00336_c_reverse	cpd00036_c + cpd00040_c --> cpd00260_c	-9.738991418483977	True
+rxn00337_c_reverse	rxn00337_c_reverse	cpd00008_c + cpd01977_c --> cpd00002_c + cpd00041_c	-21.8	True
+rxn00347_c_reverse	rxn00347_c_reverse	cpd00013_c + cpd00106_c --> cpd00041_c	-12.957274099031167	True
+rxn00350_c_reverse	rxn00350_c_reverse	cpd00023_c + cpd01017_c --> cpd00001_c + cpd00042_c	2.055493649931691	True
+rxn00360_c_reverse_num1	rxn00360_c_reverse_num1	cpd00009_c + cpd00193_c --> cpd00001_c + cpd00044_c	11.783812199994884	True
+rxn00364_c_reverse	rxn00364_c_reverse	cpd00008_c + cpd00096_c --> cpd00002_c + cpd00046_c + cpd00067_c	-2.0	True
+rxn00409_c_reverse	rxn00409_c_reverse	cpd00008_c + cpd00052_c --> cpd00002_c + cpd00096_c	-0.3	True
+rxn00410_c_reverse	rxn00410_c_reverse	cpd00008_c + cpd00009_c + cpd00052_c + 2 cpd00067_c --> cpd00002_c + cpd00013_c + cpd00062_c	7.120224288461657	True
+rxn00459_c_reverse	rxn00459_c_reverse	cpd00001_c + cpd00061_c --> cpd00482_c	3.89	True
+rxn00461_c_reverse	rxn00461_c_reverse	cpd00009_c + cpd02820_c --> cpd00037_c + cpd00061_c	14.932084208957876	True
+rxn00493_c_reverse	rxn00493_c_reverse	cpd00023_c + cpd00143_c --> cpd00024_c + cpd00066_c	-0.4	True
+rxn00499_c_reverse_num1	rxn00499_c_reverse_num1	cpd00004_c + cpd00020_c + cpd00067_c --> cpd00003_c + cpd00159_c	-21.749705363107665	True
+rxn00500_c_reverse_num1	rxn00500_c_reverse_num1	cpd00004_c + cpd00020_c + cpd00067_c --> cpd00003_c + cpd00221_c	-18.67237971482544	True
+rxn00527_c_reverse	rxn00527_c_reverse	cpd00023_c + cpd00868_c --> cpd00024_c + cpd00069_c	0.1	True
+rxn00533_c_reverse	rxn00533_c_reverse	cpd00008_c + cpd00009_c + cpd00067_c + cpd00070_c --> cpd00002_c + cpd00022_c + cpd00242_c	11.071915852866738	True
+rxn00543_c_reverse_num1	rxn00543_c_reverse_num1	cpd00004_c + cpd00067_c + cpd00071_c --> cpd00003_c + cpd00363_c	-16.0990622836421	True
+rxn00555_c_reverse	rxn00555_c_reverse	cpd00023_c + cpd00288_c --> cpd00053_c + cpd00072_c	16.622769763921724	True
+rxn00558_c_reverse	rxn00558_c_reverse	cpd00072_c --> cpd00079_c	-2.5	True
+rxn00559_c_reverse_num1	rxn00559_c_reverse_num1	cpd00072_c --> cpd00235_c	1.1962086438504684	True
+rxn00598_c_reverse	rxn00598_c_reverse	cpd00010_c + cpd01507_c --> cpd00022_c + cpd00078_c	-27.972886906796248	True
+rxn00602_c_reverse	rxn00602_c_reverse	cpd00891_c --> cpd00078_c	-8.170884269991348	True
+rxn00604_c_reverse	rxn00604_c_reverse	cpd00005_c + cpd00067_c + cpd00911_c --> cpd00006_c + cpd00079_c	7.6	True
+rxn00612_c_reverse_num1	rxn00612_c_reverse_num1	cpd00005_c + cpd00067_c + cpd00095_c --> cpd00006_c + cpd00080_c	-20.523810595588373	True
+rxn00623_c_reverse	rxn00623_c_reverse	3 cpd00001_c + 3 cpd00006_c + cpd00239_c --> 3 cpd00005_c + 3 cpd00067_c + cpd00081_c	101.688432932446	True
+rxn00629_c_reverse	rxn00629_c_reverse	cpd00004_c + cpd00067_c + cpd00082_c --> cpd00003_c + cpd00314_c	-4.912562959740853	True
+rxn00641_c_reverse	rxn00641_c_reverse	cpd00012_c + cpd00083_c --> cpd00038_c + cpd00485_c	8.239914282237919	True
+rxn00647_c_reverse	rxn00647_c_reverse	cpd00023_c + cpd00706_c --> cpd00024_c + cpd00084_c	16.981522369961453	True
+rxn00650_c_reverse_num1	rxn00650_c_reverse_num1	cpd00033_c + cpd00084_c --> cpd00001_c + cpd01017_c	-8.337267658689768	True
+rxn00653_c_reverse	rxn00653_c_reverse	cpd00001_c + cpd00003_c + cpd01504_c --> cpd00004_c + 2 cpd00067_c + cpd00085_c	-50.236147939202	True
+rxn00655_c_reverse	rxn00655_c_reverse	cpd00004_c + cpd00020_c + cpd00067_c + cpd00085_c --> cpd00001_c + cpd00003_c + cpd01489_c	-28.770648014770927	True
+rxn00658_c_reverse	rxn00658_c_reverse	cpd00029_c + cpd00085_c --> cpd00001_c + cpd00788_c	13.347027753321129	True
+rxn00670_c_reverse	rxn00670_c_reverse	cpd00010_c + cpd01844_c --> cpd00009_c + cpd00086_c	-20.551543249909628	True
+rxn00676_c_reverse	rxn00676_c_reverse	cpd00010_c + cpd02124_c --> cpd00022_c + cpd00086_c	-31.16617417704424	True
+rxn00686_c_reverse	rxn00686_c_reverse	cpd00005_c + cpd00067_c + cpd00330_c --> cpd00006_c + cpd00087_c	18.1	True
+rxn00692_c_reverse	rxn00692_c_reverse	cpd00054_c + cpd00087_c --> cpd00001_c + cpd00033_c + cpd00125_c	-4.827547490422148	True
+rxn00693_c_reverse_num1	rxn00693_c_reverse_num1	cpd00060_c + cpd00087_c --> cpd00135_c + cpd00345_c	5.120604874349283	True
+rxn00695_c_reverse	rxn00695_c_reverse	cpd00012_c + cpd00387_c --> cpd00002_c + cpd00089_c	8.207998754884898	True
+rxn00704_c_reverse	rxn00704_c_reverse	cpd00089_c --> cpd00079_c	7.4	True
+rxn00721_c_reverse	rxn00721_c_reverse	cpd00012_c + cpd00067_c + cpd02102_c --> cpd00002_c + cpd00093_c	-809.6583756578823	True
+rxn00735_c_reverse	rxn00735_c_reverse	cpd00003_c + cpd03593_c --> cpd00004_c + cpd00011_c + cpd00094_c	-2.774543830109735	True
+rxn00741_c_reverse_num1	rxn00741_c_reverse_num1	cpd00004_c + cpd00067_c + cpd00094_c --> cpd00003_c + cpd03561_c	-10.531922202969495	True
+rxn00747_c_reverse	rxn00747_c_reverse	cpd00095_c --> cpd00102_c	-5.7	True
+rxn00770_c_reverse	rxn00770_c_reverse	cpd00018_c + cpd00067_c + cpd00103_c --> cpd00002_c + cpd00101_c	6.313045532063427	True
+rxn00777_c_reverse	rxn00777_c_reverse	cpd00171_c --> cpd00101_c	-2.1553935053147484	True
+rxn00778_c_reverse	rxn00778_c_reverse	cpd00101_c --> cpd00475_c	11.474770980085792	True
+rxn00781_c_reverse	rxn00781_c_reverse	cpd00004_c + cpd00067_c + cpd00203_c --> cpd00003_c + cpd00009_c + cpd00102_c	-0.1	True
+rxn00784_c_reverse	rxn00784_c_reverse	cpd00071_c + cpd00102_c --> cpd00510_c	-1.5892832163637536	True
+rxn00785_c_reverse	rxn00785_c_reverse	cpd00198_c + cpd00236_c --> cpd00072_c + cpd00102_c	10.5	True
+rxn00786_c_reverse	rxn00786_c_reverse	cpd00095_c + cpd00102_c --> cpd00290_c	-23.7	True
+rxn00797_c_reverse	rxn00797_c_reverse	cpd00092_c + cpd00105_c --> cpd00001_c + cpd00249_c	11.544072149058934	True
+rxn00798_c_reverse	rxn00798_c_reverse	cpd00258_c --> cpd00105_c	-2.6812164711619744	True
+rxn00799_c_reverse	rxn00799_c_reverse	cpd00130_c --> cpd00001_c + cpd00106_c	3.43	True
+rxn00800_c_reverse	rxn00800_c_reverse	cpd00018_c + cpd00106_c --> cpd02375_c	-32.28429232921667	True
+rxn00802_c_reverse	rxn00802_c_reverse	cpd00051_c + cpd00106_c --> cpd02152_c	9.0	True
+rxn00806_c_reverse	rxn00806_c_reverse	cpd00023_c + cpd00200_c --> cpd00024_c + cpd00107_c	-0.3666910323243542	True
+rxn00808_c_reverse	rxn00808_c_reverse	cpd00008_c + cpd00067_c + cpd00348_c --> cpd00002_c + cpd00108_c	18.355770733562395	True
+rxn00830_c_reverse	rxn00830_c_reverse	cpd00202_c --> cpd00113_c	4.8	True
+rxn00832_c_reverse	rxn00832_c_reverse	cpd02884_c --> cpd00001_c + cpd00114_c	-20.0	True
+rxn00834_c_reverse	rxn00834_c_reverse	cpd00004_c + cpd00067_c + cpd00497_c --> cpd00001_c + cpd00003_c + cpd00114_c	-14.5100437888363	True
+rxn00839_c_reverse	rxn00839_c_reverse	cpd00008_c + cpd00115_c --> cpd00002_c + cpd00177_c	-2.5	True
+rxn00856_c_reverse	rxn00856_c_reverse	cpd00023_c + cpd00434_c --> cpd00024_c + cpd00118_c	-4.215609657520417	True
+rxn00872_c_reverse	rxn00872_c_reverse	cpd00650_c + cpd00982_c --> cpd00015_c + cpd00120_c	-36.0	True
+rxn00874_c_reverse_num1	rxn00874_c_reverse_num1	cpd00010_c + cpd03123_c --> cpd00022_c + cpd00120_c	-30.49316032459933	True
+rxn00879_c_reverse_num1	rxn00879_c_reverse_num1	cpd00004_c + cpd00067_c + cpd00524_c --> cpd00003_c + cpd00121_c	7.538584345791037	True
+rxn00903_c_reverse	rxn00903_c_reverse	cpd00023_c + cpd00123_c --> cpd00024_c + cpd00156_c	-1.7581208990358732	True
+rxn00904_c_reverse	rxn00904_c_reverse	cpd00020_c + cpd00156_c --> cpd00035_c + cpd00123_c	1.5473619264180345	True
+rxn00907_c_reverse	rxn00907_c_reverse	cpd00005_c + cpd00347_c --> cpd00006_c + cpd00125_c	-5.5	True
+rxn00912_c_reverse	rxn00912_c_reverse	cpd00087_c + cpd00712_c --> cpd00001_c + cpd00123_c + cpd00125_c	-4.475744063981665	True
+rxn00927_c_reverse_num1	rxn00927_c_reverse_num1	cpd00105_c + cpd00128_c --> cpd00001_c + cpd00182_c	6.018877346794795	True
+rxn00946_c_reverse	rxn00946_c_reverse	cpd00982_c + cpd03126_c --> cpd00015_c + cpd00134_c	-44.9	True
+rxn00974_c_reverse	rxn00974_c_reverse	cpd00001_c + cpd00331_c --> cpd00137_c	-9.2	True
+rxn00985_c_reverse	rxn00985_c_reverse	cpd00008_c + cpd01844_c --> cpd00002_c + cpd00141_c	-32.774277915178175	True
+rxn00992_c_reverse	rxn00992_c_reverse	cpd00004_c + cpd00067_c + cpd00142_c --> cpd00003_c + cpd00797_c	-6.000324256154954	True
+rxn01021_c_reverse	rxn01021_c_reverse	cpd00128_c + cpd01981_c --> cpd00001_c + cpd00147_c	14.174304659115563	True
+rxn01032_c_reverse	rxn01032_c_reverse	cpd00004_c + 2 cpd00067_c + cpd00153_c --> cpd00001_c + cpd00003_c + cpd00225_c	47.73821383545084	True
+rxn01080_c_reverse	rxn01080_c_reverse	cpd00672_c --> cpd00164_c	-0.6	True
+rxn01100_c_reverse	rxn01100_c_reverse	cpd00002_c + cpd00169_c --> cpd00008_c + cpd00203_c	19.5	True
+rxn01101_c_reverse	rxn01101_c_reverse	cpd00004_c + cpd00067_c + cpd02069_c --> cpd00003_c + cpd00169_c	-31.309584201064183	True
+rxn01104_c_reverse	rxn01104_c_reverse	cpd00009_c + cpd00169_c --> cpd00001_c + cpd00853_c	11.423174302513717	True
+rxn01106_c_reverse	rxn01106_c_reverse	cpd00482_c --> cpd00169_c	-4.3	True
+rxn01116_c_reverse	rxn01116_c_reverse	cpd00198_c --> cpd00171_c	3.4	True
+rxn01119_c_reverse	rxn01119_c_reverse	cpd00091_c + cpd02745_c --> cpd00043_c + cpd00286_c	-3.7925293019839614	True
+rxn01134_c_reverse	rxn01134_c_reverse	cpd00794_c --> cpd00179_c	2.774906156507541	True
+rxn01138_c_reverse	rxn01138_c_reverse	cpd00128_c + cpd00475_c --> cpd00009_c + cpd00182_c	-8.00377662169538	True
+rxn01139_c_reverse	rxn01139_c_reverse	cpd00009_c + cpd00182_c --> cpd00001_c + cpd00988_c	17.851074864187467	True
+rxn01146_c_reverse	rxn01146_c_reverse	cpd00151_c + cpd00509_c --> cpd00009_c + cpd00184_c	-7.561834412222879	True
+rxn01157_c_reverse	rxn01157_c_reverse	cpd00001_c + cpd01512_c --> cpd00186_c	8.238234604809122	True
+rxn01176_c_reverse	rxn01176_c_reverse	cpd00095_c + cpd00191_c --> cpd02721_c	-3.562042569076312	True
+rxn01204_c_reverse	rxn01204_c_reverse	cpd00023_c + cpd00199_c --> cpd00024_c + cpd00281_c	-6.503733960165448	True
+rxn01211_c_reverse	rxn01211_c_reverse	cpd00067_c + cpd00201_c --> cpd00001_c + cpd00347_c	5.0	True
+rxn01219_c_reverse	rxn01219_c_reverse	cpd00008_c + cpd00533_c --> cpd00002_c + cpd00067_c + cpd00206_c	-2.0	True
+rxn01226_c_reverse_num1	rxn01226_c_reverse_num1	cpd00105_c + cpd00207_c --> cpd00001_c + cpd00311_c	2.583646663339209	True
+rxn01233_c_reverse	rxn01233_c_reverse	cpd00023_c + cpd00460_c --> cpd00024_c + cpd00210_c	-0.9554638158421084	True
+rxn01241_c_reverse	rxn01241_c_reverse	cpd00004_c + cpd00067_c + cpd00213_c --> cpd00003_c + cpd00449_c	0.3490347079439146	True
+rxn01258_c_reverse	rxn01258_c_reverse	cpd00658_c --> cpd00216_c	-1.0	True
+rxn01265_c_reverse	rxn01265_c_reverse	cpd00103_c + cpd00218_c --> cpd00012_c + cpd00873_c	-6.151377309972531	True
+rxn01275_c_reverse	rxn01275_c_reverse	cpd00008_c + cpd00067_c + cpd00284_c --> cpd00002_c + cpd00222_c	14.761235116562943	True
+rxn01293_c_reverse	rxn01293_c_reverse	cpd00004_c + cpd00067_c + cpd00225_c --> cpd00003_c + cpd00435_c	-15.437717945304868	True
+rxn01299_c_reverse_num1	rxn01299_c_reverse_num1	cpd00105_c + cpd00226_c --> cpd00001_c + cpd00246_c	7.256588885893677	True
+rxn01302_c_reverse	rxn01302_c_reverse	cpd00005_c + cpd00067_c + cpd00346_c --> cpd00006_c + cpd00227_c	-18.6	True
+rxn01322_c_reverse	rxn01322_c_reverse	cpd00020_c + cpd00492_c --> cpd00232_c	-7.70947678554171	True
+rxn01329_c_reverse_num1	rxn01329_c_reverse_num1	cpd00485_c --> cpd00235_c	-4.433306713787658	True
+rxn01333_c_reverse	rxn01333_c_reverse	cpd00072_c + cpd00236_c --> cpd00102_c + cpd00238_c	1.2	True
+rxn01353_c_reverse	rxn01353_c_reverse	cpd00008_c + cpd00241_c --> cpd00002_c + cpd00295_c	-1.7	True
+rxn01358_c_reverse	rxn01358_c_reverse	cpd00226_c + cpd00475_c --> cpd00009_c + cpd00246_c	-6.766065082596413	True
+rxn01365_c_reverse	rxn01365_c_reverse	cpd00013_c + cpd00020_c + cpd00067_c + cpd00239_c --> cpd00001_c + cpd00587_c	0.1467087412428895	True
+rxn01367_c_reverse	rxn01367_c_reverse	cpd00009_c + cpd00249_c --> cpd00001_c + cpd00989_c	12.979709267383214	True
+rxn01374_c_reverse	rxn01374_c_reverse	cpd00250_c --> cpd00001_c + cpd00585_c	-2.247192068445706	True
+rxn01388_c_reverse	rxn01388_c_reverse	cpd00260_c --> cpd00001_c + cpd00331_c	1.4	True
+rxn01396_c_reverse	rxn01396_c_reverse	cpd00008_c + cpd00067_c + cpd00478_c --> cpd00002_c + cpd00263_c	12.37756874433154	True
+rxn01446_c_reverse	rxn01446_c_reverse	cpd00207_c + cpd00509_c --> cpd00009_c + cpd00277_c	-16.440111002764525	True
+rxn01451_c_reverse	rxn01451_c_reverse	cpd00004_c + cpd00067_c + cpd00279_c --> cpd00003_c + cpd00842_c	-12.052161376570666	True
+rxn01465_c_reverse	rxn01465_c_reverse	cpd00067_c + cpd00343_c --> cpd00001_c + cpd00282_c	8.4	True
+rxn01479_c_reverse	rxn01479_c_reverse	cpd00012_c + cpd00444_c --> cpd00052_c + cpd00285_c	3.8995885415687326	True
+rxn01484_c_reverse	rxn01484_c_reverse	cpd00029_c + cpd00288_c --> cpd00001_c + cpd00293_c	9.664153788313795	True
+rxn01485_c_reverse	rxn01485_c_reverse	cpd00288_c --> cpd03671_c	3.4	True
+rxn01506_c_reverse	rxn01506_c_reverse	cpd02612_c --> cpd00293_c	2.2	True
+rxn01509_c_reverse	rxn01509_c_reverse	cpd00008_c + cpd00295_c --> cpd00002_c + cpd00067_c + cpd00296_c	-5.3	True
+rxn01512_c_reverse	rxn01512_c_reverse	cpd00008_c + cpd00357_c --> cpd00002_c + cpd00297_c	-0.8	False
+rxn01513_c_reverse	rxn01513_c_reverse	cpd00008_c + cpd00297_c --> cpd00002_c + cpd00067_c + cpd00298_c	2.3	True
+rxn01517_c_reverse_num1	rxn01517_c_reverse_num1	cpd00008_c + cpd00978_c --> cpd00002_c + cpd00067_c + cpd00299_c	-0.7854883504402324	True
+rxn01530_c_reverse_num1	rxn01530_c_reverse_num1	cpd00004_c + cpd00067_c + cpd00304_c --> cpd00003_c + cpd00365_c	-5.903137597015132	True
+rxn01539_c_reverse_num1	rxn01539_c_reverse_num1	cpd00001_c + cpd00793_c --> cpd00009_c + cpd00067_c + cpd00305_c	-75.75281989671163	True
+rxn01548_c_reverse	rxn01548_c_reverse	cpd00207_c + cpd00475_c --> cpd00009_c + cpd00311_c	-11.439007305150994	True
+rxn01549_c_reverse	rxn01549_c_reverse	cpd00009_c + cpd00311_c --> cpd00001_c + cpd03701_c	13.394560196156476	True
+rxn01575_c_reverse	rxn01575_c_reverse	cpd00023_c + cpd00508_c --> cpd00024_c + cpd00322_c	-6.2	True
+rxn01588_c_reverse	rxn01588_c_reverse	cpd00006_c + cpd03260_c --> cpd00005_c + cpd00067_c + cpd00325_c	12.210421622294009	True
+rxn01602_c_reverse	rxn01602_c_reverse	cpd00005_c + cpd00067_c + cpd00393_c --> cpd00006_c + cpd00330_c	-6.527788532341788	True
+rxn01636_c_reverse	rxn01636_c_reverse	cpd00064_c + cpd00477_c --> cpd00023_c + cpd00342_c	-1.937358743738173	True
+rxn01637_c_reverse_num1	rxn01637_c_reverse_num1	cpd00023_c + cpd00918_c --> cpd00024_c + cpd00342_c	3.273035211441311	True
+rxn01641_c_reverse	rxn01641_c_reverse	cpd00087_c + cpd00344_c --> cpd00023_c + cpd00502_c	-12.312619371295114	True
+rxn01652_c_reverse	rxn01652_c_reverse	cpd00067_c + cpd02197_c --> cpd00001_c + cpd00347_c	-44.26975126155117	True
+rxn01673_c_reverse	rxn01673_c_reverse	cpd00008_c + cpd00356_c --> cpd00002_c + cpd00533_c	-3.8	True
+rxn01675_c_reverse	rxn01675_c_reverse	cpd00012_c + cpd00626_c --> cpd00089_c + cpd00357_c	-1.8	False
+rxn01678_c_reverse	rxn01678_c_reverse	cpd00008_c + cpd00358_c --> cpd00002_c + cpd00978_c	1.1	True
+rxn01682_c_reverse	rxn01682_c_reverse	cpd00102_c + cpd00359_c --> cpd02210_c	-19.173614964287022	True
+rxn01683_c_reverse	rxn01683_c_reverse	cpd00105_c + cpd00360_c --> cpd00001_c + cpd01197_c	-4.053359858613476	True
+rxn01684_c_reverse	rxn01684_c_reverse	cpd00360_c + cpd00475_c --> cpd00009_c + cpd01197_c	-18.07601382710365	True
+rxn01704_c_reverse	rxn01704_c_reverse	cpd00009_c + cpd00367_c --> cpd00001_c + cpd03454_c	22.24701747800782	True
+rxn01731_c_reverse	rxn01731_c_reverse	cpd00008_c + cpd00009_c + cpd00416_c --> cpd00002_c + cpd00010_c + cpd00380_c	5.108676938704292	True
+rxn01754_c_reverse	rxn01754_c_reverse	cpd00008_c + cpd00067_c + cpd02203_c --> cpd00002_c + cpd00392_c	16.650975013845994	True
+rxn01790_c_reverse	rxn01790_c_reverse	cpd00005_c + cpd00067_c + cpd00712_c --> cpd00006_c + cpd00408_c	-16.72583998095803	True
+rxn01799_c_reverse	rxn01799_c_reverse	cpd00092_c + cpd00509_c --> cpd00009_c + cpd00412_c	-4.894438033693859	True
+rxn01807_c_reverse	rxn01807_c_reverse	cpd00008_c + cpd00067_c + cpd00493_c --> cpd00002_c + cpd00419_c	18.47592647299541	True
+rxn01843_c_reverse	rxn01843_c_reverse	cpd00013_c + cpd00430_c --> cpd00001_c + cpd00067_c + cpd01647_c	-52.53740601749186	True
+rxn01859_c_reverse	rxn01859_c_reverse	cpd00128_c + cpd00509_c --> cpd00009_c + cpd00438_c	-9.682727148311528	True
+rxn01871_c_reverse	rxn01871_c_reverse	cpd00010_c + cpd00836_c --> cpd00022_c + cpd00449_c	-9.189626605369329	True
+rxn01900_c_reverse	rxn01900_c_reverse	cpd00005_c + cpd00067_c + cpd00463_c --> cpd00006_c + cpd01983_c	-12.210421622293438	True
+rxn01917_c_reverse	rxn01917_c_reverse	cpd00008_c + cpd02552_c --> cpd00002_c + cpd00477_c	-24.30316040266166	True
+rxn01951_c_reverse	rxn01951_c_reverse	cpd00008_c + cpd00067_c + cpd02612_c --> cpd00002_c + cpd00492_c	15.736433319514504	True
+rxn01974_c_reverse	rxn01974_c_reverse	cpd00516_c --> cpd00504_c	1.7	True
+rxn01985_c_reverse	rxn01985_c_reverse	cpd00226_c + cpd00509_c --> cpd00009_c + cpd03279_c	-7.23992909723205	True
+rxn01986_c_reverse	rxn01986_c_reverse	cpd00510_c --> cpd00509_c	8.061585251305416	True
+rxn01987_c_reverse_num1	rxn01987_c_reverse_num1	cpd00002_c + cpd01242_c --> cpd00008_c + cpd00067_c + cpd00510_c	-9.007537737536495	True
+rxn01996_c_reverse	rxn01996_c_reverse	cpd00519_c --> cpd00891_c	0.1171196437041999	True
+rxn02003_c_reverse	rxn02003_c_reverse	cpd00005_c + cpd00067_c + cpd00522_c --> cpd00006_c + cpd02113_c	6.2266748888855545	True
+rxn02015_c_reverse	rxn02015_c_reverse	cpd00210_c + cpd00526_c --> cpd00001_c + cpd03047_c	-3.174771864586546	True
+rxn02039_c_reverse	rxn02039_c_reverse	cpd00005_c + cpd00067_c + cpd00546_c --> cpd00006_c + cpd03252_c	-12.210421622294009	True
+rxn02066_c_reverse	rxn02066_c_reverse	cpd00004_c + cpd00067_c + cpd01088_c --> cpd00003_c + cpd00562_c	-19.64603979576705	True
+rxn02070_c_reverse	rxn02070_c_reverse	cpd00005_c + cpd00067_c + cpd00566_c --> cpd00006_c + cpd03250_c	-12.210421622293552	True
+rxn02090_c_reverse	rxn02090_c_reverse	cpd00013_c + cpd01679_c --> cpd00001_c + cpd00067_c + cpd00585_c	-15.89272688296051	True
+rxn02143_c_reverse	rxn02143_c_reverse	cpd00036_c + cpd01507_c --> cpd00078_c + cpd00630_c	3.962721030214084	True
+rxn02159_c_reverse	rxn02159_c_reverse	cpd00004_c + cpd00067_c + cpd01324_c --> cpd00003_c + cpd00641_c	-17.947151567846618	True
+rxn02167_c_reverse	rxn02167_c_reverse	cpd00001_c + cpd00650_c --> cpd00842_c	-3.402547821797043	True
+rxn02199_c_reverse	rxn02199_c_reverse	cpd00010_c + cpd02267_c --> cpd00022_c + cpd00680_c	3.995347825687361	True
+rxn02228_c_reverse_num1	rxn02228_c_reverse_num1	cpd00004_c + cpd00067_c + cpd00706_c --> cpd00003_c + cpd03455_c	-13.565934250805242	True
+rxn02229_c_reverse	rxn02229_c_reverse	cpd00020_c + cpd00268_c --> cpd00081_c + cpd00706_c	-4.406413065754293	True
+rxn02258_c_reverse_num1	rxn02258_c_reverse_num1	cpd00036_c + cpd00743_c --> cpd00078_c + cpd01701_c	-1.2669465490785117	True
+rxn02262_c_reverse_num1	rxn02262_c_reverse_num1	cpd00008_c + cpd00067_c + cpd01912_c --> cpd00002_c + cpd00751_c	5.747366464382708	True
+rxn02312_c_reverse	rxn02312_c_reverse	cpd00764_c + cpd02701_c --> cpd00017_c + cpd00800_c	1.5725023639003552	True
+rxn02320_c_reverse	rxn02320_c_reverse	cpd00023_c + cpd00930_c --> cpd00024_c + cpd00807_c	8.908918221778208	True
+rxn02342_c_reverse	rxn02342_c_reverse	cpd00056_c + cpd00836_c --> cpd00213_c + cpd03049_c	0.1451403221458349	True
+rxn02362_c_reverse	rxn02362_c_reverse	cpd00008_c + cpd00009_c + cpd03699_c --> cpd00002_c + cpd00067_c + cpd00853_c	-1821.4484258914204	True
+rxn02369_c_reverse	rxn02369_c_reverse	cpd00067_c + cpd00856_c --> cpd00938_c	19.38102725941016	True
+rxn02376_c_reverse	rxn02376_c_reverse	cpd00056_c + cpd00860_c --> cpd00213_c + cpd03189_c	-3.127472492213883	True
+rxn02418_c_reverse_num1	rxn02418_c_reverse_num1	cpd00009_c + cpd02788_c --> cpd00001_c + cpd00885_c	-10.17133711370343	True
+rxn02421_c_reverse	rxn02421_c_reverse	cpd00012_c + cpd02200_c --> cpd00052_c + cpd00888_c	9.06209936985408	True
+rxn02474_c_reverse	rxn02474_c_reverse	cpd00005_c + cpd00067_c + cpd00931_c --> cpd00006_c + cpd02720_c	-22.95467279143781	True
+rxn02484_c_reverse	rxn02484_c_reverse	cpd00008_c + cpd00067_c + cpd02775_c --> cpd00002_c + cpd00939_c	13.276908765777216	True
+rxn02503_c_reverse	rxn02503_c_reverse	cpd00018_c + 2 cpd00067_c + cpd02920_c --> cpd00002_c + cpd00954_c	11.902087366787782	True
+rxn02504_c_reverse	rxn02504_c_reverse	cpd00229_c + cpd00954_c --> cpd02961_c	-7.1540894827809325	True
+rxn02508_c_reverse	rxn02508_c_reverse	cpd00956_c --> cpd02642_c	9.78582591633267	True
+rxn02517_c_reverse	rxn02517_c_reverse	cpd00008_c + cpd00977_c --> cpd00002_c + cpd00976_c	-5.396860296048203	True
+rxn02548_c_reverse_num1	rxn02548_c_reverse_num1	cpd00019_c + cpd00067_c + cpd01043_c --> cpd00017_c + cpd01047_c	11.516859232489708	True
+rxn02632_c_reverse	rxn02632_c_reverse	cpd00004_c + cpd00067_c + cpd01221_c --> cpd00003_c + cpd01949_c	-13.655843984974185	True
+rxn02636_c_reverse	rxn02636_c_reverse	cpd00006_c + cpd03254_c --> cpd00005_c + cpd00067_c + cpd01228_c	12.210421622294009	True
+rxn02679_c_reverse	rxn02679_c_reverse	cpd00982_c + cpd03130_c --> cpd00015_c + cpd01335_c	-41.4	True
+rxn02680_c_reverse	rxn02680_c_reverse	cpd00010_c + cpd03119_c --> cpd00022_c + cpd01335_c	-30.06850901605185	True
+rxn02687_c_reverse	rxn02687_c_reverse	cpd00004_c + cpd00067_c + cpd01447_c --> cpd00003_c + cpd01357_c	-13.657942642768717	True
+rxn02703_c_reverse	rxn02703_c_reverse	cpd00008_c + cpd00067_c + cpd03722_c --> cpd00002_c + cpd01407_c	16.632328385258006	True
+rxn02720_c_reverse	rxn02720_c_reverse	cpd00982_c + cpd02060_c --> cpd00015_c + cpd01260_c	-41.4	True
+rxn02728_c_reverse	rxn02728_c_reverse	cpd01653_c --> cpd01466_c	7.343384822888765e-06	True
+rxn02782_c_reverse	rxn02782_c_reverse	cpd00067_c + cpd01630_c --> cpd02536_c	-6.331389780300157	True
+rxn02789_c_reverse	rxn02789_c_reverse	cpd00001_c + cpd01710_c --> cpd01646_c	0.4	True
+rxn02791_c_reverse	rxn02791_c_reverse	cpd00001_c + cpd03407_c --> cpd00023_c + cpd01651_c	-8.875570456813819	True
+rxn02795_c_reverse	rxn02795_c_reverse	cpd00033_c + cpd01663_c --> cpd00001_c + cpd03247_c	0.7847661127718766	True
+rxn02796_c_reverse	rxn02796_c_reverse	cpd00210_c + cpd01663_c --> cpd00001_c + cpd03246_c	-3.179050588276596	True
+rxn02803_c_reverse	rxn02803_c_reverse	cpd00982_c + cpd03127_c --> cpd00015_c + cpd01695_c	-41.4	True
+rxn02804_c_reverse	rxn02804_c_reverse	cpd00010_c + cpd03114_c --> cpd00022_c + cpd01695_c	-30.06850901605276	True
+rxn02811_c_reverse	rxn02811_c_reverse	cpd00001_c + cpd01710_c --> cpd02693_c	3.7	True
+rxn02835_c_reverse	rxn02835_c_reverse	cpd02979_c --> cpd00001_c + cpd01777_c	0.0055876730680211	True
+rxn02884_c_reverse	rxn02884_c_reverse	cpd00011_c + cpd01960_c --> cpd00067_c + cpd02507_c	8.33157644618791	True
+rxn02911_c_reverse	rxn02911_c_reverse	cpd00001_c + cpd02060_c --> cpd03116_c	0.4317884877123106	True
+rxn02914_c_reverse	rxn02914_c_reverse	cpd00023_c + cpd02069_c --> cpd00024_c + cpd00738_c	-11.050876444697565	True
+rxn02934_c_reverse	rxn02934_c_reverse	cpd00001_c + cpd02125_c --> cpd02691_c	3.68664019034145	True
+rxn02937_c_reverse	rxn02937_c_reverse	cpd00008_c + cpd00009_c + cpd00067_c + cpd02140_c --> cpd00002_c + cpd02826_c	-2.524361794075276	True
+rxn02971_c_reverse	rxn02971_c_reverse	cpd02255_c --> cpd02536_c	16.049301241313344	True
+rxn03002_c_reverse	rxn03002_c_reverse	cpd00009_c + cpd02380_c --> cpd00001_c + cpd02688_c	14.973838589054594	True
+rxn03060_c_reverse_num1	rxn03060_c_reverse_num1	cpd00001_c + cpd02597_c --> cpd01501_c	2.855060373268259	True
+rxn03062_c_reverse	rxn03062_c_reverse	cpd00004_c + cpd00067_c + cpd02605_c --> cpd00003_c + cpd02693_c	-13.66003392911506	True
+rxn03063_c_reverse	rxn03063_c_reverse	cpd00019_c + cpd00067_c + cpd02755_c --> cpd00017_c + cpd03221_c	15.820832501331324	True
+rxn03087_c_reverse_num1	rxn03087_c_reverse_num1	cpd00023_c + cpd02724_c --> cpd00024_c + cpd02698_c	0.6763822494198166	True
+rxn03094_c_reverse	rxn03094_c_reverse	cpd00033_c + cpd02733_c --> cpd00001_c + cpd03245_c	0.7833692887561483	True
+rxn03095_c_reverse	rxn03095_c_reverse	cpd00210_c + cpd02733_c --> cpd00001_c + cpd03244_c	-3.1810885471543315	True
+rxn03108_c_reverse_num1	rxn03108_c_reverse_num1	cpd00008_c + cpd02894_c --> cpd00002_c + cpd02775_c	-3.5209895522366423	True
+rxn03136_c_reverse	rxn03136_c_reverse	cpd00106_c + cpd02851_c --> cpd02921_c	-24.8	False
+rxn03137_c_reverse	rxn03137_c_reverse	cpd00087_c + cpd02884_c --> cpd00201_c + cpd02851_c	-14.0	True
+rxn03175_c_reverse	rxn03175_c_reverse	cpd02991_c --> cpd02979_c	9.8	True
+rxn03239_c_reverse	rxn03239_c_reverse	cpd00004_c + cpd00067_c + cpd03114_c --> cpd00003_c + cpd03113_c	-13.656045376350448	True
+rxn03240_c_reverse	rxn03240_c_reverse	cpd00001_c + cpd03126_c --> cpd03113_c	0.4317884877114011	True
+rxn03241_c_reverse	rxn03241_c_reverse	cpd00001_c + cpd03127_c --> cpd03115_c	0.4317884877123106	True
+rxn03242_c_reverse	rxn03242_c_reverse	cpd00004_c + cpd00067_c + cpd03117_c --> cpd00003_c + cpd03116_c	-13.65604537634954	True
+rxn03243_c_reverse	rxn03243_c_reverse	cpd00010_c + cpd03117_c --> cpd00022_c + cpd03128_c	-30.068509016053213	True
+rxn03244_c_reverse	rxn03244_c_reverse	cpd00004_c + cpd00067_c + cpd03119_c --> cpd00003_c + cpd03118_c	-13.65604537634954	True
+rxn03245_c_reverse	rxn03245_c_reverse	cpd00001_c + cpd03129_c --> cpd03118_c	0.4317884877114011	True
+rxn03246_c_reverse	rxn03246_c_reverse	cpd00004_c + cpd00067_c + cpd03121_c --> cpd00003_c + cpd03120_c	-13.656045376349084	True
+rxn03247_c_reverse	rxn03247_c_reverse	cpd00001_c + cpd03130_c --> cpd03120_c	0.4317884877118558	True
+rxn03248_c_reverse	rxn03248_c_reverse	cpd00010_c + cpd03121_c --> cpd00022_c + cpd03124_c	-30.06850901605162	True
+rxn03249_c_reverse	rxn03249_c_reverse	cpd00004_c + cpd00067_c + cpd03123_c --> cpd00003_c + cpd03122_c	-15.0165280148301	True
+rxn03250_c_reverse	rxn03250_c_reverse	cpd00001_c + cpd03125_c --> cpd03122_c	-0.7685800252338595	True
+rxn03282_c_reverse_num1	rxn03282_c_reverse_num1	cpd00004_c + cpd00067_c + cpd03228_c --> cpd00003_c + cpd03227_c	-15.657296423972866	True
+rxn03291_c_reverse	rxn03291_c_reverse	cpd00005_c + cpd00067_c + cpd03238_c --> cpd00006_c + cpd03234_c	-12.21042162229378	True
+rxn03294_c_reverse	rxn03294_c_reverse	cpd00005_c + cpd00067_c + cpd03239_c --> cpd00006_c + cpd03236_c	-12.210421622293666	True
+rxn03333_c_reverse_num1	rxn03333_c_reverse_num1	cpd00004_c + cpd00067_c + cpd03307_c --> cpd00003_c + cpd03306_c	-15.652708195859075	True
+rxn03360_c_reverse	rxn03360_c_reverse	cpd00067_c + cpd03362_c --> cpd00011_c + cpd03349_c	-16.419860165455788	True
+rxn03408_c_reverse	rxn03408_c_reverse	cpd00014_c + cpd03495_c --> cpd00037_c + cpd03494_c	17.010984440473294	True
+rxn03421_c_reverse	rxn03421_c_reverse	cpd03666_c --> cpd03519_c	9.7086725729838	True
+rxn03435_c_reverse	rxn03435_c_reverse	cpd00005_c + cpd00067_c + cpd10162_c --> cpd00006_c + cpd02535_c	14.8	True
+rxn03436_c_reverse	rxn03436_c_reverse	cpd10162_c --> cpd00498_c	14.8	True
+rxn03445_c_reverse	rxn03445_c_reverse	cpd00023_c + cpd03606_c --> cpd00024_c + cpd03607_c	-10.0	True
+rxn03504_c_reverse	rxn03504_c_reverse	cpd00029_c + cpd03813_c --> cpd00001_c + cpd03812_c	8.69723559339468	True
+rxn03537_c_reverse	rxn03537_c_reverse	cpd00012_c + cpd03920_c --> cpd00038_c + cpd03919_c	-42.92136834250368	True
+rxn03691_c_reverse	rxn03691_c_reverse	cpd00011_c + cpd00099_c + cpd04365_c --> cpd00067_c + cpd02254_c	-47.94991065779209	True
+rxn03840_c_reverse	rxn03840_c_reverse	cpd00001_c + cpd08210_c --> cpd00013_c + cpd00216_c	3.660883868961832	True
+rxn03903_c_reverse	rxn03903_c_reverse	cpd00091_c + cpd02948_c --> cpd00286_c + cpd02862_c	2.797808716650706	True
+rxn03904_c_reverse	rxn03904_c_reverse	cpd00091_c + cpd03494_c --> cpd00286_c + cpd02968_c	1.7	True
+rxn03907_c_reverse	rxn03907_c_reverse	cpd00012_c + cpd08287_c --> cpd00052_c + cpd08286_c	9.089773881893052	True
+rxn03908_c_reverse	rxn03908_c_reverse	cpd00008_c + cpd00067_c + cpd08288_c --> cpd00002_c + cpd08287_c	12.07973590966742	True
+rxn03910_c_reverse	rxn03910_c_reverse	cpd00046_c + cpd08301_c --> cpd08288_c	-1810.2175204962184	True
+rxn03923_c_reverse	rxn03923_c_reverse	cpd00081_c + cpd00196_c --> cpd00009_c + cpd00460_c	-234.3065824958159	True
+rxn03933_c_reverse	rxn03933_c_reverse	cpd00014_c + cpd03491_c --> cpd00037_c + cpd02948_c	17.011002160824773	True
+rxn03958_c_reverse	rxn03958_c_reverse	cpd00005_c + cpd00067_c + cpd08289_c --> cpd00006_c + cpd08286_c	-10.892547762351684	True
+rxn03969_c_reverse	rxn03969_c_reverse	cpd00004_c + 2 cpd00067_c + cpd04073_c --> cpd00001_c + cpd00003_c + cpd00561_c	45.139191738084094	True
+rxn03982_c_reverse	rxn03982_c_reverse	cpd00005_c + cpd00067_c + cpd08341_c --> cpd00006_c + 2 cpd04105_c	-11.109843297215775	True
+rxn04068_c_reverse	rxn04068_c_reverse	cpd00033_c + cpd00526_c --> cpd00001_c + cpd01318_c	0.7881192428822033	True
+rxn04443_c_reverse	rxn04443_c_reverse	cpd00238_c + cpd08994_c --> cpd00101_c + cpd08993_c	-4.9579890361541175	True
+rxn04663_c_reverse	rxn04663_c_reverse	2 cpd00003_c + cpd00099_c + cpd09315_c --> 2 cpd00004_c + cpd00067_c + cpd09314_c	-49.38404975877678	True
+rxn04726_c_reverse_num1	rxn04726_c_reverse_num1	cpd00004_c + cpd00067_c + cpd09793_c --> cpd00003_c + cpd09792_c	-15.657296423972731	True
+rxn04736_c_reverse_num1	rxn04736_c_reverse_num1	cpd00004_c + cpd00067_c + cpd09802_c --> cpd00003_c + cpd01859_c	-15.657296423972731	True
+rxn04840_c_reverse	rxn04840_c_reverse	cpd00001_c + cpd00111_c + cpd02918_c --> 2 cpd00042_c + cpd03176_c	1.232088031584908	True
+rxn04841_c_reverse	rxn04841_c_reverse	cpd00001_c + cpd00111_c + cpd02890_c --> 2 cpd00042_c + cpd03555_c	1.231725979421526	True
+rxn04908_c_reverse_num1	rxn04908_c_reverse_num1	cpd00001_c + cpd00003_c + cpd04661_c --> cpd00004_c + cpd00067_c + cpd04248_c	-47.91882777649733	True
+rxn04932_c_reverse	rxn04932_c_reverse	cpd00004_c + cpd00067_c + cpd00258_c --> cpd00003_c + cpd01307_c	-12.731732943774093	True
+rxn04934_c_reverse	rxn04934_c_reverse	cpd00004_c + cpd00067_c + cpd03285_c --> cpd00003_c + cpd08367_c	-13.655904531358033	True
+rxn04954_c_reverse	rxn04954_c_reverse	cpd00004_c + cpd00067_c + cpd00125_c --> cpd00003_c + cpd00345_c	-40.32549562482495	True
+rxn05108_c_reverse	rxn05108_c_reverse	cpd00024_c + cpd00060_c --> cpd00023_c + cpd00869_c	-10.353981037758956	True
+rxn05114_c_reverse	rxn05114_c_reverse	cpd00008_c + cpd00009_c + 2 cpd00067_c + cpd11310_c --> cpd00002_c + cpd00242_c + cpd02140_c	63.99287194049237	True
+rxn05157_c_reverse	rxn05157_c_reverse	cpd00008_c + cpd00009_c + cpd00067_c + cpd00073_c --> cpd00001_c + cpd00002_c + cpd00073_e	31.61491174783453	True
+rxn05289_c_reverse_num1	rxn05289_c_reverse_num1	cpd00006_c + cpd11421_c --> cpd00005_c + cpd00067_c + cpd11420_c	5.112842493985895	True
+rxn05918_c_reverse	rxn05918_c_reverse	cpd00031_c + cpd12407_c --> cpd00067_c + cpd00083_c + cpd11619_c	-242.82459396799769	True
+rxn06488_c_reverse_num1	rxn06488_c_reverse_num1	cpd00067_c + cpd12503_c --> cpd00001_c + cpd11999_c	-135.60349002622218	True
+rxn06510_c_reverse	rxn06510_c_reverse	cpd00010_c + cpd12689_c --> cpd00022_c + cpd01260_c	-30.068509016052303	True
+rxn06777_c_reverse	rxn06777_c_reverse	cpd00004_c + cpd00067_c + cpd12689_c --> cpd00003_c + cpd03115_c	-13.656045376349084	True
+rxn06904_c_reverse	rxn06904_c_reverse	cpd00003_c + cpd00099_c + cpd01498_c --> cpd00004_c + cpd03770_c	-1.5772497338246865	True
+rxn07437_c_reverse	rxn07437_c_reverse	cpd11421_c + cpd14721_c --> cpd00001_c + cpd00060_c + cpd11420_c	-0.9825158048988668	True
+rxn07584_c_reverse	rxn07584_c_reverse	cpd00012_c + cpd14955_c --> cpd00002_c + cpd00541_c	-1164.5413613562991	True
+rxn07595_c_reverse	rxn07595_c_reverse	cpd00003_c + cpd00966_c + cpd01498_c --> cpd00004_c + cpd14965_c	-1.5772077202326216	True
+rxn08040_c_reverse	rxn08040_c_reverse	cpd00091_c + cpd00946_c --> cpd00037_c + cpd00286_c	-5.309232926056723	True
+rxn08126_c_reverse	rxn08126_c_reverse	cpd00027_c + cpd01399_c --> cpd00179_c + cpd01262_c	1.297931431883626	True
+rxn08127_c_reverse	rxn08127_c_reverse	cpd00027_c + cpd15495_c --> cpd00179_c + cpd01399_c	-0.3550420866874901	True
+rxn08128_c_reverse	rxn08128_c_reverse	cpd00027_c + cpd01329_c --> cpd00179_c + cpd15495_c	1.297875612540338	True
+rxn08129_c_reverse	rxn08129_c_reverse	cpd00027_c + cpd15494_c --> cpd00179_c + cpd01329_c	1.2978899941854252	True
+rxn08307_c_reverse	rxn08307_c_reverse	cpd00012_c + cpd00067_c + cpd15423_c --> cpd00052_c + cpd15522_c	9.10181820886578	True
+rxn08355_c_reverse	rxn08355_c_reverse	cpd00001_c + cpd00450_c + cpd15500_c --> cpd08021_c + cpd15499_c	224.05368213970007	True
+rxn09112_c_reverse	rxn09112_c_reverse	cpd00046_c + cpd15546_c --> cpd00080_c + cpd15418_c	-217.85560729122017	True
+rxn09113_c_reverse	rxn09113_c_reverse	cpd00046_c + cpd15547_c --> cpd00080_c + cpd15421_c	-217.85560729122108	True
+rxn09184_c_reverse	rxn09184_c_reverse	cpd00009_c + cpd00067_c + cpd11640_c --> cpd00001_c + cpd04099_c	47.02223948522997	True
+rxn09222_c_reverse	rxn09222_c_reverse	cpd00009_c + cpd00105_c --> cpd00001_c + cpd00101_c	2.54788298840424	True
+rxn09320_c_reverse	rxn09320_c_reverse	cpd00128_c + cpd15364_c --> cpd00002_c + cpd00655_c	0.0303811084895642	True
+rxn09562_c_reverse	rxn09562_c_reverse	cpd00031_c + cpd00177_c --> cpd00067_c + cpd00115_c + cpd00126_c	2.299625742545686	True
+rxn09564_c_reverse	rxn09564_c_reverse	cpd00009_c + cpd00067_c + cpd00925_c --> cpd00031_c + cpd00038_c	-23.3019519836322	True
+rxn10052_c_reverse	rxn10052_c_reverse	cpd00008_c + cpd00012_c --> cpd00018_c + cpd00067_c + cpd00421_c	-3.4	True
+rxn10432_c_reverse	rxn10432_c_reverse	cpd00004_c + cpd00024_c + cpd00067_c --> cpd00003_c + cpd02041_c	-26.23706824594035	True
+rxn10484_c_reverse	rxn10484_c_reverse	cpd00006_c + cpd00516_c --> cpd00005_c + cpd00013_c + 2 cpd00067_c + cpd02465_c	-32.43765169200367	True
+rxn10770_c_reverse_num1	rxn10770_c_reverse_num1	cpd00004_c + cpd00067_c + cpd00447_c --> cpd00003_c + cpd00098_c	-12.651629492431027	True
+rxn11732_c_reverse	rxn11732_c_reverse	cpd00004_c + cpd00024_c + cpd00067_c --> cpd00003_c + cpd01709_c	-16.24956715594402	True
+rxn11809_c_reverse_num1	rxn11809_c_reverse_num1	cpd00003_c + cpd16365_c --> cpd00004_c + cpd00067_c + cpd04806_c	-47.80677495981468	True
+rxn11834_c_reverse_num1	rxn11834_c_reverse_num1	cpd00004_c + cpd00067_c + cpd16396_c --> cpd00003_c + cpd16395_c	-15.657020059413227	True
+rxn11892_c_reverse	rxn11892_c_reverse	cpd00010_c + cpd02184_c --> cpd00134_c + cpd00667_c	7.5615999849822515	True
+rxn12146_c_reverse	rxn12146_c_reverse	cpd04242_c --> cpd16540_c	2.001485702428738	True
+rxn12239_c_reverse	rxn12239_c_reverse	cpd00004_c + cpd00067_c + cpd00484_c --> cpd00003_c + cpd15378_c	-10.888542342752828	True
+rxn12633_c_reverse_num1	rxn12633_c_reverse_num1	cpd00035_c + cpd00041_c --> cpd00001_c + cpd11593_c	4.425339217080591	True
+rxn12635_c_reverse_num1	rxn12635_c_reverse_num1	cpd00033_c + cpd00060_c --> cpd00001_c + cpd11591_c	-1.7793937315761923	True
+rxn12637_c_reverse_num1	rxn12637_c_reverse_num1	cpd00033_c + cpd00041_c --> cpd00001_c + cpd11589_c	5.873465812878976	True
+rxn12639_c_reverse_num1	rxn12639_c_reverse_num1	cpd00035_c + cpd00053_c --> cpd00001_c + cpd11587_c	5.472217291980201	True
+rxn12641_c_reverse_num1	rxn12641_c_reverse_num1	cpd00033_c + cpd00035_c --> cpd00001_c + cpd11585_c	3.252087654601098	True
+rxn12642_c_reverse_num1	rxn12642_c_reverse_num1	cpd00035_c + cpd00119_c --> cpd00001_c + cpd11584_c	-5.708571816951803	True
+rxn12646_c_reverse_num1	rxn12646_c_reverse_num1	cpd00033_c + cpd00053_c --> cpd00001_c + cpd11580_c	6.976003036905581	True
+rxn12676_c_reverse	rxn12676_c_reverse	cpd00022_c + cpd00484_c --> cpd00001_c + cpd00192_c	3.2287811648432125	True
+rxn12677_c_reverse	rxn12677_c_reverse	cpd00022_c + cpd00561_c --> cpd00001_c + cpd00321_c	1.932693547235658	True
+rxn12844_c_reverse_num1	rxn12844_c_reverse_num1	cpd00033_c + cpd00084_c --> cpd00001_c + cpd15603_c	-8.264500317431214	True
+rxn12845_c_reverse_num1	rxn12845_c_reverse_num1	cpd00033_c + cpd00107_c --> cpd00001_c + cpd15604_c	7.664560354319235	True
+rxn12846_c_reverse_num1	rxn12846_c_reverse_num1	cpd00033_c + cpd00066_c --> cpd00001_c + cpd15605_c	-5.932596901041109	True
+rxn12847_c_reverse_num1	rxn12847_c_reverse_num1	cpd00033_c + cpd00069_c --> cpd00001_c + cpd15606_c	-48.52254522269743	True
+rxn14054_c_reverse_num1	rxn14054_c_reverse_num1	cpd00004_c + cpd00067_c + cpd04017_c --> cpd00003_c + cpd04015_c	-15.65729642397298	True
+rxn14089_c_reverse_num1	rxn14089_c_reverse_num1	cpd00004_c + cpd00067_c + cpd15064_c --> cpd00003_c + cpd04016_c	-15.65729642397298	True
+rxn14099_c_reverse	rxn14099_c_reverse	cpd00005_c + cpd00067_c + cpd00237_c --> cpd00006_c + cpd02365_c	-13.893406337442457	True
+rxn14123_c_reverse	rxn14123_c_reverse	cpd00001_c + cpd03646_c --> cpd00023_c + cpd03377_c	-6.990039002566405	True
+rxn14291_c_reverse	rxn14291_c_reverse	cpd00005_c + cpd00067_c + cpd00420_c --> cpd00006_c + cpd03139_c	-10.5274369071617	True
+rxn14379_c_reverse	rxn14379_c_reverse	cpd00005_c + cpd00067_c + cpd01450_c --> cpd00006_c + cpd03256_c	-12.210421622294234	True
+rxn15228_c_reverse	rxn15228_c_reverse	cpd00101_c + cpd00198_c --> cpd00102_c + cpd00238_c	1.5	True
+rxn15466_c_reverse	rxn15466_c_reverse	cpd00005_c + cpd00067_c + cpd19047_c --> cpd00006_c + cpd19030_c	-14.8	True
+rxn15641_c_reverse	rxn15641_c_reverse	cpd19162_c --> cpd00067_c + cpd01630_c	-2.478969546000769	True
+rxn15726_c_reverse	rxn15726_c_reverse	cpd00004_c + cpd00024_c + cpd00067_c --> cpd00003_c + cpd00795_c	-22.34610565147972	True
+rxn15833_c_reverse	rxn15833_c_reverse	cpd00005_c + cpd00067_c + cpd01793_c --> cpd00006_c + cpd02122_c	-19.27354735418692	True
+rxn16000_c_reverse	rxn16000_c_reverse	2 cpd00006_c + cpd00099_c + cpd19510_c --> 2 cpd00005_c + cpd00067_c + cpd19509_c	-56.78111475201295	True
+rxn16085_c_reverse	rxn16085_c_reverse	cpd00003_c + cpd00099_c + cpd19572_c --> cpd00004_c + cpd19571_c	-1.5772385668510651	True
+rxn16149_c_reverse	rxn16149_c_reverse	cpd00005_c + cpd00067_c + cpd00191_c --> cpd00006_c + cpd00745_c	-18.32265134495881	True
+rxn16206_c_reverse_num1	rxn16206_c_reverse_num1	cpd02555_c + cpd03163_c --> cpd02738_c + cpd03397_c	-0.0266374166685068	True
+rxn16478_c_reverse	rxn16478_c_reverse	cpd00014_c + cpd21007_c --> cpd00037_c + cpd02484_c	17.016821526193553	True
+rxn16494_c_reverse	rxn16494_c_reverse	cpd00029_c + cpd20950_c --> cpd00001_c + cpd21029_c	10.821791093536149	True
+rxn16507_c_reverse	rxn16507_c_reverse	cpd00009_c + cpd21037_c --> cpd00001_c + cpd21036_c	11.552830553902368	True
+rxn16574_c_reverse	rxn16574_c_reverse	cpd00012_c + cpd21090_c --> cpd00002_c + cpd03520_c	1.2887729073457876	True
+rxn16596_c_reverse_num1	rxn16596_c_reverse_num1	cpd00005_c + 2 cpd00067_c + cpd00649_c --> cpd00006_c + cpd00792_c	0.1307942510932207	True
+rxn16798_c_reverse_num1	rxn16798_c_reverse_num1	cpd00004_c + cpd00067_c + cpd21484_c --> cpd00003_c + cpd21131_c	6.099682232827036	True
+rxn20643_c_reverse	rxn20643_c_reverse	cpd00047_c + cpd00060_c + cpd00067_c + cpd00204_c + cpd02775_c + cpd03091_c --> cpd00017_c + cpd02140_c	189.9246581352121	True
+rxn23238_c_reverse	rxn23238_c_reverse	cpd00011_c + cpd00067_c + cpd11640_c --> cpd00001_c + cpd00204_c	10.351912424040576	True
+rxn40890_c_reverse	rxn40890_c_reverse	cpd00008_c + cpd00009_c + cpd00067_c + cpd30760_c --> cpd00001_c + cpd00002_c + cpd30760_e	31.61491174783453	True
+rxn44048_c_reverse	rxn44048_c_reverse	cpd00011_c + cpd00013_c + cpd00183_c --> cpd00001_c + 2 cpd00067_c + cpd00768_c	24.32792928886613	True
+rxnmqfadh2_c_reverse_num1	rxnmqfadh2_c_reverse_num1	cpd00015_c + cpd15499_c --> cpd00982_c + cpd15500_c	10.479169455541864	True
+rxn00105_c_num2	rxn00105_c_num2	cpd00002_c + cpd00355_c --> cpd00003_c + cpd00012_c	-2.930798136238483	True
+rxn00119_c_num2	rxn00119_c_num2	cpd00002_c + cpd00067_c + cpd00091_c --> cpd00008_c + cpd00014_c	-0.9308169329258362	True
+rxn00148_c_num2	rxn00148_c_num2	cpd00008_c + cpd00061_c + cpd00067_c --> cpd00002_c + cpd00020_c	-22.82030816994009	True
+rxn00165_c_num2	rxn00165_c_num2	cpd00054_c --> cpd00013_c + cpd00020_c	-30.18156319165516	True
+rxn00178_c_num2	rxn00178_c_num2	2 cpd00022_c --> cpd00010_c + cpd00279_c	24.94642271517841	True
+rxn00187_c_num2	rxn00187_c_num2	cpd00002_c + cpd00013_c + cpd00023_c --> cpd00008_c + cpd00009_c + cpd00053_c + cpd00067_c	-16.980582271217088	True
+rxn00193_c_num2	rxn00193_c_num2	cpd00023_c --> cpd00186_c	0.5530691490337745	True
+rxn00196_c_num2	rxn00196_c_num2	cpd00001_c + cpd00006_c + cpd00340_c --> cpd00005_c + cpd00024_c + 2 cpd00067_c	-47.09017294854752	True
+rxn00196_c_num3	rxn00196_c_num3	cpd00001_c + cpd00006_c + cpd00340_c --> cpd00005_c + cpd00024_c + 2 cpd00067_c	-47.09017294854752	True
+rxn00211_c_num2	rxn00211_c_num2	cpd00001_c + 2 cpd00003_c + cpd00026_c --> 2 cpd00004_c + 3 cpd00067_c + cpd00144_c	-34.6061779214524	True
+rxn00211_c_num3	rxn00211_c_num3	cpd00001_c + 2 cpd00003_c + cpd00026_c --> 2 cpd00004_c + 3 cpd00067_c + cpd00144_c	-34.6061779214524	True
+rxn00213_c_num2	rxn00213_c_num2	cpd00062_c + cpd00089_c --> cpd00012_c + cpd00026_c	0.335470583045776	True
+rxn00214_c_num2	rxn00214_c_num2	cpd00026_c --> cpd00043_c	1.274956798254948	True
+rxn00214_c_num3	rxn00214_c_num3	cpd00026_c --> cpd00043_c	1.274956798254948	True
+rxn00216_c_num2	rxn00216_c_num2	cpd00002_c + cpd00027_c --> cpd00008_c + cpd00067_c + cpd00079_c	-22.48161314109882	True
+rxn00293_c_num2	rxn00293_c_num2	cpd00062_c + cpd02611_c --> cpd00012_c + cpd00037_c	-6.506602885773191	True
+rxn00295_c_num2	rxn00295_c_num2	cpd00037_c --> cpd00175_c	1.5270342928990883	True
+rxn00295_c_num3	rxn00295_c_num3	cpd00037_c --> cpd00175_c	1.5270342928990883	True
+rxn00303_c_num2	rxn00303_c_num2	cpd00002_c + cpd00038_c --> cpd00018_c + 2 cpd00067_c + cpd02740_c	-21.25734264427922	True
+rxn00360_c_num2	rxn00360_c_num2	cpd00001_c + cpd00044_c --> cpd00009_c + cpd00193_c	-11.783812199995168	True
+rxn00499_c_num2	rxn00499_c_num2	cpd00003_c + cpd00159_c --> cpd00004_c + cpd00020_c + cpd00067_c	21.74970536310784	True
+rxn00500_c_num2	rxn00500_c_num2	cpd00003_c + cpd00221_c --> cpd00004_c + cpd00020_c + cpd00067_c	18.672379714825496	True
+rxn00500_c_num3	rxn00500_c_num3	cpd00003_c + cpd00221_c --> cpd00004_c + cpd00020_c + cpd00067_c	18.672379714825496	True
+rxn00501_c_num2	rxn00501_c_num2	cpd00003_c + cpd00010_c + cpd00191_c --> cpd00004_c + cpd00011_c + cpd00022_c	-25.374200548310228	True
+rxn00508_c_num2	rxn00508_c_num2	cpd00001_c + cpd00003_c + cpd00199_c --> cpd00004_c + cpd00036_c + 2 cpd00067_c	-46.30471225304976	True
+rxn00543_c_num2	rxn00543_c_num2	cpd00003_c + cpd00363_c --> cpd00004_c + cpd00067_c + cpd00071_c	16.09906228364207	True
+rxn00559_c_num2	rxn00559_c_num2	cpd00235_c --> cpd00072_c	-1.1962086438504684	True
+rxn00612_c_num2	rxn00612_c_num2	cpd00006_c + cpd00080_c --> cpd00005_c + cpd00067_c + cpd00095_c	20.52381059558803	True
+rxn00650_c_num2	rxn00650_c_num2	cpd00001_c + cpd01017_c --> cpd00033_c + cpd00084_c	8.337267658689882	True
+rxn00650_c_num3	rxn00650_c_num3	cpd00001_c + cpd01017_c --> cpd00033_c + cpd00084_c	8.337267658689882	True
+rxn00650_c_num4	rxn00650_c_num4	cpd00001_c + cpd01017_c --> cpd00033_c + cpd00084_c	8.337267658689882	True
+rxn00650_c_num5	rxn00650_c_num5	cpd00001_c + cpd01017_c --> cpd00033_c + cpd00084_c	8.337267658689882	True
+rxn00650_c_num6	rxn00650_c_num6	cpd00001_c + cpd01017_c --> cpd00033_c + cpd00084_c	8.337267658689882	True
+rxn00671_c_num2	rxn00671_c_num2	cpd00003_c + cpd00010_c + cpd00287_c --> cpd00004_c + cpd00011_c + cpd00086_c	-30.154306471214568	True
+rxn00679_c_num2	rxn00679_c_num2	cpd00001_c + cpd00032_c + cpd00086_c --> cpd00010_c + cpd00067_c + cpd01501_c	-42.42408518636768	True
+rxn00693_c_num2	rxn00693_c_num2	cpd00135_c + cpd00345_c --> cpd00060_c + cpd00087_c	-5.120604874349397	True
+rxn00730_c_num2	rxn00730_c_num2	cpd00070_c + cpd00093_c --> cpd00010_c + cpd02014_c	-18.04435216492641	True
+rxn00741_c_num2	rxn00741_c_num2	cpd00003_c + cpd03561_c --> cpd00004_c + cpd00067_c + cpd00094_c	10.531922202969554	True
+rxn00772_c_num2	rxn00772_c_num2	cpd00002_c + cpd00105_c --> cpd00008_c + cpd00067_c + cpd00101_c	-29.06702875943	True
+rxn00780_c_num2	rxn00780_c_num2	cpd00002_c + cpd00448_c --> cpd00008_c + cpd00067_c + cpd00102_c	-26.570583373123867	True
+rxn00874_c_num2	rxn00874_c_num2	cpd00022_c + cpd00120_c --> cpd00010_c + cpd03123_c	30.49316032459933	True
+rxn00879_c_num2	rxn00879_c_num2	cpd00003_c + cpd00121_c --> cpd00004_c + cpd00067_c + cpd00524_c	-7.538584345790923	True
+rxn00879_c_num3	rxn00879_c_num3	cpd00003_c + cpd00121_c --> cpd00004_c + cpd00067_c + cpd00524_c	-7.538584345790923	True
+rxn00879_c_num4	rxn00879_c_num4	cpd00003_c + cpd00121_c --> cpd00004_c + cpd00067_c + cpd00524_c	-7.538584345790923	True
+rxn00915_c_num2	rxn00915_c_num2	cpd00103_c + cpd00207_c --> cpd00012_c + cpd00067_c + cpd00126_c	-32.74084807315444	True
+rxn00927_c_num2	rxn00927_c_num2	cpd00001_c + cpd00182_c --> cpd00105_c + cpd00128_c	-6.018877346794795	True
+rxn00947_c_num2	rxn00947_c_num2	cpd00002_c + cpd00010_c + cpd00214_c --> cpd00012_c + cpd00018_c + cpd00067_c + cpd00134_c	-15.09361786523823	True
+rxn00947_c_num3	rxn00947_c_num3	cpd00002_c + cpd00010_c + cpd00214_c --> cpd00012_c + cpd00018_c + cpd00067_c + cpd00134_c	-15.09361786523823	True
+rxn00988_c_num2	rxn00988_c_num2	cpd00002_c + cpd00010_c + cpd00142_c --> cpd00012_c + cpd00018_c + cpd00067_c + cpd00279_c	-3.5827510821809483	True
+rxn00988_c_num3	rxn00988_c_num3	cpd00002_c + cpd00010_c + cpd00142_c --> cpd00012_c + cpd00018_c + cpd00067_c + cpd00279_c	-3.5827510821809483	True
+rxn01102_c_num2	rxn01102_c_num2	cpd00002_c + cpd00223_c --> cpd00008_c + cpd00067_c + cpd00169_c	-20.070579425001995	True
+rxn01102_c_num3	rxn01102_c_num3	cpd00002_c + cpd00223_c --> cpd00008_c + cpd00067_c + cpd00169_c	-20.070579425001995	True
+rxn01153_c_num2	rxn01153_c_num2	cpd00001_c + cpd00610_c --> cpd00013_c + cpd00186_c	-20.309837841180013	True
+rxn01153_c_num3	rxn01153_c_num3	cpd00001_c + cpd00610_c --> cpd00013_c + cpd00186_c	-20.309837841180013	True
+rxn01213_c_num2	rxn01213_c_num2	cpd00113_c + cpd00202_c --> cpd00012_c + cpd00067_c + cpd00283_c	-81.14961321571832	True
+rxn01216_c_num2	rxn01216_c_num2	cpd00203_c --> cpd00067_c + cpd00853_c	-41.977765350883374	True
+rxn01226_c_num2	rxn01226_c_num2	cpd00001_c + cpd00311_c --> cpd00105_c + cpd00207_c	-2.583646663339209	True
+rxn01274_c_num2	rxn01274_c_num2	cpd00001_c + cpd02182_c --> cpd00042_c + cpd00067_c + cpd00221_c	-35.84074624910264	True
+rxn01274_c_num3	rxn01274_c_num3	cpd00001_c + cpd02182_c --> cpd00042_c + cpd00067_c + cpd00221_c	-35.84074624910264	True
+rxn01299_c_num2	rxn01299_c_num2	cpd00001_c + cpd00246_c --> cpd00105_c + cpd00226_c	-7.256588885893606	True
+rxn01329_c_num2	rxn01329_c_num2	cpd00235_c --> cpd00485_c	4.433306713787658	True
+rxn01332_c_num2	rxn01332_c_num2	cpd00001_c + cpd00061_c + cpd00236_c --> cpd00009_c + cpd02857_c	-74.3109253934976	True
+rxn01362_c_num2	rxn01362_c_num2	cpd00103_c + cpd00247_c --> cpd00012_c + cpd00067_c + cpd00810_c	0.7139768697754789	True
+rxn01466_c_num2	rxn01466_c_num2	cpd00113_c + cpd00283_c --> cpd00012_c + cpd00067_c + cpd00350_c	-82.51831510483908	True
+rxn01466_c_num3	rxn01466_c_num3	cpd00113_c + cpd00283_c --> cpd00012_c + cpd00067_c + cpd00350_c	-82.51831510483908	True
+rxn01486_c_num2	rxn01486_c_num2	cpd00113_c + cpd00350_c --> cpd00012_c + cpd00067_c + cpd00289_c	-82.51831510483862	True
+rxn01486_c_num3	rxn01486_c_num3	cpd00113_c + cpd00350_c --> cpd00012_c + cpd00067_c + cpd00289_c	-82.51831510483862	True
+rxn01486_c_num4	rxn01486_c_num4	cpd00113_c + cpd00350_c --> cpd00012_c + cpd00067_c + cpd00289_c	-82.51831510483862	True
+rxn01492_c_num2	rxn01492_c_num2	cpd00002_c + cpd00802_c --> cpd00008_c + cpd00067_c + cpd00290_c	-21.571271544223407	True
+rxn01492_c_num3	rxn01492_c_num3	cpd00002_c + cpd00802_c --> cpd00008_c + cpd00067_c + cpd00290_c	-21.571271544223407	True
+rxn01517_c_num2	rxn01517_c_num2	cpd00002_c + cpd00067_c + cpd00299_c --> cpd00008_c + cpd00978_c	0.785488350440005	True
+rxn01519_c_num2	rxn01519_c_num2	cpd00001_c + cpd00358_c --> cpd00012_c + 2 cpd00067_c + cpd00299_c	-45.59681198733642	True
+rxn01530_c_num2	rxn01530_c_num2	cpd00003_c + cpd00365_c --> cpd00004_c + cpd00067_c + cpd00304_c	5.903137597015132	True
+rxn01539_c_num2	rxn01539_c_num2	cpd00009_c + cpd00067_c + cpd00305_c --> cpd00001_c + cpd00793_c	75.75281989671169	True
+rxn01539_c_num3	rxn01539_c_num3	cpd00009_c + cpd00067_c + cpd00305_c --> cpd00001_c + cpd00793_c	75.75281989671169	True
+rxn01544_c_num2	rxn01544_c_num2	cpd00103_c + cpd00309_c --> cpd00012_c + cpd00067_c + cpd00497_c	-27.82124782323609	True
+rxn01545_c_num2	rxn01545_c_num2	cpd00001_c + cpd01217_c --> cpd00105_c + cpd00309_c	-3.7238975632859592	True
+rxn01637_c_num2	rxn01637_c_num2	cpd00024_c + cpd00342_c --> cpd00023_c + cpd00918_c	-3.2730352114411403	True
+rxn01729_c_num2	rxn01729_c_num2	cpd00001_c + cpd00003_c + cpd02089_c --> cpd00004_c + 2 cpd00067_c + cpd00379_c	-49.583243666781584	True
+rxn01987_c_num2	rxn01987_c_num2	cpd00008_c + cpd00067_c + cpd00510_c --> cpd00002_c + cpd01242_c	9.007537737536213	True
+rxn02005_c_num2	rxn02005_c_num2	cpd00061_c + cpd00794_e --> cpd00020_c + cpd00523_c	-47.23001179643836	True
+rxn02106_c_num2	rxn02106_c_num2	cpd00001_c + cpd00003_c + cpd03562_c --> cpd00004_c + 2 cpd00067_c + cpd00598_c	-47.84097453028966	True
+rxn02122_c_num2	rxn02122_c_num2	2 cpd00001_c + cpd00003_c + cpd01735_c --> cpd00004_c + 3 cpd00067_c + cpd00609_c	-75.65944708995357	True
+rxn02155_c_num2	rxn02155_c_num2	cpd00002_c + cpd00873_c --> cpd00012_c + cpd00638_c	-24.772963231026324	True
+rxn02160_c_num2	rxn02160_c_num2	cpd00001_c + cpd00807_c --> cpd00009_c + cpd00641_c	-21.902636241340588	True
+rxn02228_c_num2	rxn02228_c_num2	cpd00003_c + cpd03455_c --> cpd00004_c + cpd00067_c + cpd00706_c	13.565934250805554	True
+rxn02258_c_num2	rxn02258_c_num2	cpd00078_c + cpd01701_c --> cpd00036_c + cpd00743_c	1.2669465490789662	True
+rxn02262_c_num2	rxn02262_c_num2	cpd00002_c + cpd00751_c --> cpd00008_c + cpd00067_c + cpd01912_c	-5.747366464382651	True
+rxn02264_c_num2	rxn02264_c_num2	cpd00755_c --> cpd00001_c + cpd00774_c	-313.95385726526365	True
+rxn02264_c_num3	rxn02264_c_num3	cpd00755_c --> cpd00001_c + cpd00774_c	-313.95385726526365	True
+rxn02264_c_num4	rxn02264_c_num4	cpd00755_c --> cpd00001_c + cpd00774_c	-313.95385726526365	True
+rxn02314_c_num2	rxn02314_c_num2	cpd00002_c + cpd00805_c --> cpd00008_c + cpd00067_c + cpd02371_c	-23.681686052676696	True
+rxn02314_c_num3	rxn02314_c_num3	cpd00002_c + cpd00805_c --> cpd00008_c + cpd00067_c + cpd02371_c	-23.681686052676696	True
+rxn02314_c_num4	rxn02314_c_num4	cpd00002_c + cpd00805_c --> cpd00008_c + cpd00067_c + cpd02371_c	-23.681686052676696	True
+rxn02350_c_num2	rxn02350_c_num2	cpd00001_c + cpd00003_c + cpd00845_c --> cpd00004_c + 2 cpd00067_c + cpd00870_c	-46.122268839456126	True
+rxn02418_c_num2	rxn02418_c_num2	cpd00001_c + cpd00885_c --> cpd00009_c + cpd02788_c	10.171337113703458	True
+rxn02449_c_num2	rxn02449_c_num2	cpd00001_c + cpd02740_c --> cpd00009_c + cpd00067_c + cpd00905_c	-30.30525395518316	True
+rxn02507_c_num2	rxn02507_c_num2	cpd00067_c + cpd00956_c --> cpd00001_c + cpd00011_c + cpd02210_c	-70.39456021001149	True
+rxn02548_c_num2	rxn02548_c_num2	cpd00017_c + cpd01047_c --> cpd00019_c + cpd00067_c + cpd01043_c	-11.516859232489992	True
+rxn02729_c_num2	rxn02729_c_num2	cpd00001_c + cpd00003_c + cpd00287_c --> cpd00004_c + 2 cpd00067_c + cpd01468_c	-49.771749935478425	True
+rxn03031_c_num2	rxn03031_c_num2	cpd00001_c + cpd00078_c + cpd02465_c --> cpd00010_c + cpd02724_c	25.921373204611086	True
+rxn03052_c_num2	rxn03052_c_num2	cpd00135_c + cpd02738_c --> cpd00060_c + cpd02555_c	-40.781774500014535	True
+rxn03060_c_num2	rxn03060_c_num2	cpd01501_c --> cpd00001_c + cpd02597_c	-2.855060373268145	True
+rxn03060_c_num3	rxn03060_c_num3	cpd01501_c --> cpd00001_c + cpd02597_c	-2.855060373268145	True
+rxn03087_c_num2	rxn03087_c_num2	cpd00024_c + cpd02698_c --> cpd00023_c + cpd02724_c	-0.6763822494198166	True
+rxn03106_c_num2	rxn03106_c_num2	cpd00001_c + cpd00003_c + cpd03228_c --> cpd00004_c + 2 cpd00067_c + cpd02773_c	-47.8428087693851	True
+rxn03108_c_num2	rxn03108_c_num2	cpd00002_c + cpd02775_c --> cpd00008_c + cpd02894_c	3.5209895522368697	True
+rxn03282_c_num2	rxn03282_c_num2	cpd00003_c + cpd03227_c --> cpd00004_c + cpd00067_c + cpd03228_c	15.657296423972523	True
+rxn03333_c_num2	rxn03333_c_num2	cpd00003_c + cpd03306_c --> cpd00004_c + cpd00067_c + cpd03307_c	15.652708195859248	True
+rxn03354_c_num2	rxn03354_c_num2	cpd00001_c + cpd00003_c + cpd03345_c --> cpd00004_c + 2 cpd00067_c + cpd03346_c	-47.93116986545789	True
+rxn03423_c_num2	rxn03423_c_num2	cpd00001_c + cpd00003_c + cpd03529_c --> cpd00004_c + 2 cpd00067_c + cpd01889_c	-47.71997793225074	True
+rxn03598_c_num2	rxn03598_c_num2	cpd00001_c + cpd00003_c + cpd04134_c --> cpd00004_c + 2 cpd00067_c + cpd04135_c	-47.845535865532725	True
+rxn03841_c_num2	rxn03841_c_num2	cpd08210_c --> cpd00020_c + cpd00067_c + cpd00443_c	-92.5608059390708	True
+rxn03848_c_num2	rxn03848_c_num2	cpd00001_c + cpd00067_c + cpd03963_c --> cpd00011_c + cpd00013_c + cpd00073_c	-82.20541426016268	True
+rxn03849_c_num2	rxn03849_c_num2	cpd00001_c + cpd03963_c --> cpd00013_c + cpd00742_c	-33.29948178569589	True
+rxn03898_c_num2	rxn03898_c_num2	cpd00005_c + cpd00007_c + cpd00067_c + cpd00153_c --> cpd00006_c + cpd03762_c	-343.335151419111	True
+rxn03974_c_num2	rxn03974_c_num2	cpd00004_c + cpd00050_c + cpd00067_c --> cpd00003_c + cpd01270_c	-14.17653732861379	True
+rxn03974_c_num3	rxn03974_c_num3	cpd00004_c + cpd00050_c + cpd00067_c --> cpd00003_c + cpd01270_c	-14.17653732861379	True
+rxn03975_c_num2	rxn03975_c_num2	cpd00005_c + cpd00050_c + cpd00067_c --> cpd00006_c + cpd01270_c	-14.054093695535473	True
+rxn03975_c_num3	rxn03975_c_num3	cpd00005_c + cpd00050_c + cpd00067_c --> cpd00006_c + cpd01270_c	-14.054093695535473	True
+rxn04234_c_num2	rxn04234_c_num2	cpd00001_c + cpd00003_c + cpd01686_c --> cpd00004_c + 2 cpd00067_c + cpd08721_c	-47.84265310898772	True
+rxn04726_c_num2	rxn04726_c_num2	cpd00003_c + cpd09792_c --> cpd00004_c + cpd00067_c + cpd09793_c	15.65729642397278	True
+rxn04736_c_num2	rxn04736_c_num2	cpd00003_c + cpd01859_c --> cpd00004_c + cpd00067_c + cpd09802_c	15.65729642397278	True
+rxn04908_c_num2	rxn04908_c_num2	cpd00004_c + cpd00067_c + cpd04248_c --> cpd00001_c + cpd00003_c + cpd04661_c	47.91882777649752	True
+rxn05005_c_num2	rxn05005_c_num2	cpd00017_c + cpd00774_c --> cpd00019_c + cpd00067_c + cpd11206_c	-130.60992645867077	True
+rxn05006_c_num2	rxn05006_c_num2	cpd00017_c + cpd11206_c --> cpd00019_c + cpd01620_c	-141.78274804236594	True
+rxn05164_c_num2	rxn05164_c_num2	cpd00001_c + cpd00002_c + cpd00119_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00119_c	-31.61491174783428	True
+rxn05289_c_num2	rxn05289_c_num2	cpd00005_c + cpd00067_c + cpd11420_c --> cpd00006_c + cpd11421_c	-5.112842493986364	True
+rxn05516_c_num2	rxn05516_c_num2	cpd00001_c + cpd00002_c + cpd01012_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd01012_e	-31.61491174783428	True
+rxn05516_c_num3	rxn05516_c_num3	cpd00001_c + cpd00002_c + cpd01012_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd01012_e	-31.61491174783428	True
+rxn05516_c_num4	rxn05516_c_num4	cpd00001_c + cpd00002_c + cpd01012_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd01012_e	-31.61491174783428	True
+rxn05736_c_num2	rxn05736_c_num2	cpd00002_c + cpd00010_c + cpd03847_c --> cpd00012_c + cpd00018_c + cpd00067_c + cpd01695_c	-14.991501268303182	True
+rxn05736_c_num3	rxn05736_c_num3	cpd00002_c + cpd00010_c + cpd03847_c --> cpd00012_c + cpd00018_c + cpd00067_c + cpd01695_c	-14.991501268303182	True
+rxn05910_c_num2	rxn05910_c_num2	cpd00005_c + cpd00067_c + cpd12732_c --> cpd00006_c + cpd00042_c + cpd00084_c	-3.331392812635386	True
+rxn06060_c_num2	rxn06060_c_num2	2 cpd00042_c + cpd00268_c --> cpd00067_c + cpd00081_c + cpd00111_c + cpd00239_c	-51.877578270650936	True
+rxn06060_c_num3	rxn06060_c_num3	2 cpd00042_c + cpd00268_c --> cpd00067_c + cpd00081_c + cpd00111_c + cpd00239_c	-51.877578270650936	True
+rxn06488_c_num2	rxn06488_c_num2	cpd00001_c + cpd11999_c --> cpd00067_c + cpd12503_c	135.6034900262223	True
+rxn07251_c_num2	rxn07251_c_num2	cpd00004_c + cpd00067_c + cpd00364_c --> cpd00003_c + cpd00415_c	-74.00459402208241	True
+rxn07251_c_num3	rxn07251_c_num3	cpd00004_c + cpd00067_c + cpd00364_c --> cpd00003_c + cpd00415_c	-74.00459402208241	True
+rxn08098_c_num2	rxn08098_c_num2	cpd00001_c + cpd00002_c + cpd00731_e --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00731_c	-31.61491174783428	True
+rxn08133_c_num2	rxn08133_c_num2	cpd00001_c + cpd15551_c --> cpd00033_c + 2 cpd00067_c + cpd00129_c	28.213433373249643	True
+rxn08448_c_num2	rxn08448_c_num2	cpd00002_c + cpd00010_c + cpd01107_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd03128_c	-14.990653253081746	True
+rxn08448_c_num3	rxn08448_c_num3	cpd00002_c + cpd00010_c + cpd01107_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd03128_c	-14.990653253081746	True
+rxn08449_c_num2	rxn08449_c_num2	cpd00002_c + cpd00010_c + cpd01741_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd01260_c	-14.990885869649446	True
+rxn08449_c_num3	rxn08449_c_num3	cpd00002_c + cpd00010_c + cpd01741_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd01260_c	-14.990885869649446	True
+rxn08450_c_num2	rxn08450_c_num2	cpd00002_c + cpd00010_c + cpd03847_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd01695_c	-14.991501268303182	True
+rxn08450_c_num3	rxn08450_c_num3	cpd00002_c + cpd00010_c + cpd03847_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd01695_c	-14.991501268303182	True
+rxn08452_c_num2	rxn08452_c_num2	cpd00002_c + cpd00010_c + cpd00214_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd00134_c	-15.09361786523823	True
+rxn08452_c_num3	rxn08452_c_num3	cpd00002_c + cpd00010_c + cpd00214_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd00134_c	-15.09361786523823	True
+rxn08454_c_num2	rxn08454_c_num2	cpd00002_c + cpd00010_c + cpd01080_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd00327_c	-14.991501268303182	True
+rxn08454_c_num3	rxn08454_c_num3	cpd00002_c + cpd00010_c + cpd01080_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd00327_c	-14.991501268303182	True
+rxn08456_c_num2	rxn08456_c_num2	cpd00002_c + cpd00010_c + cpd01113_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd03124_c	-14.989687759313483	True
+rxn08456_c_num3	rxn08456_c_num3	cpd00002_c + cpd00010_c + cpd01113_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd03124_c	-14.989687759313483	True
+rxn08457_c_num2	rxn08457_c_num2	cpd00002_c + cpd00010_c + cpd03846_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd01335_c	-14.9889852366814	True
+rxn08457_c_num3	rxn08457_c_num3	cpd00002_c + cpd00010_c + cpd03846_e --> cpd00012_c + cpd00018_c + cpd00067_e + cpd01335_c	-14.9889852366814	True
+rxn08669_c_num2	rxn08669_c_num2	cpd00001_c + cpd02090_c --> cpd00067_c + cpd00080_c + cpd00100_c	-265.9568601013684	True
+rxn08793_c_num2	rxn08793_c_num2	cpd00159_c + cpd15500_c --> cpd00020_c + cpd15499_c	-0.2307276172913361	True
+rxn08796_c_num2	rxn08796_c_num2	cpd00001_c + cpd15325_c --> cpd00067_c + cpd00080_c + cpd01741_c	-28.985356891392826	True
+rxn08797_c_num2	rxn08797_c_num2	cpd00001_c + cpd15331_c --> cpd00067_c + cpd00080_c + cpd03847_c	-28.98474149273835	True
+rxn08801_c_num2	rxn08801_c_num2	cpd00001_c + cpd15329_c --> cpd00067_c + cpd00080_c + cpd01080_c	-28.98474149273838	True
+rxn09296_c_num2	rxn09296_c_num2	cpd00025_c + cpd11421_c --> 2 cpd00001_c + cpd11420_c	-314.0705217959004	True
+rxn09449_c_num2	rxn09449_c_num2	cpd00002_c + cpd00010_c + cpd01080_c --> cpd00012_c + cpd00018_c + cpd00067_c + cpd00327_c	-14.991501268303182	True
+rxn09449_c_num3	rxn09449_c_num3	cpd00002_c + cpd00010_c + cpd01080_c --> cpd00012_c + cpd00018_c + cpd00067_c + cpd00327_c	-14.991501268303182	True
+rxn10343_c_num2	rxn10343_c_num2	cpd00001_c + cpd00002_c + cpd00531_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00531_e	-31.61491174783428	True
+rxn10343_c_num3	rxn10343_c_num3	cpd00001_c + cpd00002_c + cpd00531_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00531_e	-31.61491174783428	True
+rxn10343_c_num4	rxn10343_c_num4	cpd00001_c + cpd00002_c + cpd00531_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd00531_e	-31.61491174783428	True
+rxn10344_c_num2	rxn10344_c_num2	cpd00001_c + cpd00002_c + cpd04097_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd04097_e	-31.61491174783428	True
+rxn10344_c_num3	rxn10344_c_num3	cpd00001_c + cpd00002_c + cpd04097_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd04097_e	-31.61491174783428	True
+rxn10344_c_num4	rxn10344_c_num4	cpd00001_c + cpd00002_c + cpd04097_c --> cpd00008_c + cpd00009_c + cpd00067_c + cpd04097_e	-31.61491174783428	True
+rxn10770_c_num2	rxn10770_c_num2	cpd00003_c + cpd00098_c --> cpd00004_c + cpd00067_c + cpd00447_c	12.651629492431482	True
+rxn11156_c_num2	rxn11156_c_num2	cpd00004_c + cpd00067_c + cpd11451_c --> cpd00003_c + cpd12783_c	-33.17016421563798	True
+rxn11571_c_num2	rxn11571_c_num2	3 cpd00001_c + 3 cpd00006_c + cpd01078_c --> 3 cpd00005_c + 4 cpd00067_c + cpd03387_c	-202.53897850916889	True
+rxn11809_c_num2	rxn11809_c_num2	cpd00004_c + cpd00067_c + cpd04806_c --> cpd00003_c + cpd16365_c	47.80677495981468	True
+rxn11834_c_num2	rxn11834_c_num2	cpd00003_c + cpd16395_c --> cpd00004_c + cpd00067_c + cpd16396_c	15.65702005941315	True
+rxn11838_c_num2	rxn11838_c_num2	cpd00003_c + cpd16401_c --> cpd00004_c + cpd00067_c + cpd16402_c	-50.354395938858026	True
+rxn11944_c_num2	rxn11944_c_num2	cpd00017_c + cpd02555_c --> cpd00019_c + cpd00067_c + cpd02738_c	35.366538169405885	True
+rxn12633_c_num2	rxn12633_c_num2	cpd00001_c + cpd11593_c --> cpd00035_c + cpd00041_c	-4.425339217080648	True
+rxn12633_c_num3	rxn12633_c_num3	cpd00001_c + cpd11593_c --> cpd00035_c + cpd00041_c	-4.425339217080648	True
+rxn12633_c_num4	rxn12633_c_num4	cpd00001_c + cpd11593_c --> cpd00035_c + cpd00041_c	-4.425339217080648	True
+rxn12633_c_num5	rxn12633_c_num5	cpd00001_c + cpd11593_c --> cpd00035_c + cpd00041_c	-4.425339217080648	True
+rxn12633_c_num6	rxn12633_c_num6	cpd00001_c + cpd11593_c --> cpd00035_c + cpd00041_c	-4.425339217080648	True
+rxn12635_c_num2	rxn12635_c_num2	cpd00001_c + cpd11591_c --> cpd00033_c + cpd00060_c	1.7793937315762491	True
+rxn12635_c_num3	rxn12635_c_num3	cpd00001_c + cpd11591_c --> cpd00033_c + cpd00060_c	1.7793937315762491	True
+rxn12635_c_num4	rxn12635_c_num4	cpd00001_c + cpd11591_c --> cpd00033_c + cpd00060_c	1.7793937315762491	True
+rxn12635_c_num5	rxn12635_c_num5	cpd00001_c + cpd11591_c --> cpd00033_c + cpd00060_c	1.7793937315762491	True
+rxn12635_c_num6	rxn12635_c_num6	cpd00001_c + cpd11591_c --> cpd00033_c + cpd00060_c	1.7793937315762491	True
+rxn12637_c_num2	rxn12637_c_num2	cpd00001_c + cpd11589_c --> cpd00033_c + cpd00041_c	-5.8734658128788055	True
+rxn12637_c_num3	rxn12637_c_num3	cpd00001_c + cpd11589_c --> cpd00033_c + cpd00041_c	-5.8734658128788055	True
+rxn12637_c_num4	rxn12637_c_num4	cpd00001_c + cpd11589_c --> cpd00033_c + cpd00041_c	-5.8734658128788055	True
+rxn12637_c_num5	rxn12637_c_num5	cpd00001_c + cpd11589_c --> cpd00033_c + cpd00041_c	-5.8734658128788055	True
+rxn12637_c_num6	rxn12637_c_num6	cpd00001_c + cpd11589_c --> cpd00033_c + cpd00041_c	-5.8734658128788055	True
+rxn12639_c_num2	rxn12639_c_num2	cpd00001_c + cpd11587_c --> cpd00035_c + cpd00053_c	-5.472217291980144	True
+rxn12639_c_num3	rxn12639_c_num3	cpd00001_c + cpd11587_c --> cpd00035_c + cpd00053_c	-5.472217291980144	True
+rxn12639_c_num4	rxn12639_c_num4	cpd00001_c + cpd11587_c --> cpd00035_c + cpd00053_c	-5.472217291980144	True
+rxn12639_c_num5	rxn12639_c_num5	cpd00001_c + cpd11587_c --> cpd00035_c + cpd00053_c	-5.472217291980144	True
+rxn12639_c_num6	rxn12639_c_num6	cpd00001_c + cpd11587_c --> cpd00035_c + cpd00053_c	-5.472217291980144	True
+rxn12641_c_num2	rxn12641_c_num2	cpd00001_c + cpd11585_c --> cpd00033_c + cpd00035_c	-3.252087654601212	True
+rxn12641_c_num3	rxn12641_c_num3	cpd00001_c + cpd11585_c --> cpd00033_c + cpd00035_c	-3.252087654601212	True
+rxn12641_c_num4	rxn12641_c_num4	cpd00001_c + cpd11585_c --> cpd00033_c + cpd00035_c	-3.252087654601212	True
+rxn12641_c_num5	rxn12641_c_num5	cpd00001_c + cpd11585_c --> cpd00033_c + cpd00035_c	-3.252087654601212	True
+rxn12641_c_num6	rxn12641_c_num6	cpd00001_c + cpd11585_c --> cpd00033_c + cpd00035_c	-3.252087654601212	True
+rxn12642_c_num2	rxn12642_c_num2	cpd00001_c + cpd11584_c --> cpd00035_c + cpd00119_c	5.708571816951832	True
+rxn12642_c_num3	rxn12642_c_num3	cpd00001_c + cpd11584_c --> cpd00035_c + cpd00119_c	5.708571816951832	True
+rxn12642_c_num4	rxn12642_c_num4	cpd00001_c + cpd11584_c --> cpd00035_c + cpd00119_c	5.708571816951832	True
+rxn12642_c_num5	rxn12642_c_num5	cpd00001_c + cpd11584_c --> cpd00035_c + cpd00119_c	5.708571816951832	True
+rxn12642_c_num6	rxn12642_c_num6	cpd00001_c + cpd11584_c --> cpd00035_c + cpd00119_c	5.708571816951832	True
+rxn12643_c_num2	rxn12643_c_num2	cpd00001_c + cpd11583_c --> cpd00035_c + cpd00107_c	-6.160696442226083	True
+rxn12643_c_num3	rxn12643_c_num3	cpd00001_c + cpd11583_c --> cpd00035_c + cpd00107_c	-6.160696442226083	True
+rxn12643_c_num4	rxn12643_c_num4	cpd00001_c + cpd11583_c --> cpd00035_c + cpd00107_c	-6.160696442226083	True
+rxn12643_c_num5	rxn12643_c_num5	cpd00001_c + cpd11583_c --> cpd00035_c + cpd00107_c	-6.160696442226083	True
+rxn12643_c_num6	rxn12643_c_num6	cpd00001_c + cpd11583_c --> cpd00035_c + cpd00107_c	-6.160696442226083	True
+rxn12646_c_num2	rxn12646_c_num2	cpd00001_c + cpd11580_c --> cpd00033_c + cpd00053_c	-6.976003036905524	True
+rxn12646_c_num3	rxn12646_c_num3	cpd00001_c + cpd11580_c --> cpd00033_c + cpd00053_c	-6.976003036905524	True
+rxn12646_c_num4	rxn12646_c_num4	cpd00001_c + cpd11580_c --> cpd00033_c + cpd00053_c	-6.976003036905524	True
+rxn12646_c_num5	rxn12646_c_num5	cpd00001_c + cpd11580_c --> cpd00033_c + cpd00053_c	-6.976003036905524	True
+rxn12646_c_num6	rxn12646_c_num6	cpd00001_c + cpd11580_c --> cpd00033_c + cpd00053_c	-6.976003036905524	True
+rxn12844_c_num2	rxn12844_c_num2	cpd00001_c + cpd15603_c --> cpd00033_c + cpd00084_c	8.264500317431327	True
+rxn12844_c_num3	rxn12844_c_num3	cpd00001_c + cpd15603_c --> cpd00033_c + cpd00084_c	8.264500317431327	True
+rxn12844_c_num4	rxn12844_c_num4	cpd00001_c + cpd15603_c --> cpd00033_c + cpd00084_c	8.264500317431327	True
+rxn12844_c_num5	rxn12844_c_num5	cpd00001_c + cpd15603_c --> cpd00033_c + cpd00084_c	8.264500317431327	True
+rxn12844_c_num6	rxn12844_c_num6	cpd00001_c + cpd15603_c --> cpd00033_c + cpd00084_c	8.264500317431327	True
+rxn12845_c_num2	rxn12845_c_num2	cpd00001_c + cpd15604_c --> cpd00033_c + cpd00107_c	-7.664560354319178	True
+rxn12845_c_num3	rxn12845_c_num3	cpd00001_c + cpd15604_c --> cpd00033_c + cpd00107_c	-7.664560354319178	True
+rxn12845_c_num4	rxn12845_c_num4	cpd00001_c + cpd15604_c --> cpd00033_c + cpd00107_c	-7.664560354319178	True
+rxn12845_c_num5	rxn12845_c_num5	cpd00001_c + cpd15604_c --> cpd00033_c + cpd00107_c	-7.664560354319178	True
+rxn12845_c_num6	rxn12845_c_num6	cpd00001_c + cpd15604_c --> cpd00033_c + cpd00107_c	-7.664560354319178	True
+rxn12846_c_num2	rxn12846_c_num2	cpd00001_c + cpd15605_c --> cpd00033_c + cpd00066_c	5.932596901041194	True
+rxn12846_c_num3	rxn12846_c_num3	cpd00001_c + cpd15605_c --> cpd00033_c + cpd00066_c	5.932596901041194	True
+rxn12846_c_num4	rxn12846_c_num4	cpd00001_c + cpd15605_c --> cpd00033_c + cpd00066_c	5.932596901041194	True
+rxn12846_c_num5	rxn12846_c_num5	cpd00001_c + cpd15605_c --> cpd00033_c + cpd00066_c	5.932596901041194	True
+rxn12846_c_num6	rxn12846_c_num6	cpd00001_c + cpd15605_c --> cpd00033_c + cpd00066_c	5.932596901041194	True
+rxn12847_c_num2	rxn12847_c_num2	cpd00001_c + cpd15606_c --> cpd00033_c + cpd00069_c	48.52254522269749	True
+rxn12847_c_num3	rxn12847_c_num3	cpd00001_c + cpd15606_c --> cpd00033_c + cpd00069_c	48.52254522269749	True
+rxn12847_c_num4	rxn12847_c_num4	cpd00001_c + cpd15606_c --> cpd00033_c + cpd00069_c	48.52254522269749	True
+rxn12847_c_num5	rxn12847_c_num5	cpd00001_c + cpd15606_c --> cpd00033_c + cpd00069_c	48.52254522269749	True
+rxn12847_c_num6	rxn12847_c_num6	cpd00001_c + cpd15606_c --> cpd00033_c + cpd00069_c	48.52254522269749	True
+rxn14054_c_num2	rxn14054_c_num2	cpd00003_c + cpd04015_c --> cpd00004_c + cpd00067_c + cpd04017_c	15.65729642397281	True
+rxn14089_c_num2	rxn14089_c_num2	cpd00003_c + cpd04016_c --> cpd00004_c + cpd00067_c + cpd15064_c	15.65729642397281	True
+rxn16206_c_num2	rxn16206_c_num2	cpd02738_c + cpd03397_c --> cpd02555_c + cpd03163_c	0.0266374166685636	True
+rxn16206_c_num3	rxn16206_c_num3	cpd02738_c + cpd03397_c --> cpd02555_c + cpd03163_c	0.0266374166685636	True
+rxn16213_c_num2	rxn16213_c_num2	2 cpd00005_c + 3 cpd00067_c + cpd20163_c --> 2 cpd00001_c + 2 cpd00006_c + cpd03401_c	149.22226325223386	True
+rxn16596_c_num2	rxn16596_c_num2	cpd00006_c + cpd00792_c --> cpd00005_c + 2 cpd00067_c + cpd00649_c	-0.130794251092766	True
+rxn16673_c_num2	rxn16673_c_num2	cpd00001_c + cpd21206_c --> cpd00012_c + 2 cpd00067_c + cpd21207_c	-54.38462578636586	True
+rxn16798_c_num2	rxn16798_c_num2	cpd00003_c + cpd21131_c --> cpd00004_c + cpd00067_c + cpd21484_c	-6.099682232826808	True
+rxn16798_c_num3	rxn16798_c_num3	cpd00003_c + cpd21131_c --> cpd00004_c + cpd00067_c + cpd21484_c	-6.099682232826808	True
+rxnfad1_c_num2	rxnfad1_c_num2	cpd00004_c + cpd00015_c + cpd00067_c --> cpd00003_c + cpd00982_c	-11.501263524857675	True
+rxnfad2_c_num2	rxnfad2_c_num2	cpd00005_c + cpd00015_c + cpd00067_c --> cpd00006_c + cpd00982_c	-11.378819891779813	True
+rxnfad3_c_num2	rxnfad3_c_num2	cpd00007_c + cpd00982_c --> cpd00015_c + cpd00025_c	-115.910758792256	True
+rxnfmn_c_num2	rxnfmn_c_num2	cpd00007_c + cpd01270_c --> cpd00025_c + cpd00050_c	-113.2354849884997	True
+rxnmqDlac_c_num2	rxnmqDlac_c_num2	cpd00221_c + cpd15500_c --> cpd00020_c + cpd15499_c	-3.3080532655739034	True
+rxnmqfadh2_c_num2	rxnmqfadh2_c_num2	cpd00982_c + cpd15500_c --> cpd00015_c + cpd15499_c	-10.479169455541182	True
+rxn00105_c_reverse_num2	rxn00105_c_reverse_num2	cpd00003_c + cpd00012_c --> cpd00002_c + cpd00355_c	2.930798136238764	True
+rxn00119_c_reverse_num2	rxn00119_c_reverse_num2	cpd00008_c + cpd00014_c --> cpd00002_c + cpd00067_c + cpd00091_c	0.9308169329257224	True
+rxn00178_c_reverse_num2	rxn00178_c_reverse_num2	cpd00010_c + cpd00279_c --> 2 cpd00022_c	-24.94642271517887	True
+rxn00193_c_reverse_num2	rxn00193_c_reverse_num2	cpd00186_c --> cpd00023_c	-0.5530691490337745	True
+rxn00214_c_reverse_num2	rxn00214_c_reverse_num2	cpd00043_c --> cpd00026_c	-1.274956798254948	True
+rxn00214_c_reverse_num3	rxn00214_c_reverse_num3	cpd00043_c --> cpd00026_c	-1.274956798254948	True
+rxn00293_c_reverse_num2	rxn00293_c_reverse_num2	cpd00012_c + cpd00037_c --> cpd00062_c + cpd02611_c	6.506602885772736	True
+rxn00295_c_reverse_num2	rxn00295_c_reverse_num2	cpd00175_c --> cpd00037_c	-1.5270342928990883	True
+rxn00295_c_reverse_num3	rxn00295_c_reverse_num3	cpd00175_c --> cpd00037_c	-1.5270342928990883	True
+rxn00303_c_reverse_num2	rxn00303_c_reverse_num2	cpd00018_c + 2 cpd00067_c + cpd02740_c --> cpd00002_c + cpd00038_c	21.25734264427922	True
+rxn00360_c_reverse_num2	rxn00360_c_reverse_num2	cpd00009_c + cpd00193_c --> cpd00001_c + cpd00044_c	11.783812199994884	True
+rxn00499_c_reverse_num2	rxn00499_c_reverse_num2	cpd00004_c + cpd00020_c + cpd00067_c --> cpd00003_c + cpd00159_c	-21.749705363107665	True
+rxn00500_c_reverse_num2	rxn00500_c_reverse_num2	cpd00004_c + cpd00020_c + cpd00067_c --> cpd00003_c + cpd00221_c	-18.67237971482544	True
+rxn00500_c_reverse_num3	rxn00500_c_reverse_num3	cpd00004_c + cpd00020_c + cpd00067_c --> cpd00003_c + cpd00221_c	-18.67237971482544	True
+rxn00543_c_reverse_num2	rxn00543_c_reverse_num2	cpd00004_c + cpd00067_c + cpd00071_c --> cpd00003_c + cpd00363_c	-16.0990622836421	True
+rxn00559_c_reverse_num2	rxn00559_c_reverse_num2	cpd00072_c --> cpd00235_c	1.1962086438504684	True
+rxn00612_c_reverse_num2	rxn00612_c_reverse_num2	cpd00005_c + cpd00067_c + cpd00095_c --> cpd00006_c + cpd00080_c	-20.523810595588373	True
+rxn00650_c_reverse_num2	rxn00650_c_reverse_num2	cpd00033_c + cpd00084_c --> cpd00001_c + cpd01017_c	-8.337267658689768	True
+rxn00650_c_reverse_num3	rxn00650_c_reverse_num3	cpd00033_c + cpd00084_c --> cpd00001_c + cpd01017_c	-8.337267658689768	True
+rxn00650_c_reverse_num4	rxn00650_c_reverse_num4	cpd00033_c + cpd00084_c --> cpd00001_c + cpd01017_c	-8.337267658689768	True
+rxn00650_c_reverse_num5	rxn00650_c_reverse_num5	cpd00033_c + cpd00084_c --> cpd00001_c + cpd01017_c	-8.337267658689768	True
+rxn00650_c_reverse_num6	rxn00650_c_reverse_num6	cpd00033_c + cpd00084_c --> cpd00001_c + cpd01017_c	-8.337267658689768	True
+rxn00693_c_reverse_num2	rxn00693_c_reverse_num2	cpd00060_c + cpd00087_c --> cpd00135_c + cpd00345_c	5.120604874349283	True
+rxn00741_c_reverse_num2	rxn00741_c_reverse_num2	cpd00004_c + cpd00067_c + cpd00094_c --> cpd00003_c + cpd03561_c	-10.531922202969495	True
+rxn00874_c_reverse_num2	rxn00874_c_reverse_num2	cpd00010_c + cpd03123_c --> cpd00022_c + cpd00120_c	-30.49316032459933	True
+rxn00879_c_reverse_num2	rxn00879_c_reverse_num2	cpd00004_c + cpd00067_c + cpd00524_c --> cpd00003_c + cpd00121_c	7.538584345791037	True
+rxn00879_c_reverse_num3	rxn00879_c_reverse_num3	cpd00004_c + cpd00067_c + cpd00524_c --> cpd00003_c + cpd00121_c	7.538584345791037	True
+rxn00879_c_reverse_num4	rxn00879_c_reverse_num4	cpd00004_c + cpd00067_c + cpd00524_c --> cpd00003_c + cpd00121_c	7.538584345791037	True
+rxn00927_c_reverse_num2	rxn00927_c_reverse_num2	cpd00105_c + cpd00128_c --> cpd00001_c + cpd00182_c	6.018877346794795	True
+rxn01226_c_reverse_num2	rxn01226_c_reverse_num2	cpd00105_c + cpd00207_c --> cpd00001_c + cpd00311_c	2.583646663339209	True
+rxn01299_c_reverse_num2	rxn01299_c_reverse_num2	cpd00105_c + cpd00226_c --> cpd00001_c + cpd00246_c	7.256588885893677	True
+rxn01329_c_reverse_num2	rxn01329_c_reverse_num2	cpd00485_c --> cpd00235_c	-4.433306713787658	True
+rxn01517_c_reverse_num2	rxn01517_c_reverse_num2	cpd00008_c + cpd00978_c --> cpd00002_c + cpd00067_c + cpd00299_c	-0.7854883504402324	True
+rxn01530_c_reverse_num2	rxn01530_c_reverse_num2	cpd00004_c + cpd00067_c + cpd00304_c --> cpd00003_c + cpd00365_c	-5.903137597015132	True
+rxn01539_c_reverse_num2	rxn01539_c_reverse_num2	cpd00001_c + cpd00793_c --> cpd00009_c + cpd00067_c + cpd00305_c	-75.75281989671163	True
+rxn01539_c_reverse_num3	rxn01539_c_reverse_num3	cpd00001_c + cpd00793_c --> cpd00009_c + cpd00067_c + cpd00305_c	-75.75281989671163	True
+rxn01637_c_reverse_num2	rxn01637_c_reverse_num2	cpd00023_c + cpd00918_c --> cpd00024_c + cpd00342_c	3.273035211441311	True
+rxn01987_c_reverse_num2	rxn01987_c_reverse_num2	cpd00002_c + cpd01242_c --> cpd00008_c + cpd00067_c + cpd00510_c	-9.007537737536495	True
+rxn02228_c_reverse_num2	rxn02228_c_reverse_num2	cpd00004_c + cpd00067_c + cpd00706_c --> cpd00003_c + cpd03455_c	-13.565934250805242	True
+rxn02258_c_reverse_num2	rxn02258_c_reverse_num2	cpd00036_c + cpd00743_c --> cpd00078_c + cpd01701_c	-1.2669465490785117	True
+rxn02262_c_reverse_num2	rxn02262_c_reverse_num2	cpd00008_c + cpd00067_c + cpd01912_c --> cpd00002_c + cpd00751_c	5.747366464382708	True
+rxn02418_c_reverse_num2	rxn02418_c_reverse_num2	cpd00009_c + cpd02788_c --> cpd00001_c + cpd00885_c	-10.17133711370343	True
+rxn02548_c_reverse_num2	rxn02548_c_reverse_num2	cpd00019_c + cpd00067_c + cpd01043_c --> cpd00017_c + cpd01047_c	11.516859232489708	True
+rxn03060_c_reverse_num2	rxn03060_c_reverse_num2	cpd00001_c + cpd02597_c --> cpd01501_c	2.855060373268259	True
+rxn03060_c_reverse_num3	rxn03060_c_reverse_num3	cpd00001_c + cpd02597_c --> cpd01501_c	2.855060373268259	True
+rxn03087_c_reverse_num2	rxn03087_c_reverse_num2	cpd00023_c + cpd02724_c --> cpd00024_c + cpd02698_c	0.6763822494198166	True
+rxn03108_c_reverse_num2	rxn03108_c_reverse_num2	cpd00008_c + cpd02894_c --> cpd00002_c + cpd02775_c	-3.5209895522366423	True
+rxn03282_c_reverse_num2	rxn03282_c_reverse_num2	cpd00004_c + cpd00067_c + cpd03228_c --> cpd00003_c + cpd03227_c	-15.657296423972866	True
+rxn03333_c_reverse_num2	rxn03333_c_reverse_num2	cpd00004_c + cpd00067_c + cpd03307_c --> cpd00003_c + cpd03306_c	-15.652708195859075	True
+rxn04726_c_reverse_num2	rxn04726_c_reverse_num2	cpd00004_c + cpd00067_c + cpd09793_c --> cpd00003_c + cpd09792_c	-15.657296423972731	True
+rxn04736_c_reverse_num2	rxn04736_c_reverse_num2	cpd00004_c + cpd00067_c + cpd09802_c --> cpd00003_c + cpd01859_c	-15.657296423972731	True
+rxn04908_c_reverse_num2	rxn04908_c_reverse_num2	cpd00001_c + cpd00003_c + cpd04661_c --> cpd00004_c + cpd00067_c + cpd04248_c	-47.91882777649733	True
+rxn05289_c_reverse_num2	rxn05289_c_reverse_num2	cpd00006_c + cpd11421_c --> cpd00005_c + cpd00067_c + cpd11420_c	5.112842493985895	True
+rxn06488_c_reverse_num2	rxn06488_c_reverse_num2	cpd00067_c + cpd12503_c --> cpd00001_c + cpd11999_c	-135.60349002622218	True
+rxn10770_c_reverse_num2	rxn10770_c_reverse_num2	cpd00004_c + cpd00067_c + cpd00447_c --> cpd00003_c + cpd00098_c	-12.651629492431027	True
+rxn11809_c_reverse_num2	rxn11809_c_reverse_num2	cpd00003_c + cpd16365_c --> cpd00004_c + cpd00067_c + cpd04806_c	-47.80677495981468	True
+rxn11834_c_reverse_num2	rxn11834_c_reverse_num2	cpd00004_c + cpd00067_c + cpd16396_c --> cpd00003_c + cpd16395_c	-15.657020059413227	True
+rxn12633_c_reverse_num2	rxn12633_c_reverse_num2	cpd00035_c + cpd00041_c --> cpd00001_c + cpd11593_c	4.425339217080591	True
+rxn12633_c_reverse_num3	rxn12633_c_reverse_num3	cpd00035_c + cpd00041_c --> cpd00001_c + cpd11593_c	4.425339217080591	True
+rxn12633_c_reverse_num4	rxn12633_c_reverse_num4	cpd00035_c + cpd00041_c --> cpd00001_c + cpd11593_c	4.425339217080591	True
+rxn12633_c_reverse_num5	rxn12633_c_reverse_num5	cpd00035_c + cpd00041_c --> cpd00001_c + cpd11593_c	4.425339217080591	True
+rxn12633_c_reverse_num6	rxn12633_c_reverse_num6	cpd00035_c + cpd00041_c --> cpd00001_c + cpd11593_c	4.425339217080591	True
+rxn12635_c_reverse_num2	rxn12635_c_reverse_num2	cpd00033_c + cpd00060_c --> cpd00001_c + cpd11591_c	-1.7793937315761923	True
+rxn12635_c_reverse_num3	rxn12635_c_reverse_num3	cpd00033_c + cpd00060_c --> cpd00001_c + cpd11591_c	-1.7793937315761923	True
+rxn12635_c_reverse_num4	rxn12635_c_reverse_num4	cpd00033_c + cpd00060_c --> cpd00001_c + cpd11591_c	-1.7793937315761923	True
+rxn12635_c_reverse_num5	rxn12635_c_reverse_num5	cpd00033_c + cpd00060_c --> cpd00001_c + cpd11591_c	-1.7793937315761923	True
+rxn12635_c_reverse_num6	rxn12635_c_reverse_num6	cpd00033_c + cpd00060_c --> cpd00001_c + cpd11591_c	-1.7793937315761923	True
+rxn12637_c_reverse_num2	rxn12637_c_reverse_num2	cpd00033_c + cpd00041_c --> cpd00001_c + cpd11589_c	5.873465812878976	True
+rxn12637_c_reverse_num3	rxn12637_c_reverse_num3	cpd00033_c + cpd00041_c --> cpd00001_c + cpd11589_c	5.873465812878976	True
+rxn12637_c_reverse_num4	rxn12637_c_reverse_num4	cpd00033_c + cpd00041_c --> cpd00001_c + cpd11589_c	5.873465812878976	True
+rxn12637_c_reverse_num5	rxn12637_c_reverse_num5	cpd00033_c + cpd00041_c --> cpd00001_c + cpd11589_c	5.873465812878976	True
+rxn12637_c_reverse_num6	rxn12637_c_reverse_num6	cpd00033_c + cpd00041_c --> cpd00001_c + cpd11589_c	5.873465812878976	True
+rxn12639_c_reverse_num2	rxn12639_c_reverse_num2	cpd00035_c + cpd00053_c --> cpd00001_c + cpd11587_c	5.472217291980201	True
+rxn12639_c_reverse_num3	rxn12639_c_reverse_num3	cpd00035_c + cpd00053_c --> cpd00001_c + cpd11587_c	5.472217291980201	True
+rxn12639_c_reverse_num4	rxn12639_c_reverse_num4	cpd00035_c + cpd00053_c --> cpd00001_c + cpd11587_c	5.472217291980201	True
+rxn12639_c_reverse_num5	rxn12639_c_reverse_num5	cpd00035_c + cpd00053_c --> cpd00001_c + cpd11587_c	5.472217291980201	True
+rxn12639_c_reverse_num6	rxn12639_c_reverse_num6	cpd00035_c + cpd00053_c --> cpd00001_c + cpd11587_c	5.472217291980201	True
+rxn12641_c_reverse_num2	rxn12641_c_reverse_num2	cpd00033_c + cpd00035_c --> cpd00001_c + cpd11585_c	3.252087654601098	True
+rxn12641_c_reverse_num3	rxn12641_c_reverse_num3	cpd00033_c + cpd00035_c --> cpd00001_c + cpd11585_c	3.252087654601098	True
+rxn12641_c_reverse_num4	rxn12641_c_reverse_num4	cpd00033_c + cpd00035_c --> cpd00001_c + cpd11585_c	3.252087654601098	True
+rxn12641_c_reverse_num5	rxn12641_c_reverse_num5	cpd00033_c + cpd00035_c --> cpd00001_c + cpd11585_c	3.252087654601098	True
+rxn12641_c_reverse_num6	rxn12641_c_reverse_num6	cpd00033_c + cpd00035_c --> cpd00001_c + cpd11585_c	3.252087654601098	True
+rxn12642_c_reverse_num2	rxn12642_c_reverse_num2	cpd00035_c + cpd00119_c --> cpd00001_c + cpd11584_c	-5.708571816951803	True
+rxn12642_c_reverse_num3	rxn12642_c_reverse_num3	cpd00035_c + cpd00119_c --> cpd00001_c + cpd11584_c	-5.708571816951803	True
+rxn12642_c_reverse_num4	rxn12642_c_reverse_num4	cpd00035_c + cpd00119_c --> cpd00001_c + cpd11584_c	-5.708571816951803	True
+rxn12642_c_reverse_num5	rxn12642_c_reverse_num5	cpd00035_c + cpd00119_c --> cpd00001_c + cpd11584_c	-5.708571816951803	True
+rxn12642_c_reverse_num6	rxn12642_c_reverse_num6	cpd00035_c + cpd00119_c --> cpd00001_c + cpd11584_c	-5.708571816951803	True
+rxn12646_c_reverse_num2	rxn12646_c_reverse_num2	cpd00033_c + cpd00053_c --> cpd00001_c + cpd11580_c	6.976003036905581	True
+rxn12646_c_reverse_num3	rxn12646_c_reverse_num3	cpd00033_c + cpd00053_c --> cpd00001_c + cpd11580_c	6.976003036905581	True
+rxn12646_c_reverse_num4	rxn12646_c_reverse_num4	cpd00033_c + cpd00053_c --> cpd00001_c + cpd11580_c	6.976003036905581	True
+rxn12646_c_reverse_num5	rxn12646_c_reverse_num5	cpd00033_c + cpd00053_c --> cpd00001_c + cpd11580_c	6.976003036905581	True
+rxn12646_c_reverse_num6	rxn12646_c_reverse_num6	cpd00033_c + cpd00053_c --> cpd00001_c + cpd11580_c	6.976003036905581	True
+rxn12844_c_reverse_num2	rxn12844_c_reverse_num2	cpd00033_c + cpd00084_c --> cpd00001_c + cpd15603_c	-8.264500317431214	True
+rxn12844_c_reverse_num3	rxn12844_c_reverse_num3	cpd00033_c + cpd00084_c --> cpd00001_c + cpd15603_c	-8.264500317431214	True
+rxn12844_c_reverse_num4	rxn12844_c_reverse_num4	cpd00033_c + cpd00084_c --> cpd00001_c + cpd15603_c	-8.264500317431214	True
+rxn12844_c_reverse_num5	rxn12844_c_reverse_num5	cpd00033_c + cpd00084_c --> cpd00001_c + cpd15603_c	-8.264500317431214	True
+rxn12844_c_reverse_num6	rxn12844_c_reverse_num6	cpd00033_c + cpd00084_c --> cpd00001_c + cpd15603_c	-8.264500317431214	True
+rxn12845_c_reverse_num2	rxn12845_c_reverse_num2	cpd00033_c + cpd00107_c --> cpd00001_c + cpd15604_c	7.664560354319235	True
+rxn12845_c_reverse_num3	rxn12845_c_reverse_num3	cpd00033_c + cpd00107_c --> cpd00001_c + cpd15604_c	7.664560354319235	True
+rxn12845_c_reverse_num4	rxn12845_c_reverse_num4	cpd00033_c + cpd00107_c --> cpd00001_c + cpd15604_c	7.664560354319235	True
+rxn12845_c_reverse_num5	rxn12845_c_reverse_num5	cpd00033_c + cpd00107_c --> cpd00001_c + cpd15604_c	7.664560354319235	True
+rxn12845_c_reverse_num6	rxn12845_c_reverse_num6	cpd00033_c + cpd00107_c --> cpd00001_c + cpd15604_c	7.664560354319235	True
+rxn12846_c_reverse_num2	rxn12846_c_reverse_num2	cpd00033_c + cpd00066_c --> cpd00001_c + cpd15605_c	-5.932596901041109	True
+rxn12846_c_reverse_num3	rxn12846_c_reverse_num3	cpd00033_c + cpd00066_c --> cpd00001_c + cpd15605_c	-5.932596901041109	True
+rxn12846_c_reverse_num4	rxn12846_c_reverse_num4	cpd00033_c + cpd00066_c --> cpd00001_c + cpd15605_c	-5.932596901041109	True
+rxn12846_c_reverse_num5	rxn12846_c_reverse_num5	cpd00033_c + cpd00066_c --> cpd00001_c + cpd15605_c	-5.932596901041109	True
+rxn12846_c_reverse_num6	rxn12846_c_reverse_num6	cpd00033_c + cpd00066_c --> cpd00001_c + cpd15605_c	-5.932596901041109	True
+rxn12847_c_reverse_num2	rxn12847_c_reverse_num2	cpd00033_c + cpd00069_c --> cpd00001_c + cpd15606_c	-48.52254522269743	True
+rxn12847_c_reverse_num3	rxn12847_c_reverse_num3	cpd00033_c + cpd00069_c --> cpd00001_c + cpd15606_c	-48.52254522269743	True
+rxn12847_c_reverse_num4	rxn12847_c_reverse_num4	cpd00033_c + cpd00069_c --> cpd00001_c + cpd15606_c	-48.52254522269743	True
+rxn12847_c_reverse_num5	rxn12847_c_reverse_num5	cpd00033_c + cpd00069_c --> cpd00001_c + cpd15606_c	-48.52254522269743	True
+rxn12847_c_reverse_num6	rxn12847_c_reverse_num6	cpd00033_c + cpd00069_c --> cpd00001_c + cpd15606_c	-48.52254522269743	True
+rxn14054_c_reverse_num2	rxn14054_c_reverse_num2	cpd00004_c + cpd00067_c + cpd04017_c --> cpd00003_c + cpd04015_c	-15.65729642397298	True
+rxn14089_c_reverse_num2	rxn14089_c_reverse_num2	cpd00004_c + cpd00067_c + cpd15064_c --> cpd00003_c + cpd04016_c	-15.65729642397298	True
+rxn16206_c_reverse_num2	rxn16206_c_reverse_num2	cpd02555_c + cpd03163_c --> cpd02738_c + cpd03397_c	-0.0266374166685068	True
+rxn16206_c_reverse_num3	rxn16206_c_reverse_num3	cpd02555_c + cpd03163_c --> cpd02738_c + cpd03397_c	-0.0266374166685068	True
+rxn16596_c_reverse_num2	rxn16596_c_reverse_num2	cpd00005_c + 2 cpd00067_c + cpd00649_c --> cpd00006_c + cpd00792_c	0.1307942510932207	True
+rxn16798_c_reverse_num2	rxn16798_c_reverse_num2	cpd00004_c + cpd00067_c + cpd21484_c --> cpd00003_c + cpd21131_c	6.099682232827036	True
+rxn16798_c_reverse_num3	rxn16798_c_reverse_num3	cpd00004_c + cpd00067_c + cpd21484_c --> cpd00003_c + cpd21131_c	6.099682232827036	True
+rxnmqfadh2_c_reverse_num2	rxnmqfadh2_c_reverse_num2	cpd00015_c + cpd15499_c --> cpd00982_c + cpd15500_c	10.479169455541864	True

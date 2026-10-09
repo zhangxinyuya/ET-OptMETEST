@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/zxy/ET-OptME-main/script/batch_ET_EComp.py", line 190, in run_one_product
+    raise ValueError("[SET] product_constrain 系数从0.95降至0.90仍无解")
+ValueError: [SET] product_constrain 系数从0.95降至0.90仍无解

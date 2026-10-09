@@ -1,0 +1,18 @@
+product,success,error
+EX_cpd00039_e,True,
+EX_cpd00322_e,True,
+EX_cpd00060_e,False,[SET] product_constrain 系数从0.95降至0.90仍无解
+EX_cpd00107_e,True,
+EX_cpd00156_e,True,
+EX_cpd00161_e,True,
+EX_cpd00227_e,True,
+EX_cpd00129_e,True,
+EX_cpd00051_e,True,
+EX_cpd00064_e,True,
+EX_cpd00274_e,True,
+EX_cpd00069_e,True,
+EX_cpd00065_e,True,
+EX_cpd00054_e,True,
+EX_cpd00084_e,True,
+EX_cpd00119_e,True,
+EX_cpd00066_e,True,
