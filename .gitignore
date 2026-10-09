@@ -10,3 +10,8 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .idea/
+
+/result_ET_EComp0/
+/result_ET_FSEOF0/
+/lys_irreversible.json
+/requirements_clean.txt

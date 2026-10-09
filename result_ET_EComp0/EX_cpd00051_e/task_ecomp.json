@@ -1,9 +1,0 @@
-{
-    "model": "iCZ870.json",
-    "substrate": "EX_cpd00027_e_reverse",
-    "biomass": "EX_biomass_c",
-    "product": "EX_cpd00051_e",
-    "taskname": "ET-EComp",
-    "mode": "SET",
-    "oxygenstate": "aerobic"
-}
